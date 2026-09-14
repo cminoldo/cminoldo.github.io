@@ -1,0 +1,11 @@
+<header class="bg-black">
+  <div class="mw7 center pa3">
+    <a href="/" class="f3 fw2 white no-underline">{{ .Site.Title }}</a>
+    <div id="search" class="mt3"></div>
+  </div>
+</header>
+<script>
+  window.addEventListener('DOMContentLoaded', function() {
+    new PagefindUI({ element: "#search", showSubResults: true });
+  });
+</script>
