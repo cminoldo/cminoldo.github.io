@@ -1,0 +1,41 @@
+---
+title: "Estancia de Caroya"
+date: 2000-11-30T00:00:00-03:00
+categories: ["Gran Córdoba"]
+tags: ["Estan"]
+description: "“Esto es como tener albañiles en tu casa y no ves la hora de que se vayan”, dice Rodolfo Morales, casero de la Estancia de Caroya, en relación al trabajo que se realiza sobre los techos de la casa y en la que el gobierno de la provincia invirtió 82 mil pesos. El lugar es una polvareda permanente y las escobas se cruzan de un lugar a otro. A medida que se realizan los reemplazos de las tejas, se van cambiando de lugar los muebles del museo provincial."
+---
+
+“Esto es como tener albañiles en tu casa y no ves la hora de que se vayan”, dice Rodolfo Morales, casero de la Estancia de Caroya, en relación al trabajo que se realiza sobre los techos de la casa y en la que el gobierno de la provincia invirtió 82 mil pesos. El lugar es una polvareda permanente y las escobas se cruzan de un lugar a otro. A medida que se realizan los reemplazos de las tejas, se van cambiando de lugar los muebles del museo provincial.
+
+“Esto es como tener albañiles en tu casa y no ves la hora de que se vayan”, dice Rodolfo Morales, casero de la Estancia de Caroya, en relación al trabajo que se realiza sobre los techos de la casa y en la que el gobierno de la provincia invirtió 82 mil pesos. El lugar es una polvareda permanente y las escobas se cruzan de un lugar a otro. A medida que se realizan los reemplazos de las tejas, se van cambiando de lugar los muebles del museo provincial.
+
+    “Yo soy consciente de que estoy viviendo en un lugar histórico y justo nos toca estar acá y en este momento cuando, por primera vez, algo se declara patrimonio de la humanidad”, relata emocionado Morales cuando se le consulta por su sensación después de la declaratoria del lugar como Patrimonio de la Humanidad.
+
+    Morales hace casi cuatro años que ocupa el puesto de casero y se encarga del mantenimiento de la casa y de los jardines. Vive con su esposa Gladys Martínez y sus hijos Mauricio, Matías y Martín. Además, se encarga de los trabajos de restauración de muebles y de herrería con una serie de maquinaria que logró sacarle a la directora de Patrimonio Cultural, Josefina Piana. 
+
+    Más silencioso es el testimonio de Ramón Rodríguez, que cumple 31 años de servicio en la casa el próximo enero. Junto al arqueólogo Rodolfo Herrero trabaja sobre unas piedras en la reconstrucción de unas piezas que fueron usados por los esclavos en los siglos 16 y 17.
+
+    Parece que no va agregar una palabra al testimonio de su compañero de tarea hasta que recuerda: “todo esto que se ve era monte y no había máquinas de cortar pasto ni nada que se le parezca, así que trabajábamos con guadañas y con esas máquinas manuales que se arrastraban”. “Yo casi trabajé —agrega— en todo lo que se hizo en la casa después que lo compró la provincia porque levanté cabreadas, reparé paredes, pinté. Son muchas las cosas que se pueden hacer por un lugar como éste en 30 años”.
+
+    El tercer testimonio es curioso porque en el patio central de la casa espera una mujer con una escoba en la mano y pinta de haber estado trabajando duro en las tareas de limpieza del lugar. Uno le pregunta por alguien que pueda dar información sobre el lugar y la mujer lo conduce a uno por un pasillo hasta un entrepiso de la casa. Allí, suelta la escoba y se presenta como Adriana Salvucci, técnica administrativa y guía de la Estancia de Caroya. Ante la intriga se apresura a responder: “como el museo está cerrado, algo hay que hacer y yo prefiero ayudar en lo que haga falta hasta que se terminen las obras de reparación”.
+
+    Salvucci hace trece años que trabaja en la primer fábrica de armas blancas y asegura que la declaración de la estancia en la lista de patrimonio de la UNESCO fue lo mejor que nos pudo pasar a los cordobeses. “A las tres de la mañana ya sabíamos de la declaratoria porque Josefina Piana llamó a Córdoba desde Autralia y pidió que nos avisaran cuanto antes. Yo siento una enorme alegría por lo que pasó”.
+
+Estancia de Jesús María
+
+    No cualquier monumento histórico, por más patrimonio de la humanidad que sea, tiene como casero a un juez de paz. Es el caso del cuidador del museo jesuítico nacional de Jesús María, Daniel Nóbile, quien se desempeña como juez de paz de Sinsacate y, transitoriamente, de Colonia Caroya.
+
+    Además, Nóbile trabajó durante quince años en el museo y vivió 30 años justo al frente de la Estancia porque sus padres cuidaban la residencia de una de las familias descendiente del fundador de la ciudad, Pío León.
+
+    “Imagínense –señala Nóbile- el cariño que yo siento por esta zona y, en especial, por el museo. Siempre estamos tratando de colaborar con el mantenimiento del lugar y lo hacemos con la mayor dedicación”.
+
+    Su mujer, Olga Strassorier, acompaña la alegría de su marido contando que en algún momento le sacó una foto al parque de la Estancia y se la regaló a su hermana. Su hermana, a su vez, se la mostraba a sus amigas diciéndoles que así era el parque de la casa de su familiar lo que despertaba admiración en las mujeres que desconocían el parque del museo y las risas en los que sabían la triquiñuela”.
+
+    “Hay gente que me pregunta extrañada ¿vivís en el museo? Como si fuese una casa rara pero para mí es un motivo de orgullo. A veces, veo la televisión cuando pasan algo relacionado al museo y me emociono y eso que vivo acá.Cómo será el afecto que tengo por el lugar”, señala Strassorier.
+
+    Tanto en el caso de Caroya como de Jesús María, el sentimiento de los que cuidan la casa cuando no hay funcionarios ni personal administrativo es unánime: “Es mi casa, es mi patio, es mi parque. Yo soy el dueño del museo y lo cuido como si fuera mi propia casa aunque haya gente que no lo entienda”.
+
+    En esta historia faltan personajes. La Tati, dejó este mundo después de haber cuidado la Casa de Caroya durante mucho tiempo. En su reemplazo, vino el Capo.
+
+    En Jesús María, el negro Tobías hace lo suyo para salvaguardar el flamante patrimonio de la humanidad. Son los perros que protegen las Estancias de los intrusos y que están listos al tarascón en caso de rebeldía. La única señal que dieron el Capo y el Tobías en estos días fue mover la cola con desesperación. A su manera, querían manifestar su alegría por la declaración de las Estancias como Patrimonio Universal.

@@ -1,0 +1,77 @@
+---
+title: "Una legión de fanáticos de Soledad concurrió a la capital del coraje"
+date: 1998-01-14T00:00:00-03:00
+categories: ["Varios"]
+tags: ["Sol"]
+description: "para darle otro colorido"
+---
+
+para darle otro colorido
+
+Jesús María sitiada por el folklore
+
+A las 19 de ayer el anfiteatro José Hernandez estaba cubierto por 25 mil
+personas que elevaban sus brazos en olas de entusiasmo. En las
+inmediaciones una fila de varias cuadras pugnaba por un lugar en el
+festival cuya iniciación estaba prevista para las 22.
+
+Florencia Sánchez es de Córdoba ciudad y hoy cumple 15 años, pero no
+quiso hacer fiesta. Ella pidió como regaló celebrarlo anoche en la
+primera fila escuchando y saltando con Soledad. Como su caso hay 30 mil
+ejemplos para dar respecto de la quinta jornada del Festival de Doma y
+Folklore de Jesús María. Ayer a las 18.30 el anfiteatro se retrataba
+totalmente cubierto. En sus graderías se respiraba un clima de sana
+locura y se palpaba que por la noche, a partir de las 22.30 el festival
+mostraría el aspecto de un agradable infierno sacudido por la música de
+raíz criolla.
+
+Es que la presencia de la cantante santafecina convirtió a Jesús María
+en la Ciudad de Soledad. A las 19 todo indicaba que nadie podría
+encontrar un lugar cómodo. Y aún esperaban cinco cuadras de cola
+pugnando por un lugar en la catedral del coraje y el fogón peñero más
+inquietante del país.
+
+En el juego de las comparaciones, y teniendo en cuenta la víspera, El
+Festival de Jesús María nos recordaba a los primeros años del encuentro
+rockero de La Falda, una suerte de humilde Wodstock criollo, con
+peregrinos de todos los sitios de Argentina que llegaban para cumplir la
+promesa con la niña santa del folklore nacional. Giselda tiene ocho
+años, con timidez y ataviada con el look Soledad nos dijo que viene de
+la localidad de El Manzano. “Aquí cerquita”. Ella tiene tantos días de
+vida como discos ha vendido Soledad de su segundo registro “La Sole”,
+alrededor de 35 mil _que se deben agregar a las 450 mil de su primer
+opus. Ninguna cifra alrededor de Soledad debe parecer exagerada. En los
+kioscos aledaños al anfiteatro, se venden casetes truchos por $4; y la
+oferta incluye un poster de la cantante.
+
+Y los números siguen llamando la atención. Si anoche se ubicaron 30 mil
+boletos a $7 pesos la popular, la taquilla debió ascender a 210 mil
+pesos en concepto de entradas. Una suma con la que se salda todo lo
+invertido en el festival en concepto de números artísticos. Santa
+Soledad, decíamos.
+
+Valor es una adolescente cordobesa de 13 años que a las 17 de ayer
+esperaba atención médica. Ella llegó a la puerta del anfiteatro a las 9
+de la mañana, y un apretujón en la fila le produjo un desmayo. En la
+cola de varias cuadras había fanáticos de toda índole y procedencia. Por
+ejemplo Anibal, una especie de Shaquille O’Neal de Las Varas. El pibe de
+16 años lucía una camiseta del equipo de basquet de la NBA, Los Angeles
+Lakers, y se presentaba como fanático de Soledad.
+
+¿Acaso no escuchan otra música, además de las versiones de la
+santanfecina? Las respuestas no varían demasiado. “Yo escucho a la Sole
+y mucho cuarteto”, respondió la mayoría. Otros procedentes de Formosa,
+como Fernando que llegó de la provincia norteña con toda su familia,
+dijo que es la primera vez que verá a la intérprete de Arequito en Jesús
+María. en cambio Hortensia, una codobesa de “60 años cumplidos”, asegura
+que no hay otra fanática como ella varias kilómetros a la redoda. Es
+probable que no sea así, pero su paciencia y fanatismo la ubicó en los
+primeros diez metros de la expectativa frente al portón de entrada.
+
+Carnaval con manguera de bomberos, sandwiches de milanesa, picadas,
+sangrías, llaveros, cartas de chin-chon y poker, cerveza transpirada,
+bolsas de pochoclos, chicas que bailan con La Barra, pero que deliran
+por Soledad, eran algunos de los millares de argentinos que a las 19.30
+dibujaban cientos de olas en el anfiteatro. Era la ola del folklore que
+ayer domó todas las expectativas y dejó a los caballos quietitos en la
+maroma.

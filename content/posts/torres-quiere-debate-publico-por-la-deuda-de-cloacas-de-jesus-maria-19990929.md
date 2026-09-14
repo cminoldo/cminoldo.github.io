@@ -1,0 +1,65 @@
+---
+title: "Torres quiere debate público por la deuda de cloacas de Jesús María"
+date: 1999-09-29T00:00:00-03:00
+categories: ["Regionales"]
+tags: ["Jesús María"]
+description: "El intendente de Jesús María, Lucas Torres, hizo manifiesta su intención de convocar a un debate público al anterior jefe comunal, Hector Picat, y al futuro intendente de la ciudad, Jorge Colombo, para discutir los aspectos atinentes a la realización de la obra de cloacas y sobre el porqué de la deuda que hoy mantiene el municipio."
+---
+
+El intendente de Jesús María, Lucas Torres, hizo manifiesta su intención de convocar a un debate público al anterior jefe comunal, Hector Picat, y al futuro intendente de la ciudad, Jorge Colombo, para discutir los aspectos atinentes a la realización de la obra de cloacas y sobre el porqué de la deuda que hoy mantiene el municipio.
+
+El intendente de Jesús María, Lucas Torres, hizo manifiesta su intención de convocar a un debate público al anterior jefe comunal, Hector Picat, y al futuro intendente de la ciudad, Jorge Colombo, para discutir los aspectos atinentes a la realización de la obra de cloacas y sobre el porqué de la deuda que hoy mantiene el municipio.
+
+    Torres dejó entrever, además, que las empresas de Picat se vieron beneficiadas en una cifra cercana a los 200 mil pesos en concepto de remoción de suelo y acusó a Colombo de hacer caso omiso de esa situación cuando "él era el presidente del Concejo Deliberante".
+
+    El actual jefe de gobierno defendió, asimismo, la posibilidad de contratar al gestor, Eduardo Dalasta, para obtener ante la Subsecretaría de vivienda (ex Svoa) una quita de la deuda que se eleva al 31 de julio de este año a 8 millones de pesos.
+
+    Para Torres, la razón de esta gestoría se fundamenta en la carta que se envía desde el programa de Desarrollo Urbano en respuesta a la solicitud de refinanciamiento:"resulta imposible realizar condonaciones de la deuda, ya que la misma está registrada por valores consolidados, sin atender a la fuente de financiamiento que originó cada desembolso, y, de su recuperación, dependen las obligaciones contractuales mencionadas".
+
+    El problema, planteado ya ante el cuerpo de ediles, es que por otras deudas el municipio no recibe coparticipación impositiva con lo que mal podría hacer frente al pago de la deuda más onerosa que tiene la ciudad y, tal como lo plantea el actual ejecutivo, la reducción de la deuda aunque se paguen los altos honorarios de un gestor, beneficiaría a la ciudad.
+
+Una obra que nació mal
+
+    Las gestiones y los contratos para ejecutar la mayor parte de la obra de cloacas en Jesús María fueron licitadas por la administración del radical Picat, según Torres, "sin proyecto de ejecución y sin estudio de suelos para evaluar la posibilidad de eventuales gastos extras en marzo del 89".
+
+    La red cloacal, cuya adjudicataria fue la empresa Giacomo Fazzio S.A, se financiaría con fondos del Svoa, el programa de desarrollo urbano del Banco Interamericano de Desarrollo (Bid) y fondos provenientes del Fonavi, de la órbita provincial.
+
+    Cabe recordar que la obra estuvo paralizada desde enero de 1993 hasta casi fines de 1994 cuando se encontraba en un 90% de ejecución porque la provincia se negó, durante la gobernación de Eduardo Angeloz, a enviar los fondos que debía para cumplir con la regularización prevista en el convenio firmado con la empresa ejecutora del proyecto.
+
+    No obstante, la paralización de la obra no impidió la actualización de deuda con los intereses correspondientes y el municipio soportó un juicio en contra de Torres por dolo en el reconocimiento de distorsión de precios por la obra de referencia, por la cifra de 873 mil pesos.
+
+    Finalmente la justicia interpretó que hubo impericia y no malicia por parte del jefe comunal pero ello le significó al municipio una paralización de casi dos años en una obra cuya habilitación era urgente.
+
+    Además, al no existir proyecto, los caños que se utilizaron fueron de fibrocemento en lugar del PVC que aprobaba Iram ya en ese entonces y no contaba la ejecución con una obra de recupero por lo que, estiman los especialistas, la obra podría resistir unos veinte años más, al cabo de los cuales habría que proceder a la reparación o al cambio de las colectoras.
+
+¿Cuánto costaron las cloacas?
+
+    Del monto general total de la obra el 37,5 por ciento correspondió a la ejecución de Colectoras generales y lagunas de estabilización, mientras que el 62,5 por ciento restante se destinó a la red de colectoras y conexiones domiciliarias.
+
+    El precio de las colectoras generales y lagunas de estabilización fue de 2.813.215 pesos, mientras que el costo de la red de colectoras y conexiones domiciliarias fue de 4.688.692 pesos. Allí se determinó que una unidad de vivienda sería aquella que tenga hasta 250 metros cuadrados  y pagaría por el primer concepto 238 pesos y 509 pesos por el segundo item.
+
+    La obra se habilitó recien a fines de 1996 y las primeras cuotas se pagaron a principios de 1997, con una estimación del municipio de que recien en este año el 70% de los pobladores estarían conectados a la red cloacal. Ello imposibilitó que el municipio recaudara más de 90 mil pesos bimestrales.
+
+    Un informe de mayo de 1998, que lleva la firma del jefe de recursos tributarios, Rolando Laplagne, establece que la incobrabilidad de la obra se estima en dos millones 300 mil pesos, por lo que el recupero real de la obra rondaría casi los cuatro millones de pesos. 
+
+    El tema es saber de dónde sacará los recursos un municipio que tiene retenida su coparticipación y que está sujeta al embargo de sus cuentas bancarias sino cumple con las obligaciones que contrajo con distintos organismos.
+
+Lucas Torres defendió su gestión y dijo que no le teme a la justicia
+
+"Colombo busca un culpable para atajarse por si hace una mala gestión"
+
+En respuesta a la nota publicada por la Voz del Interior el sábado 18 de setiembre pasado, Lucas Torres manifestó lo siguiente:
+
+    "Yo recibí el municipio casi en las mismas condiciones en que la dejo. Goberné durante ocho años y pude ejecutar proyectos. Él (por Colombo) no me puede decir que no sabe que va a hacer porque es contador y de estas cosas sabe. La impresión que me deja es que se está atajando por si hace las cosas mal para tener algún responsable".
+
+    "Colombo es contador. Yo que soy médico se que, si quiero saber el estado patrimonial del Municipio, debo requerir determinada documentación que está a disposición de cualquiera por ser pública. No obstante está en marcha la auditoría requerida a la Universidad Nacional de Córdoba".
+
+    "En lugar de ahorrar unos pesitos en salarios hay que seguir apuntando a mejorar la eficiencia siempre optimizable del trabajo del personal y los Concejales".
+
+    "Colombo dice que va a ahorrar en sueldos de empleados, Concejales y gastos de representación. Sobre esto último le digo que no va a poder porque están abolidos desde 1994".
+
+    "Para estar al frente de un gobierno hay que conocer y querer a las personas y a la ciudad y así poder alentar el desarrollo armónico, coherente, con planificación estratégica y mejor gerenciamiento, buscando un sustento económico cada vez mayor para la comunidad".
+
+    "Para que la ciudad avance, los pasos del intendente deben ser firmes y hacia delantes, no hacia el costado".
+
+    "Si me equivoqué, no tengo miedo de ir a la justicia que creo que es a donde hay que llevar este debate. A cualquiera le cansa que lo traten de delincuente sin pruebas".

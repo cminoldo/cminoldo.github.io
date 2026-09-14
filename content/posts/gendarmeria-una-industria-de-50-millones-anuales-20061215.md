@@ -1,0 +1,90 @@
+---
+title: "Gendarmería, una industria de 50 millones anuales"
+date: 2006-12-15T00:00:00-03:00
+categories: ["Gran Córdoba"]
+tags: ["Jesús María"]
+description: "Jesús María. Además de un parque industrial fuerte -compuesto de una fábrica de motores, una fábrica de jabones, un enorme frigorífico, y la división chocolates de Arcor- Jesús María cuenta con otra industria sin humo, una industria “verde” que le representa ingresos por más de 50 millones de pesos anuales."
+---
+
+Jesús María. Además de un parque industrial fuerte -compuesto de una fábrica de motores, una fábrica de jabones, un enorme frigorífico, y la división chocolates de Arcor- Jesús María cuenta con otra industria sin humo, una industria “verde” que le representa ingresos por más de 50 millones de pesos anuales.
+
+Jesús María. Además de un parque industrial fuerte -compuesto de una fábrica de motores, una fábrica de jabones, un enorme frigorífico, y la división chocolates de Arcor- Jesús María cuenta con otra industria sin humo, una industria “verde” que le representa ingresos por más de 50 millones de pesos anuales.
+
+    Se trata de la escuela de Suboficiales de Gendarmería Nacional por la que van rotando entre tres y cinco mil hombres cada año, dependiendo de los requerimientos de formación que exija el Estado nacional. Los salarios de esos hombres se traducen en alquileres, vestimenta, alimentos, remedios, y esparcimiento, entre otros ítems, que benefician desde el comercio hasta el matrimonio de jubilados que alquila la “piecita” para que el aspirante a gendarme pase el fin de semana.
+
+    Este crecimiento no fue producto de la casualidad sino de las negociaciones y de los objetivos que trazaron quienes antecedieron a las actuales autoridades de la escuela. Ellos lograron convencer a los municipios de Jesús María y Colonia Caroya y a la Cooperativa de Servicios Públicos para que invirtieran 2,5 millones de pesos en nuevos escuadrones y otras ampliaciones que permiten albergar mayor cantidad de hombres.
+
+    Después vino la decisión del gobierno nacional de incorporar tres mil gendarmes más por año hasta llegar a la cifra de diez mil hombres, proceso que todavía no está concluido y al que se sumó la formación de cuadros femeninos desde este año.
+
+Las cifras concretas
+
+    Un informe elaborado por Gendarmería por pedido de este diario, consigna que solamente en concepto de sueldos se destinan 42,8 millones de pesos, cifra en la que se contabilizan el personal fijo de la escuela de Suboficiales, el personal del Móvil 3 de Gendarmería, y las asignaciones que reciben los retirados y las pensionadas de la fuerza. Están incluidos allí los sueldos de los 150 docentes que trabajan en el instituto de formación y que pertenecen casi en su totalidad a Jesús María y Colonia Caroya.
+
+    Además, la escuela llama a licitación nacional dos veces al año para proveerse de las raciones que precisan para alimentar a los gendarmes que estudian de lunes a viernes. Se destinan cuatro millones de pesos en ese concepto y los proveedores, hasta el momento, han sido siempre de la zona.
+
+    Para ejemplificar la dimensión de este ítem, vale mencionar, por ejemplo, que la panadería que provee a la escuela elabora en forma diaria 350 kilos de pan.
+
+    Otros de los rubros que generan mayor ingreso de dinero a la zona son las asignaciones por casamiento y las compensaciones por cambio de destino que generan un promedio de ingresos de 1,75 millón de pesos anuales.
+
+Lo intangible
+
+    La presencia de Gendarmería Nacional en Jesús María tiene también su correlato en el crecimiento de la construcción que ha sido explosiva desde 2002 en adelante. Incluso el centro comercial ha experimentado mejoras edilicias al multiplicar sus posibilidades de venta.
+
+Y tiene también sus implicancias sociales porque se estima que el
+segmento poblacional relacionado directamente con Gendarmería alcanza
+los 10 mil habitantes, si se contabilizan no solo a los miembros activos
+sino a sus familiares directos e indirectos, el personal retirado y las
+pensionadas. Esta proporción equivale casi a un 30 por ciento del total
+de la población de Jesús María.
+
+El crecimiento de la escuela significó también para los barrios aledaños
+mejor provisión de servicios (cloacas, gas natural, mejoras en la red de
+agua) y obras de infraestructura como iluminación, pasos peatonales, y
+baños en la zona céntrica. También se incrementaron los servicios
+financieros con la instalación de más cajeros automáticos y hasta la
+inauguración de un nuevo Banco Privado.
+
+Todo eso sin contar los servicios gratuitos que presta en eventos
+masivos como el Festival de Doma y Folklore –habrá 40 hombres afectados
+al operativo de seguridad- o su intervención en casos de emergencia como
+cuando este año ayudaron a distribuir agua potable cuando el agua se
+contaminó con la bacteria pseudomona.
+
+Esa es la industria “verde” de Jesús María que equipara a varias de las
+grandes industrias y que representa un movimiento constante en lo
+económico y social que enriquecen la ciudad con distintas miradas,
+tonadas, y costumbres.
+
+Buenas y malas
+
+Como en cualquier comunidad, no falta el vecino o el comerciante que
+quiere sacar provecho de este movimiento y cobra precios desmedidos por
+productos y servicios al personal de la fuerza. Esto fue asentado y
+denunciado al ministro del Interior, Aníbal Fernández, que se mostró muy
+preocupado y señaló estar dispuesto a llevarse a la fuerza si los abusos
+proseguían.
+
+La contracara de esa actitud es que un grupo de comerciantes se reunió
+hace un tiempo y decidió ofrecer a los aspirantes de gendarmes y sus
+familias viajes gratuitos a diferentes lugares de las sierras, como
+muestra de agradecimiento por el aporte que hacen los hombres de verde
+al sector comercial.
+
+La mayoría aprecia a Gendarmería
+
+Este trabajo nos ha permitido hacer un detalle, un esfuerzo de búsqueda,
+de investigación. A nosotros cuando vemos las cifras globales nos
+sorprende y al mismo tiempo nos da una pauta de cuál es el aporte
+económico y social que se puede hacer a la comunidad.
+
+Cada municipalidad ha tratado de acompañar con la posibilidad que ha
+tenido en su momento. En algunos tiempos el apoyo ha sido mayor o menor
+dependiendo de la situación económica del país. Todos los jefes
+comunales han sido conscientes de la importancia de Gendarmería en la
+zona y en la medida de sus posibilidades han colaborado y han aportado.
+
+El grueso de la comunidad está perfectamente consustanciada con
+Gendarmería porque no solo comprende el apoyo o la fuerza económica que
+podemos tener sino que mucha gente convive con gendarmes y aprecia la
+presencia de Gendarmería en la zona. Los que opinan en contrario,
+seguramente, son los menos.

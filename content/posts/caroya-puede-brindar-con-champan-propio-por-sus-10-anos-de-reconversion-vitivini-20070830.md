@@ -1,0 +1,290 @@
+---
+title: "Caroya puede brindar con champán propio por sus 10 años de reconversión vitivinícola"
+date: 2007-08-30T00:00:00-03:00
+categories: ["Voz del Campo"]
+tags: ["Colonia Caroya"]
+description: "Colonia Caroya. En septiembre de 1997, llegaron a Colonia Caroya 20 mil vides provenientes de Rauscedo, Italia, hecho que significaría el puntapié inicial para el proyecto de reconversión vitivinícola. Las vides que llegaron en cámaras de frío pertenecían a 8 variedades diferentes y habían sido escogidas teniendo en cuenta la carta de suelos y de clima de esta región."
+---
+
+Colonia Caroya. En septiembre de 1997, llegaron a Colonia Caroya 20 mil vides provenientes de Rauscedo, Italia, hecho que significaría el puntapié inicial para el proyecto de reconversión vitivinícola. Las vides que llegaron en cámaras de frío pertenecían a 8 variedades diferentes y habían sido escogidas teniendo en cuenta la carta de suelos y de clima de esta región.
+
+Colonia Caroya. En septiembre de 1997, llegaron a Colonia Caroya 20 mil vides provenientes de Rauscedo, Italia, hecho que significaría el puntapié inicial para el proyecto de reconversión vitivinícola. Las vides que llegaron en cámaras de frío pertenecían a 8 variedades diferentes y habían sido escogidas teniendo en cuenta la carta de suelos y de clima de esta región.
+
+    Se trataba de un cargamento que se completaría con dos entregas más de 20 mil vides cada una y que se ofrecían en forma gratuita a los productores que quisieran participar de la experiencia. Caroya, famosa por los vinos hechos con la uva “frambua” o “chinche” (la variedad se llama Isabella), comenzaría a probar suerte con las variedades cabernet, merlot, malbec, ancelotta (tintas) y sauvignon blanc, chardonnay, Malvasia Istriana, y Trebbiano Romagnolo. 
+
+    Diez años después, las bodegas caroyenses están ofreciendo vinos elaborados con uvas de reconocida calidad enológica y también champán, cosas que parecían imposibles hace tan sólo una década. Quienes estuvieron involucrados desde el principio en el proyecto saben que se hizo mucho pero también que queda mucho por hacer.
+
+    Es la opinión, por ejemplo, del enólogo Santiago Lauret, uno de los hombres que más trabajó por el proyecto y que logró convencer a autoridades y empresarios sobre su potencialidad: “El objetivo máximo es llegar a hacer en nuestra zona lo que se llaman vinos de alta gama, pero para eso nos faltan todavía varios años de investigación. Si bien hemos hecho muchos productos muy interesantes como el champagne, que anda muy bien por suerte y ha sido muy bien elogiado, nos falta tener un producto de alta gama. Esa es la cuenta pendiente”.
+
+“Personalmente –añade Lauret- me sirvió para demostrar que Colonia
+Caroya tiene la potencialidad de cualquier otra zona vitivinícola del
+país. Con todo esto, les hemos demostrado que estamos en condiciones de
+ser de primera y de pelear por un lugar en la primera. Esa es la
+satisfacción más grande que nos ha dado este proyecto”.
+
+El auténtico gusto cordobés
+
+Pero lo que realmente sigue posicionando a Caroya dentro del mercado
+vitícola es el vino regional que se ha reinventado a sí mismo y ha
+logrado productos interesantes como son los vinos frambua con un segundo
+proceso de fermentación en el que se añadió mosto de uva para darle un
+sabor más dulce.
+
+De hecho, dentro del proyecto de reconversión nunca se planteó la
+eliminación de la variedad Isabella sino que se le daba destino en la
+producción de jugo de uva que tiene un mercado muy ávido en el exterior
+y cuya demanda nunca pudo ser satisfecha. La incorporación de uvas de
+alta calidad enológica tenía que ver con el mejoramiento de la imagen,
+del precio de vino y, paralelamente, del precio de la uva para los
+productores.
+
+Es posible pensar que el vino “de la Colonia” se incluya en las
+degustaciones, que los especialistas señalen cuáles son sus descriptores
+aromáticos o gustativos. Lauret cree que sí: “Los malbec o los caberbet
+de todas las bodegas son similares, algunos con más o menos madera, pero
+nuestro frambua o nuestro champán son los únicos productos que reflejan
+fielmente la palabra “terruño”, es decir, nuestro suelo, nuestro clima,
+y nuestro sistema de elaboración. Hemos elaborado un vino con esas
+características para participar de esas degustaciones”.
+
+El aporte de la Universidad
+
+Desde hace unos cuatro años, un grupo de profesionales de la Universidad
+Nacional de Córdoba vienen investigando sobre plagas y enfermedades que
+afectan a los viñedos de Caroya, y también sobre la calidad en los
+mostos de la uva. La ingeniera agrónoma Clara Cragnolini, nacida en
+Colonia Caroya, es una de esas profesionales y se muestra entusiasmada
+por los descubrimientos que se realizaron: “Hay enfermedades que se
+desconocía que estaban, otras que no se sabía cómo se comportaban y las
+hemos empezado a estudiar para hacer más eficiente el control. También
+comenzamos a trabajar con algunos tratamientos químicos para algunas de
+esas enfermedades”.
+
+El equipo de investigadores ya detectó la presencia de trips y de
+cochinilla harinosa entre las plagas, mientras que en el caso de las
+enfermedades se ha detectado la presencia de fomoxis vitícola, Mildium,
+y botritis, y está trabajando en los tratamientos específicos para cada
+uno de ellos.
+
+Opiniones
+
+Emir Marcuzzi (productor)
+
+“Me sumé al proyecto por contagio al ver que el proyecto se venía
+encaminando bien más allá que uno en el corazón tiene la historia de los
+padres, de los abuelos, y de una trayectoria de 100 años de familia
+vitivinícola”.
+
+“Hay que ver cómo se le encuentra la vuelta de tuerca para que la bodega
+pueda producir mejores vinos y pagar un poco mejor la uva”.
+
+Alberto Nanini (enólogo)
+
+“Técnicamente este proyecto nos permitió elaborar otro tipo de vino y
+tener otro tipo de mercado y anímicamente sirvió para que muchos
+productores se entusiasmaran y contagiaran a gente más joven.
+
+No todos lo hicieron como la única alternativa para la economía familiar
+y muchos lo hicieron por el solo hecho de seguir con una tradición
+familiar, pero fue altamente positivo para la zona”.
+
+Miguel Patat (productor)
+
+“Si no hubiésemos hecho el cambio, habría desaparecido todo. Deberíamos
+haber cambiado más rápido, pero hay que tener en cuenta que la
+reconversión llegó en un contexto complicado.
+
+Hace diez años, nuestros vinos no estaban en la consideración general
+mientras que hoy tenemos algunos productos de los que sentirnos
+orgullosos”
+
+Sergio Tabbia (productor)
+
+“En 1997 ni pensábamos en tener las uvas protegidas con malla
+antigranizo y hemos avanzado mucho en ese tema. Tampoco se le pasaba a
+nadie por la cabeza que pudiésemos elaborar champán y lo estamos
+haciendo.
+
+Hoy tenemos en claro cuáles son las variedades que nos dan mejores
+resultados sanitarios y enológicos. Son muchas las razones para decir
+que fue bueno este proyecto”.
+
+Santiago Lauret (Enólogo)
+
+Si hoy se acabaran los fondos para seguir con la reconversión, con lo
+hecho ¿Colonia Caroya se puede dar por satisfecha?
+
+Personalmente me parece, después de haber pasado 10 años, que todavía
+estamos en pañales porque cada vez descubrimos facetas nuevas. Ahora,
+con la llegada del espectrofotómetro se nos abre todo un panorama nuevo
+de investigación que de otra manera no hubiese sido posible. Estas
+investigaciones son las que van a reimpulsar el proyecto porque son las
+que nos van a permitir mejorar la época de cosecha de la uva y, al
+mejorar eso, vamos a mejorar aún más la calidad de los productos
+obtenidos y el destino de esos productos.
+
+El objetivo máximo es poder llegar a hacer en nuestra zona lo que se
+llaman vinos de alta gama, pero para eso nos faltan todavía varios años
+de investigación. Si bien hemos hecho muchos productos muy interesantes
+como el champagne, que anda muy bien por suerte y ha sido muy bien
+elogiado, nos falta tener un producto de alta gama. Esa es la cuenta
+pendiente.
+
+Además de introducir nuevas variedades de uva con alta calidad
+enológica, seguir apostando al vino regional fue una decisión acertada.
+
+En el proyecto de reconversión nunca se planteó la eliminación de la uva
+“frambua” (Isabella) sino que vamos a tener uvas de alta calidad
+enológica para poder mejorar la imagen y los precios del vino y, además,
+el precio de la uva para los productores. El destino que le dábamos a la
+uva isabella es el jugo de uva que tiene un mercado muy ávido en el
+exterior. De hecho, existen propuestas de compra de uva del exterior que
+no podemos atender porque no existe cantidad suficiente y porque hace
+falta algún tipo de inversión en la bodega para poder elaborar el jugo
+de un modo más rentable. A esa uva había que potenciarla y potenciar el
+uso para poder obtener los mejores precios que tienen que ser volcados
+al productor.
+
+Es posible pensar que el vino “de la Colonia” se incluya en las
+degustaciones con sus descriptores aromáticos y gustativos
+
+El año pasado presentamos una nueva versión del frambua con una nueva
+presentación, precisamente, para ir a esas degustaciones. Este año, en
+la Córdoba Vinos que se hizo en el Sheraton era el vino que todos
+querían probar porque era el vino distinto al resto. Todos los malbec y
+todos los caberbet de todas las bodegas eran iguales, algunos con más o
+menos madera, pero los únicos productos que eran distintivos fueron el
+frambua y el champagne de Colonia Caroya. Era totalmente distinto a lo
+demás y refleja fielmente lo que hoy sería la palabra “terruño”, es
+decir, nuestro suelo, nuestro clima, y nuestro sistema de elaboración.
+
+Han avanzado en ese sentido en obtener certificación de indicación
+geográfica para algunos productos
+
+Lo tenemos aprobado para tres productos: el champagne y dos vinos
+bivariatales, el pinot negro-merlot, y el malbec-cabernet sauvignon.
+Todo el proceso está hecho en Colonia Caroya y certificado por el
+Instituto Nacional de Vitivinivultura. Nos faltaría hacer los trámites
+de la denominación de origen controlado (DOC) pero no lo hacemos por lo
+compleja que resulta.
+
+Cuál ha sido el aprendizaje en estos diez años
+
+Personalmente me sirvió para demostrar que Colonia Caroya tiene la
+potencialidad de cualquier otra zona vitivinícola del país. Aún hoy me
+da mucha tristeza ir a eventos y que pasemos a ser de segunda cuando
+decimos que venimos de Córdoba y Colonia Caroya. Con todo esto, les
+hemos demostrado que estamos en condiciones de ser de primera y de
+pelear un lugar en la primera. Esa es la satisfacción más grande que nos
+ha dado este proyecto.
+
+¿A quién hace más falta convencer para avanzar?
+
+Esto es el resultado de un trípode porque una pata son los productores,
+otra los empresarios, y otra el estado. Me parece que en los últimos dos
+o tres años nos ha colaborado algo el gobierno provincial con malla
+antigranizo o con el espectrofotómetro pero todavía le falta darse
+cuenta del potencial nuestro y espero que en algún momento se pueda dar
+eso para que nosotros podamos tener los mismos beneficios, sobre todo
+impositivos, que tienen otras zonas.
+
+Haría falta también más empresarios que se animen a invertir en la
+viticultura de Córdoba porque la zona da. Hay productores decididos a
+trabajar y muchos jóvenes se han nucleado pero allí hacen falta
+empresarios y el estado dando medidas de desgravación.
+
+Hay que destacar que en este proceso está participando la Universidad
+Nacional de Córdoba que tiene seis profesionales trabajando en Colonia
+Caroya sobre el tema vides. Lo cual es un lujo y debe ser un motivo de
+orgullo para nosotros
+
+Hace falta más difusión sobre este proyecto y que, cuando armen un
+proyecto que tenga que ver con nuestra actividad, nos convoquen a los
+que estamos en el tema. Me da la impresión que es ahí donde estamos
+olvidados y se escuchan versiones de personas que no tienen el
+conocimiento de haber caminado la Colonia como la caminamos nosotros
+diariamente.
+
+La vitivinicultura se transformó también en un hecho turístico
+
+La Caroyense cuando era cooperativa lo inició y fue pionera en eso. Don
+Orlando Visintín, allá por los primeros años de los ´70, estaba nada más
+que para atender a los turistas y a las delegaciones y les hacía un
+recorrido por la bodega y una degustación cuando prácticamente nadie lo
+hacía en el país. Cuando se abrió como Sociedad Anónima, el domingo 30
+de diciembre, hicimos una jornada de puertas abiertas con visitas
+guiadas y desde entonces no hemos parado. El ecoturismo pasó a ser
+importante en la difusión de la viticultura caroyense. El año pasado,
+tuvimos cerca de 20 mil visitantes y este año vamos a superar esa cifra.
+Ojalá que siga así porque lo que estamos haciendo es vender la imagen de
+la Colonia.
+
+Emir Marcuzzi (productor)
+
+En el 2000 se sumó al proyecto con la última tanda de Malbec que se
+trajo de Italia, después injertamos en la bodega Cabernet, hace poco se
+puso Merlot.
+
+Es un contagio por ver que el proyecto se venía encaminando bien más
+allá que uno en el corazón tiene la historia de los padres, de los
+abuelos, y de una trayectoria de 100 años de familia vitivinícola. Mi
+familia decidió arrancar los viñedos después de la crisis del 76 pero
+este cambio nos llegó y encaramos la historia desde el 2000 a esta
+parte.
+
+Los precios se han quedado porque cuando arrancamos estaban en 60
+centavos en el 2000 y después de todo lo que pasó en 2007 los precios
+están en 70 centavos. Eso hizo que mucha gente que quería poner viña no
+ha puesto por una cuestión de precio que hay que ver como se le
+encuentra la vuelta de tuerca para que la bodega pueda producir mejores
+vinos y pagar un poco mejor la uva. Hasta ahora el proyecto es positivo
+y se está logrando buena calidad de uva y saliendo vinos cada año
+mejores.
+
+La experiencia de hacer vinos de alta gama es relativamente nueva en la
+zona y eso les va a llevar tiempo hasta hacer los aprendizajes
+necesarios para que los vinos puedan tener la calidad que se merecen, el
+precio justo, y nosotros percibir por ende como un efecto en cascada los
+beneficios de todas esas bondades.
+
+Ing. Clara Cragnolini (UNC)
+
+El proyecto que estamos llevando a cabo desde hace aproximadamente unos
+cuatro años en estos viñedos tienen como objetivo, en la primera etapa,
+sobre cómo se maneja el aspecto sanitario de los viñedos. Estamos
+estudiando las enfermedades y las plagas que están presentes en esta
+zona. Hay enfermedades que se desconocía que estaban, otras que no se
+sabía cómo se comportaban y hemos empezado a estudiar eso para hacer un
+poco más eficiente el control.
+
+Estamos trabajando sobre la epidemiología de las enfermedades, la
+dinámica por la acción de las plagas, y hemos empezado a trabajar con
+algunos tratamientos químicos para algunas de esas enfermedades.
+
+Se van incorporando algunos objetivos de riego con la gente y algunos
+objetivos de aplicación.
+
+Acá hay síntomas de fitotoxicidad por herbicidas cuando pasan máquinas
+cerca o cuando se hacen tratamientos con algunos herbicidas que son
+dañinos para la vid se observa eso. Otra cosa muy diferente es el trips
+que es una plaga muy pequeñita que afecta mucho en la floración. Sobre
+esa plaga tenemos cuatro años de registro para estudiar la dinámica de
+la población y ver cuando comienzan a movilizarse de sus refugios porque
+ellos se refugian en el invierno y en la primavera van a las flores.
+Estamos viendo cuáles son los factores que hacen que se empiecen a
+movilizar, cuál es la temperatura necesaria, para poder hacer los
+tratamientos bien oportunos si es que hacen falta hacerlos. La otra
+plaga que es muy importante y que hace dos años que ya está acá son las
+cochinillas harinosas que estamos empezando a hacer el seguimiento desde
+el año pasado. Primero tenemos que determinar cuál es la especie.
+Sabemos el género pero de ese género hay varias especies que pueden
+afectar la vid. Cada especie tiene pequeñas diferencias que son
+importantes a la hora de manejar el control. En el caso del trips ya
+determinamos que hay tres especies y determinamos que hay una que es más
+importante.
+
+En el caso de las enfermedades hemos determinado la presencia de fomoxis
+vitícola que es una enfermedad que afecta tanto a la planta, como las
+hojas y los frutos y que no estaba registrada en esta zona. Además,
+hemos determinado la presencia de Mildium y de botritis que son las
+otras dos enfermedades muy dañinas y muy peligrosas.

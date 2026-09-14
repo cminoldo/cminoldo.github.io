@@ -1,0 +1,11 @@
+---
+title: "Caroya tendrá cementerio parque Municipal"
+date: 2000-07-07T00:00:00-03:00
+categories: ["Regionales"]
+tags: ["Colonia Caroya"]
+description: "La adquisición de un terreno de 12 hectáreas ubicado al lado de donde se emplaza el viejo cementerio de Colonia Caroya, fue motivo de análisis por parte del Concejo Deliberante en la última sesión. La intención es que el municipio amplíe el servicio con la modalidad parque para ofrecer una alternativa a los vecinos e incrementar los servicios que naturalmente venía prestando. De ese terreno, la mitad sería destinada a cementerio parque y la otra mitad al vivero frutícola con el que se pretende f"
+---
+
+La adquisición de un terreno de 12 hectáreas ubicado al lado de donde se emplaza el viejo cementerio de Colonia Caroya, fue motivo de análisis por parte del Concejo Deliberante en la última sesión. La intención es que el municipio amplíe el servicio con la modalidad parque para ofrecer una alternativa a los vecinos e incrementar los servicios que naturalmente venía prestando. De ese terreno, la mitad sería destinada a cementerio parque y la otra mitad al vivero frutícola con el que se pretende f
+
+La adquisición de un terreno de 12 hectáreas ubicado al lado de donde se emplaza el viejo cementerio de Colonia Caroya, fue motivo de análisis por parte del Concejo Deliberante en la última sesión. La intención es que el municipio amplíe el servicio con la modalidad parque para ofrecer una alternativa a los vecinos e incrementar los servicios que naturalmente venía prestando. De ese terreno, la mitad sería destinada a cementerio parque y la otra mitad al vivero frutícola con el que se pretende fortalecer la producción. En ese predio se ubica una de las primeras casas que construyeron los inmigrantes de 1878, cuya propietaria era la familia Roya, por lo que el municipio apuntaría a su recupero como espacio verde y al que se adornaría con algunas maquinarias y herramientas antiguas. El trabajo más significativo se relaciona con la limpieza de una parte del terreno en la que su depresión le permitirá al municipio dotar a ese sector de una represa de agua que servirá tanto para el vivero como para fortalecer la visual del cementerio parque.

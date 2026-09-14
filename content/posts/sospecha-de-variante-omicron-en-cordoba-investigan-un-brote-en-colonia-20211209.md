@@ -1,0 +1,127 @@
+---
+title: "Sospecha de variante Ómicron en Córdoba: investigan un brote en Colonia"
+date: 2021-12-09T00:00:00-03:00
+categories: ["Varios"]
+tags: ["Jesús María"]
+description: "Caroya y Jesús María"
+---
+
+Caroya y Jesús María
+
+El caso cero es un paciente que llegó al país el jueves pasado de
+Emiratos Árabes. Hay ocho contactos estrechos positivos. Ya analiza las
+muestras el Instituto Malbrán.
+
+Claudio Minoldo.
+Corresponsalía. El director de Salud municipal de Jesús María, Andrés
+Carrillo, y su par de Colonia Caroya, Josefina Romanutti, confirmaron
+ayer que existe un brote con nueve casos positivos y casi 40 contactos
+estrechos y contactos de contactos aislados. “El número no revela la
+cantidad de personas que debieran permanecer en aislamiento porque nos
+está costando acceder a esa información”, destacó Carrillo.
+Aunque no se confirmó, tampoco se descartó que pueda tratarse de un
+contagio con la variante Ómicron. Eso recién se sabrá este viernes
+cuando regresen los datos enviados al Instituto Malbrán en Buenos Aires.
+El brote se originó en un viajero que ingresó al país el jueves 2 de
+diciembre, proveniente de Emiratos Árabes, y que se hizo dos testeos
+rápidos con resultado negativo antes de dar positivo de covid y
+confirmarlo con un PCR.
+Según él mismo refirió, cursaba un cuadro respiratorio leve con
+mucosidad y dolor de garganta que, al principio, le achacó al aire
+acondicionado del ómnibus en el que se movilizó desde Ezeiza hasta la
+provincia de Córdoba.
+Epidemiología de Córdoba y de Nación monitorearon ese viaje y rastrearon
+a todos los pasajeros para proceder a los testeos y aislamientos
+correspondientes.
+El caso cero, quizás confiado por los dos test de antígeno negativos,
+mantuvo una fuerte actividad social entre el viernes pasado y el sábado
+cuando dio positivo. Sus síntomas no habían cesado. Una fuente cercana
+al ministro de Salud de Córdoba reveló que, en esa condición, lo que
+hubiese correspondido era que mantuviese un aislamiento.
+
+Contener el foco antes de saber de qué se trata
+El análisis genómico del caso cero dio una “variante inespecífica” y el
+Laboratorio Central de la Provincia no pudo determinar que su caso
+pertenezca a ninguna de las variantes presentes en Córdoba, incluida
+Delta. Es por esto que remitió las muestras al Instituto Malbrán.
+Mientras se aguardan las confirmaciones de laboratorio, el Ministerio de
+Salud de Córdoba bajará a Colonia Caroya este viernes por la mañana con
+un equipo completo para contener el foco. La primera reunión con las
+autoridades locales comenzará a las 9.30. Volverá a funcionar también el
+COE regional.
+La jefa de Epidemiología de la Provincia, Laura López, viene trabajando
+en Colonia Caroya y Jesús María para armar el árbol de contactos del
+caso cero e indicó el aislamiento de 18 días para los contactos
+estrechos y los contactos de contactos estrechos. Hasta ahora, ésa ha
+sido la tarea más ardua.
+La instrucción del Ministerio de Salud provincial fue “actuar como si
+fuera el peor escenario”. Es por esto que se ampliarán los horarios de
+testeo y de vacunación y se llamó a las personas que tuvieron contactos
+por más mínimos y sin riesgo aparente con alguno de los casos positivos
+o sus contactos que vayan a testearse y hagan el aislamiento preventivo.
+Por qué se cree que puede ser variante ómicron
+
+“Lo que llama la atención es que en todos los casos confirmados como
+positivos hay personas con esquemas completos de vacunación y en algunos
+casos incluso se trata de un segundo Covid positivo”, detalló el
+funcionario de Salud de Jesús María.
+Una de las características salientes que tiene la variante detectada por
+primera vez en Sudáfrica es su capacidad para saltear la respuesta de
+las vacunas y provocar una reinfección en quienes ya cursaron la
+enfermedad.
+“De lo que se trata es de cortar la cadena de contagios. Sabemos que por
+las fiestas de egresados y de fin de año muchas personas no quieren
+contar que tuvieron un contacto de riesgo, pero les pedimos conciencia y
+responsabilidad frente a esta crisis”, enfatizó la jefa de salud
+caroyense.
+Uno de los casos positivos con variante aún no tipificada recibió la
+noticia de su positivo este miércoles en Córdoba y quedó aislado en la
+ciudad. En las próximas horas se hará su traslado a su domicilio en una
+“burbuja sanitaria”, mientras se investigan las posibles ramificaciones
+de contactos por sus actividades en Capital.
+
+Contagio desconcertante
+En los 9 casos registrados en esta región con esta, por ahora, variante
+inespecífica, resalta el dato de que todos los contagiados tenían
+esquema de vacunación contra el Covid-19 completo.
+Pero no sólo eso: en uno de los casos se trataba de un paciente que es
+recuperado de covid y que no sólo tenía el esquema completo de vacunas,
+sino que también tenía la tercera dosis de refuerzo.
+Se trata de una persona mayor de 70 años que no ha referido
+sintomatología en esta oportunidad, pero el dato es que no pudo esquivar
+el contagio. De hecho, durante su primer contagio la pasó muy mal ya que
+se trata de una persona que tiene varias comorbilidades. Tras una
+internación prolongada y con asistencia respiratoria, finalmente pudo
+superar la enfermedad.
+De los ocho casos restantes, también está confirmado que tres de ellos
+son pacientes recuperados de covid, aunque se trataría de personas que
+cursaron la enfermedad durante 2020 y hace más de un año.
+Otro dato para resaltar es que ninguno de los casos positivos presentó
+síntomas ni requirió internación.
+
+Antecedentes y expectativas
+En la región que componen Jesús María, Caroya, y Sinsacate, el primer
+contagio se detectó a fines de agosto de 2020. Un mes más tarde la
+cadena de contagios arrojó un número de 181 casos y se convirtió en la
+cifra más baja por largo tiempo hasta septiembre de este año cuando
+descendió hasta 124 casos.
+Los picos de contagios en esta región se dieron en mayo y junio de este
+año cuando las cifras mensuales alcanzaron los 2938 y 2440 casos,
+respectivamente.
+Pero las variantes circulantes entre 2020 y 2021 distan de ser
+comparables, especialmente en lo que a velocidad de trasmisión se
+refiere. Y a esta altura de la pandemia la parte más compleja resulta
+armar el árbol epidemiológico de contactos estrechos y contactos de
+contactos.
+“Cuesta que la gente te diga con quién comió un lomito el viernes.
+Parecen haber olvidado lo que hicieron hace escasos días”, confió una
+fuente del Ministerio de Salud al referirse a la reticencia de la gente
+de “blanquear” su cadena de contactos estrechos.
+Esta zona está a menos de un mes de reanudar la realización del Festival
+de Doma y Folklore, en enero de 2022, y con enorme expectativa
+comunitaria por lo que significa la fiesta, especialmente por las
+oportunidades económicas.
+Hoy, este brote genera una incertidumbre enorme y sólo se despejará si
+el Instituto Malbrán descarta que se trata de la variante ómicron y si
+las autoridades locales lograr frenar el foco de contagio y aislar
+absolutamente a todos los contactos estrechos y contactos de contactos.

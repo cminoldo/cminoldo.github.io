@@ -1,0 +1,11 @@
+---
+title: "Regulan la actividad de las casa de óptica en Jesús María"
+date: 2001-04-14T00:00:00-03:00
+categories: ["Gran Córdoba"]
+tags: ["Jesús María"]
+description: "A través de una ordenanza, el cuerpo de ediles de Jesús María reguló la actividad de las casas de óptica. Entre las principales obligaciones, figura el cumplimiento de las normas previsionales que rigen el ejercicio de la actividad. Con la nueva norma, sólo podrán ser titulares de negocios de óptica aquellas personas que acrediten su título de Perito óptico, Técnico óptico oftalmológico, Contactólogo u especialista en lentes de contacto. Se prohibe, además, el anuncio o publicidad para vender al"
+---
+
+A través de una ordenanza, el cuerpo de ediles de Jesús María reguló la actividad de las casas de óptica. Entre las principales obligaciones, figura el cumplimiento de las normas previsionales que rigen el ejercicio de la actividad. Con la nueva norma, sólo podrán ser titulares de negocios de óptica aquellas personas que acrediten su título de Perito óptico, Técnico óptico oftalmológico, Contactólogo u especialista en lentes de contacto. Se prohibe, además, el anuncio o publicidad para vender al
+
+A través de una ordenanza, el cuerpo de ediles de Jesús María reguló la actividad de las casas de óptica. Entre las principales obligaciones, figura el cumplimiento de las normas previsionales que rigen el ejercicio de la actividad. Con la nueva norma, sólo podrán ser titulares de negocios de óptica aquellas personas que acrediten su título de Perito óptico, Técnico óptico oftalmológico, Contactólogo u especialista en lentes de contacto. Se prohibe, además, el anuncio o publicidad para vender al público anteojos de todo tipo, incluyendo los denominados protectores, recetados, graduados o descartables, de sol y filtrantes, como de todo tipo de elemento que tenga por fin interponerse entre el campo visual y el ojo humano para corregir anomalías o con fin estético, en cualquier lugar que no haya sido previamente habilitado. La infracción a algunas de estas prohibiciones hara pasible a los infractores de multas que van desde las 5 a 10 Unidades Económicas de Multa (equivalente cada unidad al precio de un litro de nafta super) hasta la clausura del local por el término máximo de 180 días.

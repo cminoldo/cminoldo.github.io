@@ -1,0 +1,12 @@
+baseURL = "https://cminoldo.github.io/"
+languageCode = "es-AR"
+title = "Archivo periodístico - Claudio Minoldo"
+theme = "ananke"
+
+[params]
+  description = "27 años de cobertura periodística en el norte de Córdoba (1996-2023)"
+  author = "Claudio Minoldo"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"

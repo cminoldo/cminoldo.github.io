@@ -1,0 +1,11 @@
+---
+title: "Reditan la fiesta de la batata en Caroya"
+date: 2001-05-19T00:00:00-03:00
+categories: ["Gran Córdoba"]
+tags: ["Colonia Caroya"]
+description: "A partir de las diez, en las instalaciones de Puerto Caroya, se pone en marcha una nueva edición de la Fiesta de la Batata, cuyo objetivo es propagar el consumo del tubérculo y homenajear a los colonos que vienen trabajando, desde hace algunas décadas, en el cultivo de ese vegetal. Batata 2001 tiene el feliz antecedente del año 1998, oportunidad en la que participaron cerca de 2 mil personas. El precio de la tarjeta para esta ocasión se fijó en 12 pesos y tiene, obviamente, una surtida variedad"
+---
+
+A partir de las diez, en las instalaciones de Puerto Caroya, se pone en marcha una nueva edición de la Fiesta de la Batata, cuyo objetivo es propagar el consumo del tubérculo y homenajear a los colonos que vienen trabajando, desde hace algunas décadas, en el cultivo de ese vegetal. Batata 2001 tiene el feliz antecedente del año 1998, oportunidad en la que participaron cerca de 2 mil personas. El precio de la tarjeta para esta ocasión se fijó en 12 pesos y tiene, obviamente, una surtida variedad
+
+A partir de las diez, en las instalaciones de Puerto Caroya, se pone en marcha una nueva edición de la Fiesta de la Batata, cuyo objetivo es propagar el consumo del tubérculo y homenajear a los colonos que vienen trabajando, desde hace algunas décadas, en el cultivo de ese vegetal. Batata 2001 tiene el feliz antecedente del año 1998, oportunidad en la que participaron cerca de 2 mil personas. El precio de la tarjeta para esta ocasión se fijó en 12 pesos y tiene, obviamente, una surtida variedad de batata en el menú: buñuelos de batata, puré de batata y batatitas en almibar, acompañando al resto de las comidas, bajo la modalidad diente libre. A la oferta gastronómica, se suma un sector de exposición y la realización de un show con artistas locales. Cabe recordar que, en la zona comprendida por Caroya, Colonia Tirolesa y Colonia Vicente Agüero, el cultivo de la planta de bulbo lega a las 6.500 hectáreas, transformándose en una de las principales productoras de la provincia, junto a la zona de traslasierra y de algunas regiones del sur provincial. La batata, además de tener una proporción de ácido ascórbico, posee bajo colesterol y no engorda, contrariamente a la creencia popular.

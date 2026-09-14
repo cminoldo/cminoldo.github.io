@@ -1,0 +1,11 @@
+---
+title: "Analizan una propuesta para cobrar estacionamiento en el centro de Jesús María"
+date: 2000-08-07T00:00:00-03:00
+categories: ["Regionales"]
+tags: ["Jesús María"]
+description: "A raíz de las inquietudes planteadas por el Centro Comercial de Jesús María, respecto de la dificultad que se observa en el área céntrica de la ciudad en las horas pico, el Departamento Ejecutivo está estudiando y consultando con los sectores involucrados sobre la posibilidad de tarifar el estacionamiento a un costo de 25 centavos la media hora. El cobro del estacionamiento estaría a cargo de un grupo de cuidadores que percibirían el cien por ciento de lo recaudado, ya que la disposición pretend"
+---
+
+A raíz de las inquietudes planteadas por el Centro Comercial de Jesús María, respecto de la dificultad que se observa en el área céntrica de la ciudad en las horas pico, el Departamento Ejecutivo está estudiando y consultando con los sectores involucrados sobre la posibilidad de tarifar el estacionamiento a un costo de 25 centavos la media hora. El cobro del estacionamiento estaría a cargo de un grupo de cuidadores que percibirían el cien por ciento de lo recaudado, ya que la disposición pretend
+
+A raíz de las inquietudes planteadas por el Centro Comercial de Jesús María, respecto de la dificultad que se observa en el área céntrica de la ciudad en las horas pico, el Departamento Ejecutivo está estudiando y consultando con los sectores involucrados sobre la posibilidad de tarifar el estacionamiento a un costo de 25 centavos la media hora. El cobro del estacionamiento estaría a cargo de un grupo de cuidadores que percibirían el cien por ciento de lo recaudado, ya que la disposición pretende contribuir a la formación de nuevas fuentes de trabajo. El área de cobro abarcaría 14 cuadras comprendidas entre las calles Julio A Roca, Córdoba, Colón y Cástulo Peña, zona que incluye la Plaza San Martín y la concurrida calle Tucumán que son los dos sectores en los que más vehículos se estacionan. El nuevo sistema se implementaría por un período de 120 días en los que se ajustarán los detalles y, durante los cuales, se podrá observar si se reactiva la circulación por otras arterias y si se descongestiona el área céntrica.

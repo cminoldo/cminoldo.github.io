@@ -1,0 +1,11 @@
+---
+title: "Celebración en Jesús María"
+date: 2000-11-30T00:00:00-03:00
+categories: ["Gran Córdoba"]
+tags: ["Jesús María"]
+description: "Con motivo de la reciente declaración del casco de Estancias Jesuíticas como Patrimonio de la Humanidad, desde Jesús María organizaron una serie de festejos durante el resto del mes de diciembre. Anoche, a las 21 y 30, se presentó el coro polifónico provincial para adultos con cuarenta y ocho voces en escena y la dirección de Gustavo Maldino en la iglesia de San Isidro. Los festejos centrales tendrán lugar el próximo martes, desde el mediodía, con una recepción para autoridades y allegados a la"
+---
+
+Con motivo de la reciente declaración del casco de Estancias Jesuíticas como Patrimonio de la Humanidad, desde Jesús María organizaron una serie de festejos durante el resto del mes de diciembre. Anoche, a las 21 y 30, se presentó el coro polifónico provincial para adultos con cuarenta y ocho voces en escena y la dirección de Gustavo Maldino en la iglesia de San Isidro. Los festejos centrales tendrán lugar el próximo martes, desde el mediodía, con una recepción para autoridades y allegados a la
+
+Con motivo de la reciente declaración del casco de Estancias Jesuíticas como Patrimonio de la Humanidad, desde Jesús María organizaron una serie de festejos durante el resto del mes de diciembre. Anoche, a las 21 y 30, se presentó el coro polifónico provincial para adultos con cuarenta y ocho voces en escena y la dirección de Gustavo Maldino en la iglesia de San Isidro. Los festejos centrales tendrán lugar el próximo martes, desde el mediodía, con una recepción para autoridades y allegados a la casa. Además, habrán destrezas gauchas en el parque del museo y actividades musicales, a partir de las 20 y 30. Allí, se presentarán las agrupaciones locales Tuackay Taki y La Yapa, que anticiparán la velada serenatera que brindarán los de Alberdi. Por su parte, el jueves 7 de diciembre se presentará el coro polifónico juvenil de la Provincia, dirigido por Hugo de la Vega, desde las 20 y 30 en la iglesia de la Estancia. El viernes 15, se llevará a cabo la entrega de los premios del salón de pintura Municipal “Guanusacate”, y el miércoles 20 se realizará un concierto de música barroco latinoamericana con la agrupación Giacomo Carissimi y su obra "Jephte, orato io biblico".

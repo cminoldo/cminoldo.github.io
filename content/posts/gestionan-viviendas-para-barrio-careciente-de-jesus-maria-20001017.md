@@ -1,0 +1,11 @@
+---
+title: "Gestionan viviendas para barrio careciente de Jesús María"
+date: 2000-10-17T00:00:00-03:00
+categories: ["Gran Córdoba"]
+tags: ["Jesús María"]
+description: "Para solucionar el problema de un grupo de familias del barrio Sierras y Parque de Jesús María, afectadas por las últimas inundaciones en el sector, el municipio gestionó ante la Nación un subsidio para la construcción de cinco unidades habitacionales del programa Arraigo, destinado a la recuperación de zonas afectadas por las inundaciones. Aunque no se indicó si esos terrenos serían escriturados —la mayoría de los habitantes del barrio ocupa ilegalmente los terrenos—, se señaló que la Municipal"
+---
+
+Para solucionar el problema de un grupo de familias del barrio Sierras y Parque de Jesús María, afectadas por las últimas inundaciones en el sector, el municipio gestionó ante la Nación un subsidio para la construcción de cinco unidades habitacionales del programa Arraigo, destinado a la recuperación de zonas afectadas por las inundaciones. Aunque no se indicó si esos terrenos serían escriturados —la mayoría de los habitantes del barrio ocupa ilegalmente los terrenos—, se señaló que la Municipal
+
+Para solucionar el problema de un grupo de familias del barrio Sierras y Parque de Jesús María, afectadas por las últimas inundaciones en el sector, el municipio gestionó ante la Nación un subsidio para la construcción de cinco unidades habitacionales del programa Arraigo, destinado a la recuperación de zonas afectadas por las inundaciones. Aunque no se indicó si esos terrenos serían escriturados —la mayoría de los habitantes del barrio ocupa ilegalmente los terrenos—, se señaló que la Municipalidad afectaría a un grupo de trabajadores para la mano de obra y al personal técnico para la conducción de los trabajos. Por otra parte, los vecinos del sector contarán desde esta semana con una guardia pasiva que funcionará desde las 14, hora en la que finaliza la atención del dispensario, para la atención de las urgencias que pudieran surgir. La medida dispuesta por el municipio pretende facilitar los problemas de comunicación que posee el barrio y evitar, en lo posible, trasladar a los vecinos el costo de la movilización, habida cuenta que el hospital más próximo se encuentra a unos ocho kilómetros.

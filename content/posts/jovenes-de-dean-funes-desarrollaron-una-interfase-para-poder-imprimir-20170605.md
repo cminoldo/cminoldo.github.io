@@ -1,0 +1,65 @@
+---
+title: "Jóvenes de Deán Funes desarrollaron una interfase para poder imprimir"
+date: 2017-06-05T00:00:00-03:00
+categories: ["Ciudadanos"]
+tags: ["Jesús María"]
+description: "ecografías en 3D"
+---
+
+ecografías en 3D
+
+Se trata de dos hermanos que lograron plasmar una reproducción fiel de
+un bebé en gestación. El desarrollo podría servirles a personas con
+discapacidad visual.
+
+Corresponsalía.
+Deán Funes. Incentivados por un padre ingeniero, los hermanos David (25)
+y Juan Pablo (24) Picolet se pasaban las siestas y tardes en su Deán
+Funes natal emprendiendo cosas. Podían ser chozas, refugios,
+herramientas o cualquier cosa adonde los llevara la imaginación. La
+juventud los encuentra, hoy, estudiando en la ciudad de Córdoba, pero
+con el espíritu emprendedor intacto.
+David estudia Abogacía en la UNC y Juan Pablo Ingeniería Mecánica en la
+UTN y, hace alrededor de un año, comenzaron a pensar en qué utilidad
+darle a una impresora 3D que compraron toda desarmada y lograron
+ensamblar. Finalmente, la intervención de un tío médico, Carlos Mercado,
+les dio una pista para desarrollar: impresión en 3D de ecografías, un
+servicio que podría serles de mucha utilidad a personas con discapacidad
+visual.
+En resumen, poder contar por adelantado con una escultura de un bebé
+cuando todavía se encuentra en gestación. Y allí se toparon con el
+primer problema porque los ecógrafos /de tres, cuatro, y cinco
+dimensiones) trabajan con lo que se denomina “coordenadas polares”
+contra las “coordenadas planas” sobre las que trabaja una impresora 3D.
+Entonces, otro amigo de la infancia de los Picolet, Edgar Brizuela, que
+estudia Ingeniería en Sistemas les ayudó a desarrollar el software. Y
+aun así, les faltaba un pasito más que era contar con un archivo de un
+ecógrafo para poder ver si la interfase funcionaba. Después de deambular
+por varias clínicas, finalmente en una les prestaron atención y les
+facilitaron el archivo y el resultado es impresionante. Lograron
+imprimir un pequeño bebé que tiene la palma de su mano sobre la frente.
+Por tratarse de un desarrollo, los hermanos Picolet ni siquiera tienen
+evaluada una veta comercial sobre él, pero querían darla a conocer por
+el emprendedorismo mismo, para demostrar que hay mucho potencial y que
+faltan incentivos para quienes incuban ideas no desarrolladas aún. Las
+impresiones 3D de ecografías ya están patentadas en países como Japón y
+Estados Unidos, pero en nuestro país el desarrollo es incipiente y el de
+los Picolet es uno de los primeros en Córdoba.
+
+Un año de desarrollo
+
+“Tuvimos que investigar porque no sabíamos cómo funcionaba un ecógrafo,
+qué archivos guardaba, hasta que descubrimos que guardaba un archivo
+volumétrico. Y no trabajamos sobre una imagen sino directamente sobre el
+archivo del ecógrafo. Por eso, decimos que estamos haciendo una
+reproducción fiel de la ecografía”, explicó David después de señalar que
+llegar al resultado les demandó alrededor de un año de desarrollo.
+Su hermano Juan Pablo añadió: “Tenemos muchas ideas, desde hace mucho
+tiempo. Venimos trabajando sobre ellas desde que éramos chicos. El
+problema es que muy pocas ideas se llevan a cabo. Me parece que hay que
+lograr cambiar eso. Lo mejor que hicimos fue no dejarnos desanimar por
+eso, ponernos las pilas, y llegar al resultado”.
+La escasa diferencia que tienen estos dos hermanos los hizo compinches,
+compartir amistades, y hacerse emprendedores a partir de los juegos de
+la niñez. Si persisten en el emprendedorismo, seguramente tendremos
+noticias sobre ellos más adelante.

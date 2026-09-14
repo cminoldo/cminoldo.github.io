@@ -1,0 +1,11 @@
+---
+title: "Artesanos y emprendedores exponen en Deán Funes"
+date: 2001-01-29T00:00:00-03:00
+categories: ["Regionales"]
+tags: ["Deán Funes"]
+description: "Más de cincuenta artesanos y microemprendedores confirmaron su participación en la Muestra Anual de Artesanías y Productos Regionales” de Deán Funes, que se llevará a cabo desde el primero al cuatro de Febrero, en el salón del club Sirio Libanés, como parte de las actividades programadas por la 45ª Semana de la Tradición del Norte Cordobés. La muestra, convertida a esta altura en una mini feria de exposición, fue organizada por la Dirección de Desarrollo Económico y Promoción del Empleo Municipa"
+---
+
+Más de cincuenta artesanos y microemprendedores confirmaron su participación en la Muestra Anual de Artesanías y Productos Regionales” de Deán Funes, que se llevará a cabo desde el primero al cuatro de Febrero, en el salón del club Sirio Libanés, como parte de las actividades programadas por la 45ª Semana de la Tradición del Norte Cordobés. La muestra, convertida a esta altura en una mini feria de exposición, fue organizada por la Dirección de Desarrollo Económico y Promoción del Empleo Municipa
+
+Más de cincuenta artesanos y microemprendedores confirmaron su participación en la Muestra Anual de Artesanías y Productos Regionales” de Deán Funes, que se llevará a cabo desde el primero al cuatro de Febrero, en el salón del club Sirio Libanés, como parte de las actividades programadas por la 45ª Semana de la Tradición del Norte Cordobés. La muestra, convertida a esta altura en una mini feria de exposición, fue organizada por la Dirección de Desarrollo Económico y Promoción del Empleo Municipal y auspiciada por la Fundación del Banco de Córdoba y el EINCOR.  Comprometieron su participación artesanos y micreoemprendedores tanto del rubro productivo como del sector de servicios, interesados también en el seminario de capacitación sobre microemprendimientos que tendrá lugar el sábado 3 de febrero de 9 a 13. La apertura oficial de la muestra se realizará este jueves a las 20, con la participación de intendentes del la región, autoridades del Ministerio de la Producción y Trabajo de Córdoba, de la Fundación del Banco de la Provincia de Córdoba, del EINCOR y de la Gerencia del Empleo y Formación de Recursos Humanos.

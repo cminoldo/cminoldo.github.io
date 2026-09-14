@@ -1,0 +1,11 @@
+---
+title: "Jesús María: Reditan campaña solidaria para la tercera edad"
+date: 2000-05-05T00:00:00-03:00
+categories: ["Regionales"]
+tags: ["Jesús María"]
+description: "Por segundo año consecutivo, una iniciativa de la Asociación Gerontológica de Jesús María prendió en un grupo de jóvenes de cinco instituciones escolares, quienes desde hoy comenzaron a trabajar en una campaña destinada a la recolección de alimentos para ancianos carenciados. Participan este año de la campaña denominada \"las cuatro esquinas de la solidaridad\", alumnos del Ipem 69, del Colegio Nuestra Señora del Huerto, de la Asociación educativa Pío León, del Ipem 294 y del Instituto Nuestra Señ"
+---
+
+Por segundo año consecutivo, una iniciativa de la Asociación Gerontológica de Jesús María prendió en un grupo de jóvenes de cinco instituciones escolares, quienes desde hoy comenzaron a trabajar en una campaña destinada a la recolección de alimentos para ancianos carenciados. Participan este año de la campaña denominada "las cuatro esquinas de la solidaridad", alumnos del Ipem 69, del Colegio Nuestra Señora del Huerto, de la Asociación educativa Pío León, del Ipem 294 y del Instituto Nuestra Señ
+
+Por segundo año consecutivo, una iniciativa de la Asociación Gerontológica de Jesús María prendió en un grupo de jóvenes de cinco instituciones escolares, quienes desde hoy comenzaron a trabajar en una campaña destinada a la recolección de alimentos para ancianos carenciados. Participan este año de la campaña denominada "las cuatro esquinas de la solidaridad", alumnos del Ipem 69, del Colegio Nuestra Señora del Huerto, de la Asociación educativa Pío León, del Ipem 294 y del Instituto Nuestra Señora del Rosario del Milagro. En la primer jornada, los jóvenes estudiantes receptarán las donaciones voluntarias de los vecinos, aunque se explicó que los productos que más se necesitan son: sémola, polenta, tomates al natural, yerba, té, mermelada y galletas; cuyos principales beneficiarios son 66 mayores adultos que fueran censados oportunamente por los miembros de la Asociación. Finalmente, se indicó que la primer esquina elegida para el inicio de la campaña fue la intersección de las calles Tucumán e Ingeniero Olmos, en pleno centro de Jesús María donde cada institución tendrá su stand de recepción de mercaderías.

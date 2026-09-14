@@ -1,0 +1,56 @@
+---
+title: "Cuánto necesita una familia para una noche de festival en Jesús María"
+date: 2019-01-08T00:00:00-03:00
+categories: ["Suplemento Vos"]
+tags: ["Jesús María"]
+description: "Claudio Minoldo."
+---
+
+Claudio Minoldo.
+
+Claudio Minoldo.
+Corresponsalía.
+Jesús María. El Festival de Jesús María siempre hizo gala de ser
+familiar y popular, de los que resultaba más económico en comparación
+con otros espectáculos. En parte, cimentó su fama en la cantidad de
+horas de desarrollo que tiene cada noche con un mínimo de ocho. Y en
+muchos aspectos sigue siendo más accesible, pero ¿cuánto le cuesta a una
+familia de cuatro personas disfrutar de una noche festivalera?
+Obviamente, que el costo final dependerá de si la salida es “gasolera”,
+“muy gasolera”, u “holgada”. Y vamos a suponer que se trata de una
+familia de cuatro integrantes. Partamos del costo de la entrada general
+de $ 430 y de que ingresará con una conservadora con los insumos para
+pasar la noche que cuesta otros $ 350. El contenido de la heladera
+podría resolverse con una compra de supermercado de alrededor de 700
+pesos considerando varias bebidas, pan, fiambre, y algún extra como
+postre o frutas.
+Si la familia viajo desde 50 kilómetros a la redonda en transporte tiene
+$ 820 en boletos de ida y vuelta. Si lo hace en vehículo desde la misma
+distancia, tiene entre $ 400 y $ 600 de combustible, $ 60 de peajes, y
+cuando menos $ 300 de estacionamiento por toda la noche. Pasando en
+limpio, para una salida “gasolera” una familia debe disponer de un
+mínimo de $ 3500.
+Según una encuesta que viene haciendo el municipio de Jesús María, el 70
+por ciento de los visitantes durante el Festival no ingresa al
+anfiteatro y eso les permite movilizarse con muchos menos recursos y
+disfrutar del entorno de comedores y parrillas que programan sus propios
+espectáculos gratuitos. Pero, atención, que muchas familias que se
+ahorran el dinero de la entrada al festival convierten ese ahorro en una
+buena cena afuera.
+Como la oferta es más variada es más difícil calcular en que podrá
+invertir una familia dispuesta a disfrutar de Jesús María en plan ultra
+gasolero. De todos modos, habrá que disponer de un mínimo de $ 2000 si
+se pretende una estadía algo prolongada.
+Como para tener presente, estos son algunos de los precios que se
+manejarán afuera del anfiteatro: picada caroyense surtida para dos
+personas desde $200; pizzas desde $200; lomitos desde $170; pastas desde
+$160; vinos desde $150; cerveza desde $140; gaseosas desde $85. Una
+parrillada se puede conseguir desde $ 200 por persona, el locro desde $
+100, y la docena de empanadas alrededor de $ 200.
+Y, por último, para la familia que no está dispuesta a pasar privaciones
+mientras disfruta de su noche festivalera, serán necesarios desde $ 6000
+para satisfacer sus necesidades de transporte y entradas con platea y
+comida, o entradas generales y cena en comedor. En la división del gasto
+que disponga cada familia por la cantidad de horas que decida quedarse
+está la ecuación que convierte a Jesús María en una opción todavía
+accesible y popular.

@@ -1,0 +1,11 @@
+---
+title: "Caroya se prepara para controlar el tránsito pesado"
+date: 2000-10-12T00:00:00-03:00
+categories: ["Gran Córdoba"]
+tags: ["Colonia Caroya"]
+description: "A raíz del comienzo del cobro de peaje sobre la ruta nacional 9 norte, concejales y funcionarios de Colonia Caroya se vienen preparando para controlar la circulación de vehículos de gran porte que pasen por la localidad, en vista de la posibilidad de utilizar como desvío la ruta provincial A-174 que, también, pasa por Colonia Tirolesa. La primera de las medidas estudiadas dentro del Concejo Deliberante es la posibilidad de desviar a los camiones por la calle 124, es decir, por el costado de Arco"
+---
+
+A raíz del comienzo del cobro de peaje sobre la ruta nacional 9 norte, concejales y funcionarios de Colonia Caroya se vienen preparando para controlar la circulación de vehículos de gran porte que pasen por la localidad, en vista de la posibilidad de utilizar como desvío la ruta provincial A-174 que, también, pasa por Colonia Tirolesa. La primera de las medidas estudiadas dentro del Concejo Deliberante es la posibilidad de desviar a los camiones por la calle 124, es decir, por el costado de Arco
+
+A raíz del comienzo del cobro de peaje sobre la ruta nacional 9 norte, concejales y funcionarios de Colonia Caroya se vienen preparando para controlar la circulación de vehículos de gran porte que pasen por la localidad, en vista de la posibilidad de utilizar como desvío la ruta provincial A-174 que, también, pasa por Colonia Tirolesa. La primera de las medidas estudiadas dentro del Concejo Deliberante es la posibilidad de desviar a los camiones por la calle 124, es decir, por el costado de Arcor y sin ingresar a la zona urbana de la ciudad, aunque también se estudia la posibilidad de que se utilicen otras arterias en sentido norte-sur. Desde el comienzo del cobro de peaje, la circulación de camiones ha sido relevada por el secretario de Obras Públicas, Sergio Blessio, quien reconoció un aumento de circulación de vehículos, sobre todo en horas de la tarde y de la noche. Aunque todavía ese flujo de tránsito no fue significativo, se mantienen conversaciones con Vialidad Nacional para la utilización de una balanza que certifique que nadie circule con más de seis o siete toneladas de carga, cantidad que puede soportar el asfalto que tienen las principales calles.
