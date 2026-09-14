@@ -10,3 +10,5 @@ theme = "ananke"
 [taxonomies]
   category = "categories"
   tag = "tags"
+
+publishDir = "docs"
