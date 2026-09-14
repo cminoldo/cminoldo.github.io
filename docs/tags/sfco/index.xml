@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Sfco on Archivo periodístico - Claudio Minoldo</title>
-		<link>https://cminoldo.github.io/tags/sfco/</link>
-		<description>Recent content in Sfco on Archivo periodístico - Claudio Minoldo</description>
+		<title>Sfco on Archivo periodistico - Claudio Minoldo</title>
+		<link>http://localhost:1313/tags/sfco/</link>
+		<description>Recent content in Sfco on Archivo periodistico - Claudio Minoldo</description>
 		<generator>Hugo</generator>
 		<language>es-AR</language>
 		
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Tue, 03 Sep 2019 00:00:00 -0300</lastBuildDate>
 		
-			<atom:link href="https://cminoldo.github.io/tags/sfco/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/tags/sfco/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Marcharon en San Francisco del Chañar antes del fallo sobre el femicidio</title>
-				<link>https://cminoldo.github.io/posts/marcharon-en-san-francisco-del-chanar-antes-del-fallo-sobre-el-femicidio-20190903/</link>
+				<link>http://localhost:1313/posts/marcharon-en-san-francisco-del-chanar-antes-del-fallo-sobre-el-femicidio-20190903/</link>
 				<pubDate>Tue, 03 Sep 2019 00:00:00 -0300</pubDate>
-				<guid>https://cminoldo.github.io/posts/marcharon-en-san-francisco-del-chanar-antes-del-fallo-sobre-el-femicidio-20190903/</guid>
+				<guid>http://localhost:1313/posts/marcharon-en-san-francisco-del-chanar-antes-del-fallo-sobre-el-femicidio-20190903/</guid>
 				<description>&lt;p&gt;de una mujer policía&lt;/p&gt;&#xA;&lt;p&gt;En vísperas de los alegatos y la sentencia, en la localidad se llevó a&#xA;cabo una multitudinaria marcha.&lt;/p&gt;&#xA;&lt;p&gt;Claudio Minoldo.&#xA;Corresponsalía San Francisco del Chañar. Una multitud se movilizó&#xA;durante la tarde de este lunes en esta localidad, ubicada a 199&#xA;kilómetros al norte de la ciudad de Córdoba, para reclamar por Justicia&#xA;por la muerte de Ana María Mendoza, la cabo primero de policía que fue&#xA;asesinada en agosto de 2017, homicidio por el que resultó imputado Luis&#xA;Valles Medina, su pareja.&#xA;“Nunca podrán matar a quien vive en tantos corazones”, “Justicia por&#xA;Ana”, “No nacimos mujeres para morir por serlo”, “Nunca más tendrán la&#xA;comodidad de nuestro silencio”, “A esta sociedad le indigna más una&#xA;mujer libre que una asesinada”, entre muchas otras consignas,&#xA;acompañaron la marcha por las calles de esta comunidad tan poco&#xA;habituada a exteriorizar públicamente la violencia de género.&#xA;Durante la mañana de hoy en la Cámara del Crimen de Deán Funes, tendrá&#xA;lugar la audiencia final donde se escucharán los alegatos de la fiscal&#xA;de Cámara Carolina Elías y del abogado querellante Luis Obregón, además&#xA;del abogado defensor Mauricio Lobos. Después de un cuarto intermedio,&#xA;los jurados populares y los vocales de Cámara darán a conocer la&#xA;sentencia.&#xA;La expectativa está centrada en que se reconozca que hubo violencia de&#xA;género preexistente al hecho en sí, tesis que el abogado defensor&#xA;intentó atacar durante todo el proceso.&lt;/p&gt;</description>
 			</item>
 	</channel>

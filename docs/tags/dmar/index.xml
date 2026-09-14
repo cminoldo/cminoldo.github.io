@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Dmar on Archivo periodístico - Claudio Minoldo</title>
-		<link>https://cminoldo.github.io/tags/dmar/</link>
-		<description>Recent content in Dmar on Archivo periodístico - Claudio Minoldo</description>
+		<title>Dmar on Archivo periodistico - Claudio Minoldo</title>
+		<link>http://localhost:1313/tags/dmar/</link>
+		<description>Recent content in Dmar on Archivo periodistico - Claudio Minoldo</description>
 		<generator>Hugo</generator>
 		<language>es-AR</language>
 		
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Tue, 25 Mar 1997 00:00:00 -0300</lastBuildDate>
 		
-			<atom:link href="https://cminoldo.github.io/tags/dmar/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/tags/dmar/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Intensa labor de los ediles caroyenses en los proyectos municipales</title>
-				<link>https://cminoldo.github.io/posts/intensa-labor-de-los-ediles-caroyenses-en-los-proyectos-municipales-19970325/</link>
+				<link>http://localhost:1313/posts/intensa-labor-de-los-ediles-caroyenses-en-los-proyectos-municipales-19970325/</link>
 				<pubDate>Tue, 25 Mar 1997 00:00:00 -0300</pubDate>
-				<guid>https://cminoldo.github.io/posts/intensa-labor-de-los-ediles-caroyenses-en-los-proyectos-municipales-19970325/</guid>
+				<guid>http://localhost:1313/posts/intensa-labor-de-los-ediles-caroyenses-en-los-proyectos-municipales-19970325/</guid>
 				<description>&lt;p&gt;Varios asuntos de interés vecinal fueron tratados en las primeras&lt;/p&gt;&#xA;&lt;p&gt;Varios asuntos de interés vecinal fueron tratados en las primeras&#xA;sesiones del corriente año entre los que se destacan: el proyecto del&#xA;ejecutivo sobre un incremento salarial, la creación de una agencia de&#xA;desarrollo local y numerosas obras que están esperando para su&#xA;ejecución. Sobre el primero de los temas se resolvió aprobar la&#xA;ordenanza que establece el incremento de los sueldos de los agentes&#xA;municipales de planta permanente, contratados y jornalizados,&#xA;excluyéndose del mismo el departamento Ejecutivo, el Tribunal de Cuentas&#xA;y el Concejo Deliberante. En cuanto a la creación de la agencia de&#xA;desarrollo, anunciada por el cuerpo ejecutivo al cumplirse un año de&#xA;gestión, cabe señalar que pasó a estudio de cada concejal para resolver&#xA;si la iniciativa propuesta por funcionario españoles resulta viable y&#xA;útil para las microempresas de la zona. En otro orden fueron aprobados&#xA;tres proyectos para la construción de cordón en distintos sectores de la&#xA;ciudad y se dió el visto bueno al presupuesto presentado por la empresa&#xA;Oblak para la provisión de materiales destinado a la sistematización del&#xA;canal de hidraúlica ubicado en la calle 52. Finalmente pasaron para otra&#xA;sesión tres proyectos presentados por el Concejo de la Juventud y se&#xA;brindó un principio de acuerdo a la propuesta de una empresa referido a&#xA;la optimización de la semaforización en la Av San Martín. Para definir&#xA;este tema se pidió precisiones al ejecutivo respecto a su aplicación en&#xA;cuanto a la cantidad y ubicación de los semáforos y sus ventajas para la&#xA;aprobación definitiva.&lt;/p&gt;</description>
 			</item>
 	</channel>

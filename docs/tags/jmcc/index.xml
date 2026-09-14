@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Jmcc on Archivo periodístico - Claudio Minoldo</title>
-		<link>https://cminoldo.github.io/tags/jmcc/</link>
-		<description>Recent content in Jmcc on Archivo periodístico - Claudio Minoldo</description>
+		<title>Jmcc on Archivo periodistico - Claudio Minoldo</title>
+		<link>http://localhost:1313/tags/jmcc/</link>
+		<description>Recent content in Jmcc on Archivo periodistico - Claudio Minoldo</description>
 		<generator>Hugo</generator>
 		<language>es-AR</language>
 		
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Thu, 02 Aug 2012 00:00:00 -0300</lastBuildDate>
 		
-			<atom:link href="https://cminoldo.github.io/tags/jmcc/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/tags/jmcc/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Iniciativas públicas y privadas para plantar dos mil árboles en Caroya y</title>
-				<link>https://cminoldo.github.io/posts/iniciativas-publicas-y-privadas-para-plantar-dos-mil-arboles-en-caroya-y-20120802/</link>
+				<link>http://localhost:1313/posts/iniciativas-publicas-y-privadas-para-plantar-dos-mil-arboles-en-caroya-y-20120802/</link>
 				<pubDate>Thu, 02 Aug 2012 00:00:00 -0300</pubDate>
-				<guid>https://cminoldo.github.io/posts/iniciativas-publicas-y-privadas-para-plantar-dos-mil-arboles-en-caroya-y-20120802/</guid>
+				<guid>http://localhost:1313/posts/iniciativas-publicas-y-privadas-para-plantar-dos-mil-arboles-en-caroya-y-20120802/</guid>
 				<description>&lt;p&gt;Jesús María&lt;/p&gt;&#xA;&lt;p&gt;Corresponsalía.&#xA;Jesús María y Colonia Caroya. A través del Departamento de Desarrollo&#xA;Rural y Ambiente de Colonia Caroya y de la agrupación política&#xA;Movimiento de Participación Regional junto al INTA, el Centro Educativo&#xA;Pío León, la Revista Carayá, y diferentes Grupos Scout se pusieron en&#xA;marcha dos campañas de recuperación forestal con las que esta región&#xA;incorporará dos mil ejemplares más al arbolado urbano.&lt;/p&gt;&#xA;&lt;p&gt;“Vamos por 1000” es el nombre de la campaña que comenzó el fin de semana&#xA;pasado en Jesús María con la plantación de los primeros 300 árboles de&#xA;especies autorizadas por las ordenanzas vigentes de la ciudad de Jesús&#xA;María, Colonia Caroya y Sinsacate. Los espacios en los que se plantaron&#xA;estos nuevos árboles fueron acordados con la Subsecretaría de Servicios&#xA;Públicos municipal. Paralelamente, se obsequiaron ejemplares a vecinos&#xA;para plantarlos frente a sus viviendas.&lt;/p&gt;</description>
 			</item>
 	</channel>

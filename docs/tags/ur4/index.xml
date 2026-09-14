@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Ur4 on Archivo periodístico - Claudio Minoldo</title>
-		<link>https://cminoldo.github.io/tags/ur4/</link>
-		<description>Recent content in Ur4 on Archivo periodístico - Claudio Minoldo</description>
+		<title>Ur4 on Archivo periodistico - Claudio Minoldo</title>
+		<link>http://localhost:1313/tags/ur4/</link>
+		<description>Recent content in Ur4 on Archivo periodistico - Claudio Minoldo</description>
 		<generator>Hugo</generator>
 		<language>es-AR</language>
 		
@@ -12,19 +12,19 @@
 		
 			<lastBuildDate>Mon, 24 Feb 2003 00:00:00 -0300</lastBuildDate>
 		
-			<atom:link href="https://cminoldo.github.io/tags/ur4/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/tags/ur4/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Detienen a peligroso delincuente en un intento de asalto</title>
-				<link>https://cminoldo.github.io/posts/detienen-a-peligroso-delincuente-en-un-intento-de-asalto-20030224/</link>
+				<link>http://localhost:1313/posts/detienen-a-peligroso-delincuente-en-un-intento-de-asalto-20030224/</link>
 				<pubDate>Mon, 24 Feb 2003 00:00:00 -0300</pubDate>
-				<guid>https://cminoldo.github.io/posts/detienen-a-peligroso-delincuente-en-un-intento-de-asalto-20030224/</guid>
+				<guid>http://localhost:1313/posts/detienen-a-peligroso-delincuente-en-un-intento-de-asalto-20030224/</guid>
 				<description>&lt;p&gt;Especial. Personal de la Unidad Regional 4 (UR4) detuvo en la madrugada de ayer a tres personas mayores de edad que, en apariencia, intentaban asaltar una estación de servicio en la localidad de Los Chañaritos. Según fuentes policiales, uno de los detenidos, había participado del robo al banco Nación de Laguna Larga en el año 1997 y, a fines del año pasado, había salido en libertad después de purgar condena por ese hecho.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>La falta de medios obliga a agudizar el ingenio</title>
-				<link>https://cminoldo.github.io/posts/la-falta-de-medios-obliga-a-agudizar-el-ingenio-20000714/</link>
+				<link>http://localhost:1313/posts/la-falta-de-medios-obliga-a-agudizar-el-ingenio-20000714/</link>
 				<pubDate>Fri, 14 Jul 2000 00:00:00 -0300</pubDate>
-				<guid>https://cminoldo.github.io/posts/la-falta-de-medios-obliga-a-agudizar-el-ingenio-20000714/</guid>
+				<guid>http://localhost:1313/posts/la-falta-de-medios-obliga-a-agudizar-el-ingenio-20000714/</guid>
 				<description>&lt;p&gt;La Unidad Regional 4(UR4) suma a las dificultades de su mapa de cobertura geográfica, la dispersión de las localidades que están bajo su órbita, sobre todo si se tiene en cuenta que abarca los departamentos Totoral, Río Primero y gran parte de Colón.&lt;/p&gt;&#xA;&lt;p&gt;La Unidad Regional 4(UR4) suma a las dificultades de su mapa de cobertura geográfica, la dispersión de las localidades que están bajo su órbita, sobre todo si se tiene en cuenta que abarca los departamentos Totoral, Río Primero y gran parte de Colón.&lt;/p&gt;</description>
 			</item>
 	</channel>

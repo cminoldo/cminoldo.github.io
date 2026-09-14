@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Cande on Archivo periodístico - Claudio Minoldo</title>
-		<link>https://cminoldo.github.io/tags/cande/</link>
-		<description>Recent content in Cande on Archivo periodístico - Claudio Minoldo</description>
+		<title>Cande on Archivo periodistico - Claudio Minoldo</title>
+		<link>http://localhost:1313/tags/cande/</link>
+		<description>Recent content in Cande on Archivo periodistico - Claudio Minoldo</description>
 		<generator>Hugo</generator>
 		<language>es-AR</language>
 		
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Tue, 15 Nov 2011 00:00:00 -0300</lastBuildDate>
 		
-			<atom:link href="https://cminoldo.github.io/tags/cande/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/tags/cande/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Candelaria sud todavía espera noticias sobre la construcción de la</title>
-				<link>https://cminoldo.github.io/posts/candelaria-sud-todavia-espera-noticias-sobre-la-construccion-de-la-20111115/</link>
+				<link>http://localhost:1313/posts/candelaria-sud-todavia-espera-noticias-sobre-la-construccion-de-la-20111115/</link>
 				<pubDate>Tue, 15 Nov 2011 00:00:00 -0300</pubDate>
-				<guid>https://cminoldo.github.io/posts/candelaria-sud-todavia-espera-noticias-sobre-la-construccion-de-la-20111115/</guid>
+				<guid>http://localhost:1313/posts/candelaria-sud-todavia-espera-noticias-sobre-la-construccion-de-la-20111115/</guid>
 				<description>&lt;p&gt;escuela primaria&lt;/p&gt;&#xA;&lt;p&gt;Corresponsalía.&#xA;Candelaria Sud. Pese a que hubo promesas del Ministerio de Educación de&#xA;Córdoba de construir una nueva escuela primaria para Candelaria Sud, el&#xA;ciclo lectivo está concluyendo y no hay noticias respecto del momento en&#xA;que comenzarán las obras. Este diario publicó el primer de julio de este&#xA;año&lt;/p&gt;</description>
 			</item>
 	</channel>

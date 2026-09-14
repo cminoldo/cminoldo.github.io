@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Uem on Archivo periodístico - Claudio Minoldo</title>
-		<link>https://cminoldo.github.io/tags/uem/</link>
-		<description>Recent content in Uem on Archivo periodístico - Claudio Minoldo</description>
+		<title>Uem on Archivo periodistico - Claudio Minoldo</title>
+		<link>http://localhost:1313/tags/uem/</link>
+		<description>Recent content in Uem on Archivo periodistico - Claudio Minoldo</description>
 		<generator>Hugo</generator>
 		<language>es-AR</language>
 		
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Sun, 13 May 2018 00:00:00 -0300</lastBuildDate>
 		
-			<atom:link href="https://cminoldo.github.io/tags/uem/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/tags/uem/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>En el interior, casi ninguna multa perdió frente a la inflación</title>
-				<link>https://cminoldo.github.io/posts/en-el-interior-casi-ninguna-multa-perdio-frente-a-la-inflacion-20180513/</link>
+				<link>http://localhost:1313/posts/en-el-interior-casi-ninguna-multa-perdio-frente-a-la-inflacion-20180513/</link>
 				<pubDate>Sun, 13 May 2018 00:00:00 -0300</pubDate>
-				<guid>https://cminoldo.github.io/posts/en-el-interior-casi-ninguna-multa-perdio-frente-a-la-inflacion-20180513/</guid>
+				<guid>http://localhost:1313/posts/en-el-interior-casi-ninguna-multa-perdio-frente-a-la-inflacion-20180513/</guid>
 				<description>&lt;p&gt;Atados al precio de la nafta, de ajustes salariales o, incluso, de la&lt;/p&gt;&#xA;&lt;p&gt;Atados al precio de la nafta, de ajustes salariales o, incluso, de la&#xA;propia inflación, los municipios cordobeses se las arreglaron para tener&#xA;su actualización de precios al día.&lt;/p&gt;&#xA;&lt;p&gt;Corresponsalías. Un relevamiento realizado por este diario en diferentes&#xA;municipios del interior provincial mostró que, más allá de la&#xA;metodología que eligen para establecer la multa, durante el último&#xA;bienio la mayoría tuvo actualizaciones en los valores por encima de la&#xA;inflación o, al menos, ninguno perdió frente a ella. Entre los primeros,&#xA;están los que tienen atado el valor de las multas al precio de la nafta.&#xA;Tras los vertiginosos años de hiperinflación y la entrada en vigor de la&#xA;ley de Convertibilidad (marzo de 1991), nació en los municipios la&#xA;necesidad de asegurar un mecanismo de actualización para su sistema de&#xA;multas. Así, y con distintos nombres, nacieron las Unidades de Multa. Y&#xA;en cada municipio se optó por un sistema diferente, por ejemplo, en Río&#xA;Ceballos representa el costo de un litro de nafta súper más bajo del&#xA;mercado local; en Villa María, el 80% del litro de nafta super YPF en la&#xA;estación local del ACA; y en Río Tercero, del litro de combustible de&#xA;mayor precio en el mercado local.&#xA;Los que tienen atada la actualización al precio de la nafta súper,&#xA;experimentaron actualizaciones por encima de la inflación ya que, según&#xA;datos del Ministerio de Energía de la Nación, la “súper” se incrementó&#xA;31,28% durante 2016 y 32,67% durante 2017. En una década, el precio de&#xA;la nafta súper de YPF subió en Córdoba 1.140%: pasó de costar $ 2,12 a $&#xA;26,3 en una década, entre enero de 2008 y enero de 2018. Hoy, está por&#xA;encima de los $ 28.&#xA;Río Cuarto y Santa Rosa de Calamuchita, por otra parte, actualizan los&#xA;valores de las multas con mecanismos diferentes. En el primer caso, las&#xA;multas están fijadas en una unidad de medida (UM) que equivale a la&#xA;trigésima parte del haber básico, sin adicionales ni descuentos, de la&#xA;categoría 17, del personal de planta permanente del municipio. En Santa&#xA;Rosa, el incremento se realiza sobre la base de la inflación anual que,&#xA;para el último bienio, fue estimado por las autoridades locales en el&#xA;25% promedio para cada año.&lt;/p&gt;</description>
 			</item>
 	</channel>

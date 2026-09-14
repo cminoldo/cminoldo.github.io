@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Gral on Archivo periodístico - Claudio Minoldo</title>
-		<link>https://cminoldo.github.io/tags/gral/</link>
-		<description>Recent content in Gral on Archivo periodístico - Claudio Minoldo</description>
+		<title>Gral on Archivo periodistico - Claudio Minoldo</title>
+		<link>http://localhost:1313/tags/gral/</link>
+		<description>Recent content in Gral on Archivo periodistico - Claudio Minoldo</description>
 		<generator>Hugo</generator>
 		<language>es-AR</language>
 		
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Thu, 03 Mar 2011 00:00:00 -0300</lastBuildDate>
 		
-			<atom:link href="https://cminoldo.github.io/tags/gral/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/tags/gral/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Inauguraron tres sobrepasos sobre la ruta 9 norte</title>
-				<link>https://cminoldo.github.io/posts/inauguraron-tres-sobrepasos-sobre-la-ruta-9-norte-20110303/</link>
+				<link>http://localhost:1313/posts/inauguraron-tres-sobrepasos-sobre-la-ruta-9-norte-20110303/</link>
 				<pubDate>Thu, 03 Mar 2011 00:00:00 -0300</pubDate>
-				<guid>https://cminoldo.github.io/posts/inauguraron-tres-sobrepasos-sobre-la-ruta-9-norte-20110303/</guid>
+				<guid>http://localhost:1313/posts/inauguraron-tres-sobrepasos-sobre-la-ruta-9-norte-20110303/</guid>
 				<description>&lt;p&gt;Corresponsalía.&lt;/p&gt;&#xA;&lt;p&gt;Corresponsalía.&#xA;General Paz. El gobernador Juan Schiaretti hizo una visita fugaz a&#xA;Estación General Paz para supervisar la marcha de las obras de&#xA;sobrepasos sobre la ruta nacional 9 para la que se adjudicó la&#xA;construcción de ocho en el tramo que va desde la variante Juárez Celman&#xA;hasta el puente del río Carnero. Allí, aprovechó para dejar inaugurados&#xA;los tres primeros y señalar que la totalidad del trabajo estará&#xA;concluida cuando termine mayo.&#xA;Schiaretti aprovechó para señalar que no habrá aumento de peaje para la&#xA;9 norte al menos por este año, pese a que se había anunciado que iba a&#xA;incrementarse en un 20 por ciento cuando se finalizaran las obras que se&#xA;llevan adelante sobre la arteria que utilizan unos diez mil vehículos&#xA;por día.&lt;/p&gt;</description>
 			</item>
 	</channel>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>05 on Archivo periodístico - Claudio Minoldo</title>
-		<link>https://cminoldo.github.io/tags/05/</link>
-		<description>Recent content in 05 on Archivo periodístico - Claudio Minoldo</description>
+		<title>05 on Archivo periodistico - Claudio Minoldo</title>
+		<link>http://localhost:1313/tags/05/</link>
+		<description>Recent content in 05 on Archivo periodistico - Claudio Minoldo</description>
 		<generator>Hugo</generator>
 		<language>es-AR</language>
 		
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Thu, 20 Oct 2005 00:00:00 -0300</lastBuildDate>
 		
-			<atom:link href="https://cminoldo.github.io/tags/05/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/tags/05/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>UPC también en Jesús María y Caroya</title>
-				<link>https://cminoldo.github.io/posts/upc-tambien-en-jesus-maria-y-caroya-20051020/</link>
+				<link>http://localhost:1313/posts/upc-tambien-en-jesus-maria-y-caroya-20051020/</link>
 				<pubDate>Thu, 20 Oct 2005 00:00:00 -0300</pubDate>
-				<guid>https://cminoldo.github.io/posts/upc-tambien-en-jesus-maria-y-caroya-20051020/</guid>
+				<guid>http://localhost:1313/posts/upc-tambien-en-jesus-maria-y-caroya-20051020/</guid>
 				<description>&lt;p&gt;Jesús María. El radicalismo sumó otra derrota legislativa en esa ciudad en la que nunca ganó desde 1983 a la fecha. Unión por Córdoba se impuso por 4401 votos contra 3420 votos del radicalismo. El Frente Nuevo fue la tercera fuerza con 2329 sufragios y obtuvo el 15 por ciento del total de los votos.&lt;/p&gt;&#xA;&lt;p&gt;Jesús María. El radicalismo sumó otra derrota legislativa en esa ciudad en la que nunca ganó desde 1983 a la fecha. Unión por Córdoba se impuso por 4401 votos contra 3420 votos del radicalismo. El Frente Nuevo fue la tercera fuerza con 2329 sufragios y obtuvo el 15 por ciento del total de los votos.&lt;/p&gt;</description>
 			</item>
 	</channel>

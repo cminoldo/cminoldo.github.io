@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Dormi on Archivo periodístico - Claudio Minoldo</title>
-		<link>https://cminoldo.github.io/tags/dormi/</link>
-		<description>Recent content in Dormi on Archivo periodístico - Claudio Minoldo</description>
+		<title>Dormi on Archivo periodistico - Claudio Minoldo</title>
+		<link>http://localhost:1313/tags/dormi/</link>
+		<description>Recent content in Dormi on Archivo periodistico - Claudio Minoldo</description>
 		<generator>Hugo</generator>
 		<language>es-AR</language>
 		
@@ -12,26 +12,26 @@
 		
 			<lastBuildDate>Tue, 26 Feb 2008 00:00:00 -0300</lastBuildDate>
 		
-			<atom:link href="https://cminoldo.github.io/tags/dormi/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/tags/dormi/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>5 días de festejos por los 151 años de San José de la Dormida</title>
-				<link>https://cminoldo.github.io/posts/5-dias-de-festejos-por-los-151-anos-de-san-jose-de-la-dormida-20080226/</link>
+				<link>http://localhost:1313/posts/5-dias-de-festejos-por-los-151-anos-de-san-jose-de-la-dormida-20080226/</link>
 				<pubDate>Tue, 26 Feb 2008 00:00:00 -0300</pubDate>
-				<guid>https://cminoldo.github.io/posts/5-dias-de-festejos-por-los-151-anos-de-san-jose-de-la-dormida-20080226/</guid>
+				<guid>http://localhost:1313/posts/5-dias-de-festejos-por-los-151-anos-de-san-jose-de-la-dormida-20080226/</guid>
 				<description>&lt;p&gt;San José de la Dormida. Desde el 29 de febrero hasta el 4 de marzo, se llevarán a cabo diversas actividades conmemorativas por el 151 aniversario de la fundación de San José de la Dormida, la localidad más poblada y que mayor crecimiento tuvo en la última década en el departamento Tulumba.&lt;/p&gt;&#xA;&lt;p&gt;San José de la Dormida. Desde el 29 de febrero hasta el 4 de marzo, se llevarán a cabo diversas actividades conmemorativas por el 151 aniversario de la fundación de San José de la Dormida, la localidad más poblada y que mayor crecimiento tuvo en la última década en el departamento Tulumba.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Entregan banderas en San José de la Dormida</title>
-				<link>https://cminoldo.github.io/posts/entregan-banderas-en-san-jose-de-la-dormida-20000707/</link>
+				<link>http://localhost:1313/posts/entregan-banderas-en-san-jose-de-la-dormida-20000707/</link>
 				<pubDate>Fri, 07 Jul 2000 00:00:00 -0300</pubDate>
-				<guid>https://cminoldo.github.io/posts/entregan-banderas-en-san-jose-de-la-dormida-20000707/</guid>
+				<guid>http://localhost:1313/posts/entregan-banderas-en-san-jose-de-la-dormida-20000707/</guid>
 				<description>&lt;p&gt;Este domingo, durante el acto por el nueve de julio, el intendente de San José de la Dormida, José Carreras, junto al senador por Tulumba, Isaac Lopez, procederá a la entrega de banderas de ceremonia para las instituciones escolares de la ciudad y para las escuelas rurales de la zona. Los actos conmemorativos por la independencia de Argentina comenzarán a la hora siete con salva de bombas y con un chocolate para toda la localidad a la hora nueve y treinta. Cerca de las 10 y 30, la escuela Especi&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>San José de la Dormida festeja sus 143 años de historia</title>
-				<link>https://cminoldo.github.io/posts/san-jose-de-la-dormida-festeja-sus-143-anos-de-historia-20000323/</link>
+				<link>http://localhost:1313/posts/san-jose-de-la-dormida-festeja-sus-143-anos-de-historia-20000323/</link>
 				<pubDate>Thu, 23 Mar 2000 00:00:00 -0300</pubDate>
-				<guid>https://cminoldo.github.io/posts/san-jose-de-la-dormida-festeja-sus-143-anos-de-historia-20000323/</guid>
+				<guid>http://localhost:1313/posts/san-jose-de-la-dormida-festeja-sus-143-anos-de-historia-20000323/</guid>
 				<description>&lt;p&gt;Este fin de semana tendrán lugar los festejos por el aniversario de la fundación de la ciudad, en los que se alternarán muestras de artesanías, destrezas criollas y la elección de la reina que representará a la ciudad en el 2000.&lt;/p&gt;&#xA;&lt;p&gt;Este fin de semana tendrán lugar los festejos por el aniversario de la fundación de la ciudad, en los que se alternarán muestras de artesanías, destrezas criollas y la elección de la reina que representará a la ciudad en el 2000.&lt;/p&gt;</description>
 			</item>
 	</channel>

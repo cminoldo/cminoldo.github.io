@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Verano on Archivo periodístico - Claudio Minoldo</title>
-		<link>https://cminoldo.github.io/tags/verano/</link>
-		<description>Recent content in Verano on Archivo periodístico - Claudio Minoldo</description>
+		<title>Verano on Archivo periodistico - Claudio Minoldo</title>
+		<link>http://localhost:1313/tags/verano/</link>
+		<description>Recent content in Verano on Archivo periodistico - Claudio Minoldo</description>
 		<generator>Hugo</generator>
 		<language>es-AR</language>
 		
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Fri, 17 Dec 2004 00:00:00 -0300</lastBuildDate>
 		
-			<atom:link href="https://cminoldo.github.io/tags/verano/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/tags/verano/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Jesús María. La edición 40 del Festival de Doma y Folklore promete una recepción masiva de visitantes, desde el 5 al 17 de enero. Desde la Dirección de Cultura se estimó que cerca de 300 mil turistas podrían llegar a la ciudad durante las noches del color y del coraje y generar ganancias superiores</title>
-				<link>https://cminoldo.github.io/posts/jesus-maria-la-edicion-40-del-festival-de-doma-y-folklore-promete-una-recepcion--20041217/</link>
+				<link>http://localhost:1313/posts/jesus-maria-la-edicion-40-del-festival-de-doma-y-folklore-promete-una-recepcion--20041217/</link>
 				<pubDate>Fri, 17 Dec 2004 00:00:00 -0300</pubDate>
-				<guid>https://cminoldo.github.io/posts/jesus-maria-la-edicion-40-del-festival-de-doma-y-folklore-promete-una-recepcion--20041217/</guid>
+				<guid>http://localhost:1313/posts/jesus-maria-la-edicion-40-del-festival-de-doma-y-folklore-promete-una-recepcion--20041217/</guid>
 				<description>&lt;p&gt;Para el 19 y 20 de febrero está prevista la segunda edición del Festival Infantil de Disfraces, una propuesta que este año llevó premios a los más pequeños y le dio un colorido distinto a la ciudad.&lt;/p&gt;&#xA;&lt;p&gt;Para el 19 y 20 de febrero está prevista la segunda edición del Festival Infantil de Disfraces, una propuesta que este año llevó premios a los más pequeños y le dio un colorido distinto a la ciudad.&lt;/p&gt;</description>
 			</item>
 	</channel>

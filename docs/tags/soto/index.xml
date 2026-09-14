@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Soto on Archivo periodístico - Claudio Minoldo</title>
-		<link>https://cminoldo.github.io/tags/soto/</link>
-		<description>Recent content in Soto on Archivo periodístico - Claudio Minoldo</description>
+		<title>Soto on Archivo periodistico - Claudio Minoldo</title>
+		<link>http://localhost:1313/tags/soto/</link>
+		<description>Recent content in Soto on Archivo periodistico - Claudio Minoldo</description>
 		<generator>Hugo</generator>
 		<language>es-AR</language>
 		
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Tue, 12 Jun 2001 00:00:00 -0300</lastBuildDate>
 		
-			<atom:link href="https://cminoldo.github.io/tags/soto/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/tags/soto/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Villa de Soto será sede de la 19ª jornada de historia del norte de Córdoba</title>
-				<link>https://cminoldo.github.io/posts/villa-de-soto-sera-sede-de-la-19-jornada-de-historia-del-norte-de-cordoba-20010612/</link>
+				<link>http://localhost:1313/posts/villa-de-soto-sera-sede-de-la-19-jornada-de-historia-del-norte-de-cordoba-20010612/</link>
 				<pubDate>Tue, 12 Jun 2001 00:00:00 -0300</pubDate>
-				<guid>https://cminoldo.github.io/posts/villa-de-soto-sera-sede-de-la-19-jornada-de-historia-del-norte-de-cordoba-20010612/</guid>
+				<guid>http://localhost:1313/posts/villa-de-soto-sera-sede-de-la-19-jornada-de-historia-del-norte-de-cordoba-20010612/</guid>
 				<description>&lt;p&gt;El Círculo de Amigos de la Historia del Norte de Córdoba “Monseñor Pablo Cabrera” en forma conjunta con la Municipalidad de Villa de Soto pondrán en marcha este sábado y domingo una nueva Jornada de Historia del Norte, en coincidencia con el 25º aniversario de la institución que presidió, hasta su fallecimiento, el profesor Horacio Goñi Fierro.&lt;/p&gt;&#xA;&lt;p&gt;El Círculo de Amigos de la Historia del Norte de Córdoba “Monseñor Pablo Cabrera” en forma conjunta con la Municipalidad de Villa de Soto pondrán en marcha este sábado y domingo una nueva Jornada de Historia del Norte, en coincidencia con el 25º aniversario de la institución que presidió, hasta su fallecimiento, el profesor Horacio Goñi Fierro.&lt;/p&gt;</description>
 			</item>
 	</channel>

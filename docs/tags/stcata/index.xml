@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Stcata on Archivo periodístico - Claudio Minoldo</title>
-		<link>https://cminoldo.github.io/tags/stcata/</link>
-		<description>Recent content in Stcata on Archivo periodístico - Claudio Minoldo</description>
+		<title>Stcata on Archivo periodistico - Claudio Minoldo</title>
+		<link>http://localhost:1313/tags/stcata/</link>
+		<description>Recent content in Stcata on Archivo periodistico - Claudio Minoldo</description>
 		<generator>Hugo</generator>
 		<language>es-AR</language>
 		
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Fri, 22 Sep 2000 00:00:00 -0300</lastBuildDate>
 		
-			<atom:link href="https://cminoldo.github.io/tags/stcata/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/tags/stcata/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Preocupan refacciones en la Estancia de Santa Catalina</title>
-				<link>https://cminoldo.github.io/posts/preocupan-refacciones-en-la-estancia-de-santa-catalina-20000922/</link>
+				<link>http://localhost:1313/posts/preocupan-refacciones-en-la-estancia-de-santa-catalina-20000922/</link>
 				<pubDate>Fri, 22 Sep 2000 00:00:00 -0300</pubDate>
-				<guid>https://cminoldo.github.io/posts/preocupan-refacciones-en-la-estancia-de-santa-catalina-20000922/</guid>
+				<guid>http://localhost:1313/posts/preocupan-refacciones-en-la-estancia-de-santa-catalina-20000922/</guid>
 				<description>&lt;p&gt;Desde hace un mes y medio, el consorcio que administra la Estancia de Santa Catalina —una de las cinco propuestas como patrimonio de la Humanidad— decidió encarar refacciones en los techos y la parte interior de la nave principal de la iglesia sin que medie autorización por parte de la Comisión Nacional de Museos, Monumentos y Lugares Históricos, órgano del que dependen todos los monumentos nacionales.&lt;/p&gt;&#xA;&lt;p&gt;Desde hace un mes y medio, el consorcio que administra la Estancia de Santa Catalina —una de las cinco propuestas como patrimonio de la Humanidad— decidió encarar refacciones en los techos y la parte interior de la nave principal de la iglesia sin que medie autorización por parte de la Comisión Nacional de Museos, Monumentos y Lugares Históricos, órgano del que dependen todos los monumentos nacionales.&lt;/p&gt;</description>
 			</item>
 	</channel>

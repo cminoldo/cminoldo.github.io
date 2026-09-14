@@ -27740,5 +27740,12 @@
 				<guid>https://cminoldo.github.io/posts/jesus-maria-19961125/</guid>
 				<description>&lt;p&gt;DEUDAS POR LOTES&lt;/p&gt;&#xA;&lt;p&gt;DEUDAS POR LOTES&lt;/p&gt;&#xA;&lt;p&gt;La Municipalidad de Jesús María y la Cooperativa de Servicios Públicos&#xA;firmaron un convenio por el cual ambas instituciones resuelven el&#xA;problema de las deudas que mantenían entre si. La Municipalidad saldó de&#xA;esta manera los montos adeudados hasta julio de 1995 lográndose una&#xA;rebaja enlos precios de la energia, tanto del alumbrado como de las&#xA;oficinas públicas A cambio, la Cooperativa recibió cincuenta lotes en el&#xA;nuevo loteo de Barrio La Florida.&lt;/p&gt;</description>
 			</item>
+			<item>
+				<title>Buscador</title>
+				<link>https://cminoldo.github.io/buscar/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://cminoldo.github.io/buscar/</guid>
+				<description>&lt;link href=&#34;https://cminoldo.github.io/pagefind/pagefind-ui.css&#34; rel=&#34;stylesheet&#34;&gt;&#xD;&#xA;&lt;div id=&#34;search&#34;&gt;&lt;/div&gt;&#xD;&#xA;&lt;script src=&#34;https://cminoldo.github.io/pagefind/pagefind-ui.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;script&gt;&#xD;&#xA;  new PagefindUI({ element: &#34;#search&#34;, showSubResults: true });&#xD;&#xA;&lt;/script&gt;</description>
+			</item>
 	</channel>
 </rss>

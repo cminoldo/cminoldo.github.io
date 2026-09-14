@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Eabr on Archivo periodístico - Claudio Minoldo</title>
-		<link>https://cminoldo.github.io/tags/eabr/</link>
-		<description>Recent content in Eabr on Archivo periodístico - Claudio Minoldo</description>
+		<title>Eabr on Archivo periodistico - Claudio Minoldo</title>
+		<link>http://localhost:1313/tags/eabr/</link>
+		<description>Recent content in Eabr on Archivo periodistico - Claudio Minoldo</description>
 		<generator>Hugo</generator>
 		<language>es-AR</language>
 		
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Wed, 16 Apr 1997 00:00:00 -0300</lastBuildDate>
 		
-			<atom:link href="https://cminoldo.github.io/tags/eabr/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/tags/eabr/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Empleados municipales de Caroya continúan sus reclamos</title>
-				<link>https://cminoldo.github.io/posts/empleados-municipales-de-caroya-continuan-sus-reclamos-19970416/</link>
+				<link>http://localhost:1313/posts/empleados-municipales-de-caroya-continuan-sus-reclamos-19970416/</link>
 				<pubDate>Wed, 16 Apr 1997 00:00:00 -0300</pubDate>
-				<guid>https://cminoldo.github.io/posts/empleados-municipales-de-caroya-continuan-sus-reclamos-19970416/</guid>
+				<guid>http://localhost:1313/posts/empleados-municipales-de-caroya-continuan-sus-reclamos-19970416/</guid>
 				<description>&lt;p&gt;Conocidas las cifras que por ordenanza se aumentaron tanto a los agentes&lt;/p&gt;&#xA;&lt;p&gt;Conocidas las cifras que por ordenanza se aumentaron tanto a los agentes&#xA;municipales como al departamento ejecutivo, el gremio de municipales&#xA;caroyenses hizo sentir su descontento reuniéndose en una asamblea de la&#xA;que participó el Secretario General de los trabajadores municipales de&#xA;la Provincia, Domingo Della Puppa.&lt;/p&gt;&#xA;&lt;p&gt;En la reunión se evaluó la política salarial llevada a cabo por el&#xA;departamento ejecutivo de Caroya, a la que calificaron de arbitraria&#xA;porque solamente consideró aumentos para la planta política, es decir,&#xA;Intendente, Secretarios, Concejo Deliberante y Tribunal de Cuentas.&lt;/p&gt;</description>
 			</item>
 	</channel>

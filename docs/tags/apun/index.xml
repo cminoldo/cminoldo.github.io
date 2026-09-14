@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Apun on Archivo periodístico - Claudio Minoldo</title>
-		<link>https://cminoldo.github.io/tags/apun/</link>
-		<description>Recent content in Apun on Archivo periodístico - Claudio Minoldo</description>
+		<title>Apun on Archivo periodistico - Claudio Minoldo</title>
+		<link>http://localhost:1313/tags/apun/</link>
+		<description>Recent content in Apun on Archivo periodistico - Claudio Minoldo</description>
 		<generator>Hugo</generator>
 		<language>es-AR</language>
 		
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Thu, 20 Nov 2003 00:00:00 -0300</lastBuildDate>
 		
-			<atom:link href="https://cminoldo.github.io/tags/apun/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/tags/apun/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>- Las ruinas jesuíticas forman parte del conjunto declarado Patrimonio de la Humanidad por Unesco en el año 2000. Por ordenanza, los inmuebles de propiedad privada donde están las ruinas tienen ciertas restricciones edilicias y de construcción.</title>
-				<link>https://cminoldo.github.io/posts/las-ruinas-jesuiticas-forman-parte-del-conjunto-declarado-patrimonio-de-la-human-20031120/</link>
+				<link>http://localhost:1313/posts/las-ruinas-jesuiticas-forman-parte-del-conjunto-declarado-patrimonio-de-la-human-20031120/</link>
 				<pubDate>Thu, 20 Nov 2003 00:00:00 -0300</pubDate>
-				<guid>https://cminoldo.github.io/posts/las-ruinas-jesuiticas-forman-parte-del-conjunto-declarado-patrimonio-de-la-human-20031120/</guid>
+				<guid>http://localhost:1313/posts/las-ruinas-jesuiticas-forman-parte-del-conjunto-declarado-patrimonio-de-la-human-20031120/</guid>
 				<description>&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Con posterioridad a la declaratoria de Unesco, dos fracciones de terreno fueron comprados por Luis Picat y Fernando Romanutti. Picat, a su vez, le vendió una parte de su inmueble a Francisco Rubino.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Con posterioridad a la declaratoria de Unesco, dos fracciones de terreno fueron comprados por Luis Picat y Fernando Romanutti. Picat, a su vez, le vendió una parte de su inmueble a Francisco Rubino.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;A principios de agosto de este año, el rumor, de que el molino jesuítico de 1760 se iba a demoler, generó una movida de autoridades provinciales, municipales, y de vecinos para evitar la intervención sobre la ruina.&lt;/p&gt;</description>
 			</item>
 	</channel>

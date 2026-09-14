@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Ec on Archivo periodístico - Claudio Minoldo</title>
-		<link>https://cminoldo.github.io/tags/ec/</link>
-		<description>Recent content in Ec on Archivo periodístico - Claudio Minoldo</description>
+		<title>Ec on Archivo periodistico - Claudio Minoldo</title>
+		<link>http://localhost:1313/tags/ec/</link>
+		<description>Recent content in Ec on Archivo periodistico - Claudio Minoldo</description>
 		<generator>Hugo</generator>
 		<language>es-AR</language>
 		
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Sun, 11 Dec 2005 00:00:00 -0300</lastBuildDate>
 		
-			<atom:link href="https://cminoldo.github.io/tags/ec/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/tags/ec/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Jesús María</title>
-				<link>https://cminoldo.github.io/posts/jesus-maria-20051211/</link>
+				<link>http://localhost:1313/posts/jesus-maria-20051211/</link>
 				<pubDate>Sun, 11 Dec 2005 00:00:00 -0300</pubDate>
-				<guid>https://cminoldo.github.io/posts/jesus-maria-20051211/</guid>
+				<guid>http://localhost:1313/posts/jesus-maria-20051211/</guid>
 				<description>&lt;hr&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Tasa   Porcentaje de aumento   Desde cuándo rige   ¿Es la primera después de la devaluación?   ¿A qué contribuyentes alcanza?&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Propiedad   30 por ciento   Enero 2006   Es la primera desde 1993   A todos&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Agua   30 por ciento   Enero 2006   Es la primera desde 1993   El centro de la ciudad fue exceptuado de este incremento&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Automotores   10 por ciento   Enero 2006   Sí, la primera después de la devaluación   A todos&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Marisa Dasso, Jefa de Recursos Tributarios, justificó los aumentos de&#xA;tasas casi con exclusividad en la inflación y en el mayor costo&#xA;operativo que tiene el municipio para la prestación de los servicios&#xA;públicos. Fue exceptuado el incremento en la Tasa Comercial porque&#xA;durante 2005 se hizo un minucioso trabajo de relevamiento y&#xA;recategorización del sector comercial que le permitió a la Municipalidad&#xA;cambiar las bases imponibles para 2006. El dato es que en la ciudad no&#xA;hubo reajuste de tasas en los últimos 12 años.&lt;/p&gt;</description>
 			</item>
 	</channel>

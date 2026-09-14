@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Dica on Archivo periodístico - Claudio Minoldo</title>
-		<link>https://cminoldo.github.io/tags/dica/</link>
-		<description>Recent content in Dica on Archivo periodístico - Claudio Minoldo</description>
+		<title>Dica on Archivo periodistico - Claudio Minoldo</title>
+		<link>http://localhost:1313/tags/dica/</link>
+		<description>Recent content in Dica on Archivo periodistico - Claudio Minoldo</description>
 		<generator>Hugo</generator>
 		<language>es-AR</language>
 		
@@ -12,26 +12,26 @@
 		
 			<lastBuildDate>Fri, 27 Dec 1996 00:00:00 -0300</lastBuildDate>
 		
-			<atom:link href="https://cminoldo.github.io/tags/dica/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/tags/dica/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Valiosa iniciativa para discapacitados en Jesús María</title>
-				<link>https://cminoldo.github.io/posts/valiosa-iniciativa-para-discapacitados-en-jesus-maria-19961227/</link>
+				<link>http://localhost:1313/posts/valiosa-iniciativa-para-discapacitados-en-jesus-maria-19961227/</link>
 				<pubDate>Fri, 27 Dec 1996 00:00:00 -0300</pubDate>
-				<guid>https://cminoldo.github.io/posts/valiosa-iniciativa-para-discapacitados-en-jesus-maria-19961227/</guid>
+				<guid>http://localhost:1313/posts/valiosa-iniciativa-para-discapacitados-en-jesus-maria-19961227/</guid>
 				<description>&lt;p&gt;Una interesante propuesta laboral que persigue como fin que personas con&lt;/p&gt;&#xA;&lt;p&gt;Una interesante propuesta laboral que persigue como fin que personas con&#xA;capacidades diferentes o discapacitados puedan sentirse útiles&#xA;trabajando, se esta llevando a cabo en el Centro Integral del&#xA;discapacitado (C.I.D) de Jesús María.&lt;/p&gt;&#xA;&lt;p&gt;El microemprendimiento partió de la empresa Shangai, ubicada en la&#xA;localidad serrana de Villa Carlos Paz, que produce artículos de&#xA;perfumería alternativa (sahumerios, flores, hierbas, aceites, etc).&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Eligieron autoridades en el Centro Comercial de Jesús María</title>
-				<link>https://cminoldo.github.io/posts/eligieron-autoridades-en-el-centro-comercial-de-jesus-maria-19961223/</link>
+				<link>http://localhost:1313/posts/eligieron-autoridades-en-el-centro-comercial-de-jesus-maria-19961223/</link>
 				<pubDate>Mon, 23 Dec 1996 00:00:00 -0300</pubDate>
-				<guid>https://cminoldo.github.io/posts/eligieron-autoridades-en-el-centro-comercial-de-jesus-maria-19961223/</guid>
+				<guid>http://localhost:1313/posts/eligieron-autoridades-en-el-centro-comercial-de-jesus-maria-19961223/</guid>
 				<description>&lt;p&gt;La lista única, encabezada por Norberto Zolovey, resultó electa en la&lt;/p&gt;&#xA;&lt;p&gt;La lista única, encabezada por Norberto Zolovey, resultó electa en la&#xA;Asamblea General Ordinaria que se llevó a cabo el pasado jueves 19 de&#xA;diciembre, en el salón del Centro Comercial e Industrial de Jesús María.&lt;/p&gt;&#xA;&lt;p&gt;Las autoridades de la actual comisión directiva, que estarán en&#xA;funciones durante los próximos dos años, son practicamente los mismos&#xA;que estaban al frente de la entidad desde 1994.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Fin de semana musical en Colonia Caroya</title>
-				<link>https://cminoldo.github.io/posts/fin-de-semana-musical-en-colonia-caroya-19961218/</link>
+				<link>http://localhost:1313/posts/fin-de-semana-musical-en-colonia-caroya-19961218/</link>
 				<pubDate>Wed, 18 Dec 1996 00:00:00 -0300</pubDate>
-				<guid>https://cminoldo.github.io/posts/fin-de-semana-musical-en-colonia-caroya-19961218/</guid>
+				<guid>http://localhost:1313/posts/fin-de-semana-musical-en-colonia-caroya-19961218/</guid>
 				<description>&lt;p&gt;Una variada cartelera musical ofrecerán distintas agrupaciones el fin de&lt;/p&gt;&#xA;&lt;p&gt;Una variada cartelera musical ofrecerán distintas agrupaciones el fin de&#xA;semana en la ciudad de Colonia Caroya, como anticipo de la celebración&#xA;de Navidad.&lt;/p&gt;&#xA;&lt;p&gt;Para el día viernes 20 de diciembre está agendado el estreno de&#xA;“Akathistos” a cargo del coro municipal Fratelli, en las instalaciones&#xA;de la Parroquia Nuestra Señora de Monserrat, desde las 21:30hs.&lt;/p&gt;&#xA;&lt;p&gt;Como un anticipo de la creación de la escuela de música de Colonia&#xA;Caroya, integrantes del instituto “La Colmena” brindarán un concierto en&#xA;la plaza Nicolás Avellaneda el próximo sábado 21 de diciembre, a las 22&#xA;horas.&lt;/p&gt;</description>
 			</item>
 	</channel>

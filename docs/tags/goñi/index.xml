@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Goñi on Archivo periodístico - Claudio Minoldo</title>
-		<link>https://cminoldo.github.io/tags/go%C3%B1i/</link>
-		<description>Recent content in Goñi on Archivo periodístico - Claudio Minoldo</description>
+		<title>Goñi on Archivo periodistico - Claudio Minoldo</title>
+		<link>http://localhost:1313/tags/go%C3%B1i/</link>
+		<description>Recent content in Goñi on Archivo periodistico - Claudio Minoldo</description>
 		<generator>Hugo</generator>
 		<language>es-AR</language>
 		
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Thu, 03 Aug 2000 00:00:00 -0300</lastBuildDate>
 		
-			<atom:link href="https://cminoldo.github.io/tags/go%C3%B1i/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/tags/go%C3%B1i/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>El Guardián de la historia del norte</title>
-				<link>https://cminoldo.github.io/posts/el-guardian-de-la-historia-del-norte-20000803/</link>
+				<link>http://localhost:1313/posts/el-guardian-de-la-historia-del-norte-20000803/</link>
 				<pubDate>Thu, 03 Aug 2000 00:00:00 -0300</pubDate>
-				<guid>https://cminoldo.github.io/posts/el-guardian-de-la-historia-del-norte-20000803/</guid>
+				<guid>http://localhost:1313/posts/el-guardian-de-la-historia-del-norte-20000803/</guid>
 				<description>&lt;p&gt;A meses de cumplir 80 años, Horacio Goñi Fierro, presidente del Círculo&lt;/p&gt;&#xA;&lt;p&gt;A meses de cumplir 80 años, Horacio Goñi Fierro, presidente del Círculo&#xA;de Amigos de la Historia del Norte, sigue trabajando infatigablemente&#xA;para la jornada de historia número 18, con el mismo entusiasmo con el&#xA;que decidió, un 12 de abril de 1976, comenzar la tarea de rescatar del&#xA;olvido el anecdotario histórico del norte provincial.&lt;/p&gt;&#xA;&lt;p&gt;Antes de llegar a la esquina de Celestino Gilardi y Mariano Moreno, en&#xA;la localidad de Estación Sarmiento, se puede ver desde lejos como bufa&#xA;rabiosamente una chimenea. Ya en el interior de la casa se escuchan&#xA;compases de vals y se pueden observar libros, estampa que se repite&#xA;prácticamente en todos los ambientes de la casa, como en el cuento de&#xA;Cortázar &amp;ldquo;Fin del mundo del fin&amp;rdquo;.&lt;/p&gt;</description>
 			</item>
 	</channel>

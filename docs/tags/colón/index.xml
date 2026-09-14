@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Colón on Archivo periodístico - Claudio Minoldo</title>
-		<link>https://cminoldo.github.io/tags/col%C3%B3n/</link>
-		<description>Recent content in Colón on Archivo periodístico - Claudio Minoldo</description>
+		<title>Colón on Archivo periodistico - Claudio Minoldo</title>
+		<link>http://localhost:1313/tags/col%C3%B3n/</link>
+		<description>Recent content in Colón on Archivo periodistico - Claudio Minoldo</description>
 		<generator>Hugo</generator>
 		<language>es-AR</language>
 		
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Tue, 25 Oct 2005 00:00:00 -0300</lastBuildDate>
 		
-			<atom:link href="https://cminoldo.github.io/tags/col%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/tags/col%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Gestionan reparaciones en 27 escuelas del Departamento Colón</title>
-				<link>https://cminoldo.github.io/posts/gestionan-reparaciones-en-27-escuelas-del-departamento-colon-20051025/</link>
+				<link>http://localhost:1313/posts/gestionan-reparaciones-en-27-escuelas-del-departamento-colon-20051025/</link>
 				<pubDate>Tue, 25 Oct 2005 00:00:00 -0300</pubDate>
-				<guid>https://cminoldo.github.io/posts/gestionan-reparaciones-en-27-escuelas-del-departamento-colon-20051025/</guid>
+				<guid>http://localhost:1313/posts/gestionan-reparaciones-en-27-escuelas-del-departamento-colon-20051025/</guid>
 				<description>&lt;p&gt;Jesús María. Los intendentes y presidentes comunales de la Comunidad Regional Colón definieron un cronograma de trabajo y pusieron plazo para refaccionar 27 escuelas, dentro del marco del convenio que se firmó con la Provincia, a mediados de septiembre.&lt;/p&gt;&#xA;&lt;p&gt;Jesús María. Los intendentes y presidentes comunales de la Comunidad Regional Colón definieron un cronograma de trabajo y pusieron plazo para refaccionar 27 escuelas, dentro del marco del convenio que se firmó con la Provincia, a mediados de septiembre.&lt;/p&gt;</description>
 			</item>
 	</channel>

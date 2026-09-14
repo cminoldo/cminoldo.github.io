@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Covid-19 on Archivo periodístico - Claudio Minoldo</title>
-		<link>https://cminoldo.github.io/tags/covid-19/</link>
-		<description>Recent content in Covid-19 on Archivo periodístico - Claudio Minoldo</description>
+		<title>Covid-19 on Archivo periodistico - Claudio Minoldo</title>
+		<link>http://localhost:1313/tags/covid-19/</link>
+		<description>Recent content in Covid-19 on Archivo periodistico - Claudio Minoldo</description>
 		<generator>Hugo</generator>
 		<language>es-AR</language>
 		
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Tue, 14 Sep 2021 00:00:00 -0300</lastBuildDate>
 		
-			<atom:link href="https://cminoldo.github.io/tags/covid-19/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/tags/covid-19/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Covid-19: con estrategias variadas, en el interior salen a captar a los</title>
-				<link>https://cminoldo.github.io/posts/covid-19-con-estrategias-variadas-en-el-interior-salen-a-captar-a-los-20210914/</link>
+				<link>http://localhost:1313/posts/covid-19-con-estrategias-variadas-en-el-interior-salen-a-captar-a-los-20210914/</link>
 				<pubDate>Tue, 14 Sep 2021 00:00:00 -0300</pubDate>
-				<guid>https://cminoldo.github.io/posts/covid-19-con-estrategias-variadas-en-el-interior-salen-a-captar-a-los-20210914/</guid>
+				<guid>http://localhost:1313/posts/covid-19-con-estrategias-variadas-en-el-interior-salen-a-captar-a-los-20210914/</guid>
 				<description>&lt;p&gt;que aún no se quieren vacunar&lt;/p&gt;&#xA;&lt;p&gt;En muchos municipios se repite la preocupación sobre cómo convencer a&#xA;quienes decidieron no vacunarse, más allá de todas las facilidades que&#xA;se ofrecen hoy para acceder a las dosis.&lt;/p&gt;&#xA;&lt;p&gt;Claudio Minoldo y corresponsalías. Alcanzar la “inmunidad de rebaño” es&#xA;lo que vienen repitiéndose como un “mantra” la mayoría de los municipios&#xA;y conglomerados de todo el territorio cordobés, pero para que ese deseo&#xA;se cumpla resulta indispensable llegar a la mayor cantidad posible de&#xA;vacunados contra el sars-cov-2, dependiendo de la variante de que se&#xA;trate.&#xA;Y lo que también se viene repitiendo sin importar el tamaño de la ciudad&#xA;o municipio en cuestión es la existencia de un núcleo duro que resiste&#xA;ese deseo colectivo y posterga la meta a conseguir. En algunas&#xA;comunidades se trata de un 10% de la población objetivo -los mayores de&#xA;18-, pero en otras llega a casi el 20%. De ahí, que muchos municipios&#xA;vengan ensayando diversas estrategias para acercar la vacuna lo más&#xA;posible a ese núcleo “rebelde”.&#xA;Vale aclarar que no se trata exclusivamente de cordobeses “antivacuna”&#xA;porque el en combo hay de todo: los que analizan la evolución de la&#xA;epidemia, los que van a esperar hasta último momento, los que tienen&#xA;miedo de las secuelas o de sentirse mal cuando reciban su dosis, y hasta&#xA;los que creen que vía vacuna van a recibir un chip con el que van a ser&#xA;monitoreados globalmente. Y también están los que no se vacunan porque&#xA;creen que la epidemia es un invento político y no se piensan someter a&#xA;esas maniobras. Incluso, hay posiciones más moderadas de gente que&#xA;prefiere cuidarse, permaneciendo aislada y evitando socializaciones&#xA;innecesarias.&lt;/p&gt;</description>
 			</item>
 	</channel>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Malvinas on Archivo periodístico - Claudio Minoldo</title>
-		<link>https://cminoldo.github.io/tags/malvinas/</link>
-		<description>Recent content in Malvinas on Archivo periodístico - Claudio Minoldo</description>
+		<title>Malvinas on Archivo periodistico - Claudio Minoldo</title>
+		<link>http://localhost:1313/tags/malvinas/</link>
+		<description>Recent content in Malvinas on Archivo periodistico - Claudio Minoldo</description>
 		<generator>Hugo</generator>
 		<language>es-AR</language>
 		
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Sat, 29 Jun 2002 00:00:00 -0300</lastBuildDate>
 		
-			<atom:link href="https://cminoldo.github.io/tags/malvinas/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/tags/malvinas/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Detienen a menor que baleó a colectivero</title>
-				<link>https://cminoldo.github.io/posts/detienen-a-menor-que-baleo-a-colectivero-20020629/</link>
+				<link>http://localhost:1313/posts/detienen-a-menor-que-baleo-a-colectivero-20020629/</link>
 				<pubDate>Sat, 29 Jun 2002 00:00:00 -0300</pubDate>
-				<guid>https://cminoldo.github.io/posts/detienen-a-menor-que-baleo-a-colectivero-20020629/</guid>
+				<guid>http://localhost:1313/posts/detienen-a-menor-que-baleo-a-colectivero-20020629/</guid>
 				<description>&lt;p&gt;Malvinas Argentinas. La realización de 21 allanamientos con 47 efectivos de la Unidad Regional 4 de policía arrojó como saldo la detención de un menor de 16 años -a quien se buscaba por haber baleado en la pierna a un colectivero- y el secuestro de innumerables objetos presuntamente robados.&lt;/p&gt;&#xA;&lt;p&gt;Malvinas Argentinas. La realización de 21 allanamientos con 47 efectivos de la Unidad Regional 4 de policía arrojó como saldo la detención de un menor de 16 años -a quien se buscaba por haber baleado en la pierna a un colectivero- y el secuestro de innumerables objetos presuntamente robados.&lt;/p&gt;</description>
 			</item>
 	</channel>

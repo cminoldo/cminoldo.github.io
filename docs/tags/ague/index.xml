@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Ague on Archivo periodístico - Claudio Minoldo</title>
-		<link>https://cminoldo.github.io/tags/ague/</link>
-		<description>Recent content in Ague on Archivo periodístico - Claudio Minoldo</description>
+		<title>Ague on Archivo periodistico - Claudio Minoldo</title>
+		<link>http://localhost:1313/tags/ague/</link>
+		<description>Recent content in Ague on Archivo periodistico - Claudio Minoldo</description>
 		<generator>Hugo</generator>
 		<language>es-AR</language>
 		
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Thu, 27 Apr 2023 00:00:00 -0300</lastBuildDate>
 		
-			<atom:link href="https://cminoldo.github.io/tags/ague/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/tags/ague/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Arranca el juicio contra dos jóvenes acusados de abusar e inducir al</title>
-				<link>https://cminoldo.github.io/posts/arranca-el-juicio-contra-dos-jovenes-acusados-de-abusar-e-inducir-al-20230427/</link>
+				<link>http://localhost:1313/posts/arranca-el-juicio-contra-dos-jovenes-acusados-de-abusar-e-inducir-al-20230427/</link>
 				<pubDate>Thu, 27 Apr 2023 00:00:00 -0300</pubDate>
-				<guid>https://cminoldo.github.io/posts/arranca-el-juicio-contra-dos-jovenes-acusados-de-abusar-e-inducir-al-20230427/</guid>
+				<guid>http://localhost:1313/posts/arranca-el-juicio-contra-dos-jovenes-acusados-de-abusar-e-inducir-al-20230427/</guid>
 				<description>&lt;p&gt;suicidio a su media hermana de 8 años&lt;/p&gt;&#xA;&lt;p&gt;El fiscal instructor se basó en la jurisprudencia del caso “Sathya” y&#xA;les aplicó idéntica carátula a los presuntos autores. La defensa&#xA;cuestiona la evidencia para sostener eso.&lt;/p&gt;&#xA;&lt;p&gt;Claudio Minoldo.&#xA;Corresponsalía. La Cámara 6ª del Crimen de Córdoba junto a jurados&#xA;populares ventilará desde el próximo martes 2 de mayo un juicio oral en&#xA;contra de dos hermanos que están acusados de haber abusado sexualmente&#xA;de dos de sus medias hermanas y haber inducido a una de ellas al&#xA;suicidio.&lt;/p&gt;</description>
 			</item>
 	</channel>

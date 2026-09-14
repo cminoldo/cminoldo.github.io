@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Aesa on Archivo periodístico - Claudio Minoldo</title>
-		<link>https://cminoldo.github.io/tags/aesa/</link>
-		<description>Recent content in Aesa on Archivo periodístico - Claudio Minoldo</description>
+		<title>Aesa on Archivo periodistico - Claudio Minoldo</title>
+		<link>http://localhost:1313/tags/aesa/</link>
+		<description>Recent content in Aesa on Archivo periodistico - Claudio Minoldo</description>
 		<generator>Hugo</generator>
 		<language>es-AR</language>
 		
@@ -12,26 +12,26 @@
 		
 			<lastBuildDate>Wed, 04 Jul 2001 00:00:00 -0300</lastBuildDate>
 		
-			<atom:link href="https://cminoldo.github.io/tags/aesa/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/tags/aesa/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>No hubo oferentes para el remate de la firma AESA</title>
-				<link>https://cminoldo.github.io/posts/no-hubo-oferentes-para-el-remate-de-la-firma-aesa-20010704/</link>
+				<link>http://localhost:1313/posts/no-hubo-oferentes-para-el-remate-de-la-firma-aesa-20010704/</link>
 				<pubDate>Wed, 04 Jul 2001 00:00:00 -0300</pubDate>
-				<guid>https://cminoldo.github.io/posts/no-hubo-oferentes-para-el-remate-de-la-firma-aesa-20010704/</guid>
+				<guid>http://localhost:1313/posts/no-hubo-oferentes-para-el-remate-de-la-firma-aesa-20010704/</guid>
 				<description>&lt;p&gt;Colonia Caroya. No hubo ningún oferente para comprar el inmueble de la firma Aceros Especiales S.A (Aesa) de Colonia Caroya que se remató esta semana en Capital Federal y cuya base había sido fijada en 2.680.000 pesos. Tampoco fue subastado el mobiliario, a pesar de que había buenas expectativas. Finalmente, sólo se remataron vehículos de carga y otros bienes menores por un valor de 40 mil pesos, cifra que desalentó a los 110 ex trabajadores de la empresa metalúrgica, quienes esperaban cobrar su&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Ex empleados de Aceros Especiales de Colonia Caroya, un año después</title>
-				<link>https://cminoldo.github.io/posts/ex-empleados-de-aceros-especiales-de-colonia-caroya-un-ano-despues-20010320/</link>
+				<link>http://localhost:1313/posts/ex-empleados-de-aceros-especiales-de-colonia-caroya-un-ano-despues-20010320/</link>
 				<pubDate>Tue, 20 Mar 2001 00:00:00 -0300</pubDate>
-				<guid>https://cminoldo.github.io/posts/ex-empleados-de-aceros-especiales-de-colonia-caroya-un-ano-despues-20010320/</guid>
+				<guid>http://localhost:1313/posts/ex-empleados-de-aceros-especiales-de-colonia-caroya-un-ano-despues-20010320/</guid>
 				<description>&lt;p&gt;Hace un año, los 110 trabajadores de la firma Aceros Especiales de Colonia Caroya, recibieron la notificación de que la metalúrgica volvería a ponerse en marcha en el mes de abril. No obstante, el 15 de marzo la presidenta del directorio de la empresa, Susana Casbarian, le notificó al Ministerio de Trabajo provincial que el pedido de quiebra estaba radicado en Callao 635 de Capital Federal y que, desde ese momento, la nueva autoridad sería el síndico que nombrara el juez de la causa, Rodolfo Her&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>La empresa se vendería cuanto antes para pagar las indemnizaciones y poder reabrirse con nuevos dueños</title>
-				<link>https://cminoldo.github.io/posts/la-empresa-se-venderia-cuanto-antes-para-pagar-las-indemnizaciones-y-poder-reabr-20000428/</link>
+				<link>http://localhost:1313/posts/la-empresa-se-venderia-cuanto-antes-para-pagar-las-indemnizaciones-y-poder-reabr-20000428/</link>
 				<pubDate>Fri, 28 Apr 2000 00:00:00 -0300</pubDate>
-				<guid>https://cminoldo.github.io/posts/la-empresa-se-venderia-cuanto-antes-para-pagar-las-indemnizaciones-y-poder-reabr-20000428/</guid>
+				<guid>http://localhost:1313/posts/la-empresa-se-venderia-cuanto-antes-para-pagar-las-indemnizaciones-y-poder-reabr-20000428/</guid>
 				<description>&lt;p&gt;El síndico de Aceros Especiales confía en la pronta liquidación de los bienes&lt;/p&gt;&#xA;&lt;p&gt;El síndico de Aceros Especiales confía en la pronta liquidación de los bienes&lt;/p&gt;&#xA;&lt;pre&gt;&lt;code&gt;Durante la jornada del jueves, el síndico nombrado para la quiebra de la empresa caroyense Aceros Especiales S.A (Aesa), Alberto Pustilnik, visitó los 14 mil metros que poseía la fábrica metalúrgica y sus oficinas, labrando actas de constataciones por los bienes que a simple vista se podían observar y llevándose numerosos valores y fotocopias para proceder a componer el pasivo y el activo de Aesa al momento del cierre.&#xD;&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;p&gt;Aunque es probable que deba visitar algunas veces más a la fallida industria de Colonia Caroya, el síndico reconoció que &amp;ldquo;es dificil evaluar respecto de la continuidad de la fábrica porque da toda la impresión que sería más beneficioso proceder a una rápida operación de locación de todo el conjunto fabril o una rápida venta del conjunto económico&amp;rdquo;.&lt;/p&gt;</description>
 			</item>
 	</channel>

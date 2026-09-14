@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Ferro on Archivo periodístico - Claudio Minoldo</title>
-		<link>https://cminoldo.github.io/tags/ferro/</link>
-		<description>Recent content in Ferro on Archivo periodístico - Claudio Minoldo</description>
+		<title>Ferro on Archivo periodistico - Claudio Minoldo</title>
+		<link>http://localhost:1313/tags/ferro/</link>
+		<description>Recent content in Ferro on Archivo periodistico - Claudio Minoldo</description>
 		<generator>Hugo</generator>
 		<language>es-AR</language>
 		
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Wed, 04 Sep 2002 00:00:00 -0300</lastBuildDate>
 		
-			<atom:link href="https://cminoldo.github.io/tags/ferro/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/tags/ferro/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Rehabilitación del ferrocarril despierta expectativas en el norte provincial</title>
-				<link>https://cminoldo.github.io/posts/rehabilitacion-del-ferrocarril-despierta-expectativas-en-el-norte-provincial-20020904/</link>
+				<link>http://localhost:1313/posts/rehabilitacion-del-ferrocarril-despierta-expectativas-en-el-norte-provincial-20020904/</link>
 				<pubDate>Wed, 04 Sep 2002 00:00:00 -0300</pubDate>
-				<guid>https://cminoldo.github.io/posts/rehabilitacion-del-ferrocarril-despierta-expectativas-en-el-norte-provincial-20020904/</guid>
+				<guid>http://localhost:1313/posts/rehabilitacion-del-ferrocarril-despierta-expectativas-en-el-norte-provincial-20020904/</guid>
 				<description>&lt;p&gt;Las Arrias. La rehabilitación del ramal del ferrocarril que une Villa del Rosario con Sumampa alimenta las esperanzas de muchas localidades del norte provincial que vieron pasar, por última vez, un tren en el año 1978. La concentración del 60 por ciento de la cosecha de soja de la provincia en el norte cordobés despierta el interés por el negocio del transporte ferroviario.&lt;/p&gt;&#xA;&lt;p&gt;Las Arrias. La rehabilitación del ramal del ferrocarril que une Villa del Rosario con Sumampa alimenta las esperanzas de muchas localidades del norte provincial que vieron pasar, por última vez, un tren en el año 1978. La concentración del 60 por ciento de la cosecha de soja de la provincia en el norte cordobés despierta el interés por el negocio del transporte ferroviario.&lt;/p&gt;</description>
 			</item>
 	</channel>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Emar on Archivo periodístico - Claudio Minoldo</title>
-		<link>https://cminoldo.github.io/tags/emar/</link>
-		<description>Recent content in Emar on Archivo periodístico - Claudio Minoldo</description>
+		<title>Emar on Archivo periodistico - Claudio Minoldo</title>
+		<link>http://localhost:1313/tags/emar/</link>
+		<description>Recent content in Emar on Archivo periodistico - Claudio Minoldo</description>
 		<generator>Hugo</generator>
 		<language>es-AR</language>
 		
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Tue, 25 Mar 1997 00:00:00 -0300</lastBuildDate>
 		
-			<atom:link href="https://cminoldo.github.io/tags/emar/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/tags/emar/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Cooperadoras escolares de Jesús María y Caroya reciben adelanto de lo</title>
-				<link>https://cminoldo.github.io/posts/cooperadoras-escolares-de-jesus-maria-y-caroya-reciben-adelanto-de-lo-19970325/</link>
+				<link>http://localhost:1313/posts/cooperadoras-escolares-de-jesus-maria-y-caroya-reciben-adelanto-de-lo-19970325/</link>
 				<pubDate>Tue, 25 Mar 1997 00:00:00 -0300</pubDate>
-				<guid>https://cminoldo.github.io/posts/cooperadoras-escolares-de-jesus-maria-y-caroya-reciben-adelanto-de-lo-19970325/</guid>
+				<guid>http://localhost:1313/posts/cooperadoras-escolares-de-jesus-maria-y-caroya-reciben-adelanto-de-lo-19970325/</guid>
 				<description>&lt;p&gt;recaudado durante la doma&lt;/p&gt;&#xA;&lt;p&gt;Un total de 150.000 pesos recibieron las cooperadoras escolares que&#xA;participan en la organización de las jornadas del color y del coraje, en&#xA;concepto de primer adelanto de utilidades de la edición festivalera&#xA;número 32. Cabe destacar que cerca de 9.000 alumnos (cifra que se&#xA;incrementa cada vez más) que concurren a los veinte establecimientos&#xA;organizadores se ven beneficiados año trás año por este acontecimiento&#xA;de multitudinaria concurrencia. Las cooperadoras favorecidas son: Ortiz&#xA;de Ocampo, Narciso Laprida, Gendarmería Nacional, José Manuel Estrada,&#xA;Pedro Giachino y Nuestra Señora del Huerto. Como así también el la&#xA;cooperadora Domingo Sarmiento, IPET Nº 23, Ntra Sra del Rosario, Manuel&#xA;Belgrano, Pbro José Bonoris y Ramón Acosta. También reciben el beneficio&#xA;Mariano Moreno(Puesto Viejo), Domingo Sarmiento(Los Chañares), Fray&#xA;Mamerto Esquiu y Los inmigrantes. Finalmente cabe añadir a Mariano&#xA;Moreno (Tronco Pozo), Gral San Martín, Teniente Morandini y Colonia&#xA;Vicente Agüero. Por otra parte, según se informó desde la comisión&#xA;organizadora del festival se ha puesto en marcha el gabinete&#xA;psicopedagógico, destinado a la asistencia de alumnos derivados de las&#xA;escuelas primarias y secundarias asociadas al Festival Nacional de Doma&#xA;y Folklore. Dicho gabinete cuenta con las siguientes especialidades:&#xA;Psicología, Psicopedagogía, Psicomotricidad, Psiquiatría y&#xA;Fonoaudiología, a lo que hay que agregar que cada profesional dispone de&#xA;9 horas semanales para la atención de niños, padres y docentes, de&#xA;martes a jueves de 9 a 12 y de 14 a 20 horas.&lt;/p&gt;</description>
 			</item>
 	</channel>

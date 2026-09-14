@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Matias on Archivo periodístico - Claudio Minoldo</title>
-		<link>https://cminoldo.github.io/tags/matias/</link>
-		<description>Recent content in Matias on Archivo periodístico - Claudio Minoldo</description>
+		<title>Matias on Archivo periodistico - Claudio Minoldo</title>
+		<link>http://localhost:1313/tags/matias/</link>
+		<description>Recent content in Matias on Archivo periodistico - Claudio Minoldo</description>
 		<generator>Hugo</generator>
 		<language>es-AR</language>
 		
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Mon, 07 May 2001 00:00:00 -0300</lastBuildDate>
 		
-			<atom:link href="https://cminoldo.github.io/tags/matias/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/tags/matias/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>La inolvidable visita de un chico de Jesús María a la Nasa</title>
-				<link>https://cminoldo.github.io/posts/la-inolvidable-visita-de-un-chico-de-jesus-maria-a-la-nasa-20010507/</link>
+				<link>http://localhost:1313/posts/la-inolvidable-visita-de-un-chico-de-jesus-maria-a-la-nasa-20010507/</link>
 				<pubDate>Mon, 07 May 2001 00:00:00 -0300</pubDate>
-				<guid>https://cminoldo.github.io/posts/la-inolvidable-visita-de-un-chico-de-jesus-maria-a-la-nasa-20010507/</guid>
+				<guid>http://localhost:1313/posts/la-inolvidable-visita-de-un-chico-de-jesus-maria-a-la-nasa-20010507/</guid>
 				<description>&lt;p&gt;Houston, avisenle a mi mamá que no quiero volver&lt;/p&gt;&#xA;&lt;p&gt;Houston, avisenle a mi mamá que no quiero volver&lt;/p&gt;&#xA;&lt;pre&gt;&lt;code&gt;Una serie de casualidades llevaron a Matías Davico, un adolescente de Jesús María, a visitar el Centro Espacial Kennedy (Nasa) en el corazón de Florida, Estados Unidos. Aún hoy se refriega las manos con nerviosismo cuando recuerda lo que vivió durante doce días en el centro de investigación espacial más importante del mundo.&#xD;&#xA;&#xD;&#xA;La primera de las casualidades comenzó el día en que Matías salió de su casa para comprar una revista escolar infantil que sorteaba un viaje a Finlandia, donde la firma de juguetes Lego tiene una ciudad construida con las piezas para armar. Matías envió sus dos cupones convencido de que ganaría el viaje y lo ganó. Al regresar del paraíso de los juguetes, la firma juguetera le envió de regalo una replica de la estación de la Nasa desde donde se realizan los despegues espaciales.&#xD;&#xA;&#xD;&#xA;Desde niño, Matías tuvo inclinación por todo aquello que implicara despegar los pies de la tierra o, al menos, soñar con ello. Por ello, se dedicó por completo al aeromodelismo y a participar en cuanto encuentro de aeromodelistas hubiera. &#xD;&#xA;&#xD;&#xA;Pero la casualidad decisiva se dio en una cena a la que asistieron los padres de Matías. Allí, un grupo de personas comentó acerca de una fundación de la villa serrana de Carlos Paz que se encargaba de organizar tours al Space Camp y lo lindo que resultaba para los chicos y lo que sentían al volver de ver eso&#xD;&#xA;&#xD;&#xA;Entonces, comenzaron las averiguaciones y la decisión familiar de hacer su versión hogareña de sorpresa y media. Cuando todo estuvo listo, lo sentaron a Matías y le dijeron: “Prepará tus cosas que te vas a conocer la Nasa”. &#xD;&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;p&gt;Tocar y sentir&lt;/p&gt;</description>
 			</item>
 	</channel>

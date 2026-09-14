@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <title>Buscador — {{ .Site.Title }}</title>
+  <meta name="viewport" content="width=device-width,minimum-scale=1">
+  <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+</head>
+<body>
+  <div style="max-width:800px;margin:2rem auto;padding:0 1rem;">
+    <h1><a href="/">{{ .Site.Title }}</a></h1>
+    <div id="search"></div>
+  </div>
+  <script src="/pagefind/pagefind-ui.js"></script>
+  <script>
+    new PagefindUI({ element: "#search", showSubResults: true });
+  </script>
+</body>
+</html>

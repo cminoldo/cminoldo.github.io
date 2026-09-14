@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Dfeb on Archivo periodístico - Claudio Minoldo</title>
-		<link>https://cminoldo.github.io/tags/dfeb/</link>
-		<description>Recent content in Dfeb on Archivo periodístico - Claudio Minoldo</description>
+		<title>Dfeb on Archivo periodistico - Claudio Minoldo</title>
+		<link>http://localhost:1313/tags/dfeb/</link>
+		<description>Recent content in Dfeb on Archivo periodistico - Claudio Minoldo</description>
 		<generator>Hugo</generator>
 		<language>es-AR</language>
 		
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Wed, 26 Feb 1997 00:00:00 -0300</lastBuildDate>
 		
-			<atom:link href="https://cminoldo.github.io/tags/dfeb/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/tags/dfeb/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Ecos del homenaje a Facundo Quiroga en Barranca Yaco</title>
-				<link>https://cminoldo.github.io/posts/ecos-del-homenaje-a-facundo-quiroga-en-barranca-yaco-19970226/</link>
+				<link>http://localhost:1313/posts/ecos-del-homenaje-a-facundo-quiroga-en-barranca-yaco-19970226/</link>
 				<pubDate>Wed, 26 Feb 1997 00:00:00 -0300</pubDate>
-				<guid>https://cminoldo.github.io/posts/ecos-del-homenaje-a-facundo-quiroga-en-barranca-yaco-19970226/</guid>
+				<guid>http://localhost:1313/posts/ecos-del-homenaje-a-facundo-quiroga-en-barranca-yaco-19970226/</guid>
 				<description>&lt;p&gt;Alrededor de trescientas personas se congregaron en la Posta de Barranca&lt;/p&gt;&#xA;&lt;p&gt;Alrededor de trescientas personas se congregaron en la Posta de Barranca&#xA;Yaco, el pasado domingo 14 para homenajear al caudillo federal Brigadier&#xA;General Juan Facundo Quiroga.&lt;/p&gt;&#xA;&lt;p&gt;En esta oportunidad la temática de los festejos pasaron por el anhelo de&#xA;Facundo Quiroga de que se dictara una constitución en contra de los&#xA;deseos de Juan Manuel de Rosas.&lt;/p&gt;&#xA;&lt;p&gt;A tal fin el constitucionalista Pedro.J.Frías fue el único disertante,&#xA;quién le puso el toque de distinción a la jornada expresando entre otros&#xA;conceptos: “Un hombre del derecho público, como yo, rechaza el poder&#xA;desnudo. Queremos el sometimiento a la ley, pero no a la ley del más&#xA;fuerte…” y añadió luego “en la construcción de la Argentina moderna se&#xA;pueden rescatar dos aportes: el de la preservación de la autoridad en&#xA;una sociedad arcaica y el de la organización nacional…” y finalizó&#xA;señalando que “Facundo es la autoridad personal que cambia la montonera&#xA;en milicia.”&lt;/p&gt;</description>
 			</item>
 	</channel>

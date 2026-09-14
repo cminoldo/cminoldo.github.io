@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Asco on Archivo periodístico - Claudio Minoldo</title>
-		<link>https://cminoldo.github.io/tags/asco/</link>
-		<description>Recent content in Asco on Archivo periodístico - Claudio Minoldo</description>
+		<title>Asco on Archivo periodistico - Claudio Minoldo</title>
+		<link>http://localhost:1313/tags/asco/</link>
+		<description>Recent content in Asco on Archivo periodistico - Claudio Minoldo</description>
 		<generator>Hugo</generator>
 		<language>es-AR</language>
 		
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Mon, 24 May 1999 00:00:00 -0300</lastBuildDate>
 		
-			<atom:link href="https://cminoldo.github.io/tags/asco/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/tags/asco/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Ascochinga será sede de la edición 15 de las Jornadas de Historia del</title>
-				<link>https://cminoldo.github.io/posts/ascochinga-sera-sede-de-la-edicion-15-de-las-jornadas-de-historia-del-19990524/</link>
+				<link>http://localhost:1313/posts/ascochinga-sera-sede-de-la-edicion-15-de-las-jornadas-de-historia-del-19990524/</link>
 				<pubDate>Mon, 24 May 1999 00:00:00 -0300</pubDate>
-				<guid>https://cminoldo.github.io/posts/ascochinga-sera-sede-de-la-edicion-15-de-las-jornadas-de-historia-del-19990524/</guid>
+				<guid>http://localhost:1313/posts/ascochinga-sera-sede-de-la-edicion-15-de-las-jornadas-de-historia-del-19990524/</guid>
 				<description>&lt;p&gt;Norte de Córdoba&lt;/p&gt;&#xA;&lt;p&gt;El salón de convenciones de un conocido hotel de Ascochinga fue la sede&#xA;elegida para la realización de una nueva jornada de historia del norte&#xA;cordobés. El encuentro, organizado por el Círculo de Amigos de la&#xA;Historia del Norte, tendrá lugar el sábado 29 y domingo 30 de mayo a&#xA;partir de la hora 15.&lt;/p&gt;&#xA;&lt;p&gt;Estas jornadas, tienen por objetivo difundir aspectos históricos&#xA;acontecidos en los departamentos: Cruz del Eje, Ischilín, Minas,&#xA;Totoral, Tulumba, Río Seco, Pocho, Punilla, Río Primero, San Justo,&#xA;Sobremonte y norte de Colón.&lt;/p&gt;</description>
 			</item>
 	</channel>

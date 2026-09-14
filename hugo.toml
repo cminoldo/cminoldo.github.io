@@ -1,14 +1,16 @@
 baseURL = "https://cminoldo.github.io/"
-languageCode = "es-AR"
-title = "Archivo periodístico - Claudio Minoldo"
+locale = "es-AR"
+title = "Archivo periodistico - Claudio Minoldo"
 theme = "ananke"
+publishDir = "docs"
 
 [params]
-  description = "27 años de cobertura periodística en el norte de Córdoba (1996-2023)"
+  description = "27 anos de cobertura periodistica en el norte de Cordoba (1996-2023)"
   author = "Claudio Minoldo"
 
 [taxonomies]
   category = "categories"
   tag = "tags"
 
-publishDir = "docs"
+[markup.goldmark.renderer]
+  unsafe = true

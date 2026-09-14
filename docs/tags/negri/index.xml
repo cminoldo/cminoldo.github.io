@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Negri on Archivo periodístico - Claudio Minoldo</title>
-		<link>https://cminoldo.github.io/tags/negri/</link>
-		<description>Recent content in Negri on Archivo periodístico - Claudio Minoldo</description>
+		<title>Negri on Archivo periodistico - Claudio Minoldo</title>
+		<link>http://localhost:1313/tags/negri/</link>
+		<description>Recent content in Negri on Archivo periodistico - Claudio Minoldo</description>
 		<generator>Hugo</generator>
 		<language>es-AR</language>
 		
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Mon, 29 Jan 2001 00:00:00 -0300</lastBuildDate>
 		
-			<atom:link href="https://cminoldo.github.io/tags/negri/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/tags/negri/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>¿Qué piensa de las últimas declaraciones que hizo Angeloz?</title>
-				<link>https://cminoldo.github.io/posts/que-piensa-de-las-ultimas-declaraciones-que-hizo-angeloz-20010129/</link>
+				<link>http://localhost:1313/posts/que-piensa-de-las-ultimas-declaraciones-que-hizo-angeloz-20010129/</link>
 				<pubDate>Mon, 29 Jan 2001 00:00:00 -0300</pubDate>
-				<guid>https://cminoldo.github.io/posts/que-piensa-de-las-ultimas-declaraciones-que-hizo-angeloz-20010129/</guid>
+				<guid>http://localhost:1313/posts/que-piensa-de-las-ultimas-declaraciones-que-hizo-angeloz-20010129/</guid>
 				<description>&lt;p&gt;En realidad, a mí me llama la atención que el doctor Angeloz manifieste un análisis crítico sobre la oposición del radicalismo en la provincia porque, de alguna medida, él avaló que el partido no tenga autoridades desde hace ocho meses. Nosotros hemos venido reclamando que el partido se reorganice a los efectos de ejercer una oposición responsable, como él dice, pero me parece que se equivocaron cuando acompañó esa decisión de no dejarlo reorganizar.&lt;/p&gt;</description>
 			</item>
 	</channel>

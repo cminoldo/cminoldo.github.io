@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Int on Archivo periodístico - Claudio Minoldo</title>
-		<link>https://cminoldo.github.io/tags/int/</link>
-		<description>Recent content in Int on Archivo periodístico - Claudio Minoldo</description>
+		<title>Int on Archivo periodistico - Claudio Minoldo</title>
+		<link>http://localhost:1313/tags/int/</link>
+		<description>Recent content in Int on Archivo periodistico - Claudio Minoldo</description>
 		<generator>Hugo</generator>
 		<language>es-AR</language>
 		
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Thu, 28 Apr 2011 00:00:00 -0300</lastBuildDate>
 		
-			<atom:link href="https://cminoldo.github.io/tags/int/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/tags/int/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Intendentes y presidentes de comuna que van por un tercer período o más</title>
-				<link>https://cminoldo.github.io/posts/intendentes-y-presidentes-de-comuna-que-van-por-un-tercer-periodo-o-mas-20110428/</link>
+				<link>http://localhost:1313/posts/intendentes-y-presidentes-de-comuna-que-van-por-un-tercer-periodo-o-mas-20110428/</link>
 				<pubDate>Thu, 28 Apr 2011 00:00:00 -0300</pubDate>
-				<guid>https://cminoldo.github.io/posts/intendentes-y-presidentes-de-comuna-que-van-por-un-tercer-periodo-o-mas-20110428/</guid>
+				<guid>http://localhost:1313/posts/intendentes-y-presidentes-de-comuna-que-van-por-un-tercer-periodo-o-mas-20110428/</guid>
 				<description>&lt;p&gt;Humberto Tomllenovich (UCR) intendente de Colonia Tirolesa. Ganó en&lt;/p&gt;&#xA;&lt;p&gt;Humberto Tomllenovich (UCR) intendente de Colonia Tirolesa. Ganó en&#xA;1983, 1987, 1991, 1995, 1999, 2003, 2007. Intentará su octavo período.&lt;/p&gt;&#xA;&lt;p&gt;Jorge Visintín (UCR) presidente comunal de Colonia Vicente Agüero desde&#xA;1983. Las últimas elecciones fueron por aclamación ya que no hubo lista&#xA;opositora. Aunque viene señalándoles a sus colaboradores que quiere&#xA;irse, ellos insisten en que él siga al frente de la comuna.&lt;/p&gt;</description>
 			</item>
 	</channel>

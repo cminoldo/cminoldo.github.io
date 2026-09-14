@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Sol on Archivo periodístico - Claudio Minoldo</title>
-		<link>https://cminoldo.github.io/tags/sol/</link>
-		<description>Recent content in Sol on Archivo periodístico - Claudio Minoldo</description>
+		<title>Sol on Archivo periodistico - Claudio Minoldo</title>
+		<link>http://localhost:1313/tags/sol/</link>
+		<description>Recent content in Sol on Archivo periodistico - Claudio Minoldo</description>
 		<generator>Hugo</generator>
 		<language>es-AR</language>
 		
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Wed, 14 Jan 1998 00:00:00 -0300</lastBuildDate>
 		
-			<atom:link href="https://cminoldo.github.io/tags/sol/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/tags/sol/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Una legión de fanáticos de Soledad concurrió a la capital del coraje</title>
-				<link>https://cminoldo.github.io/posts/una-legion-de-fanaticos-de-soledad-concurrio-a-la-capital-del-coraje-19980114/</link>
+				<link>http://localhost:1313/posts/una-legion-de-fanaticos-de-soledad-concurrio-a-la-capital-del-coraje-19980114/</link>
 				<pubDate>Wed, 14 Jan 1998 00:00:00 -0300</pubDate>
-				<guid>https://cminoldo.github.io/posts/una-legion-de-fanaticos-de-soledad-concurrio-a-la-capital-del-coraje-19980114/</guid>
+				<guid>http://localhost:1313/posts/una-legion-de-fanaticos-de-soledad-concurrio-a-la-capital-del-coraje-19980114/</guid>
 				<description>&lt;p&gt;para darle otro colorido&lt;/p&gt;&#xA;&lt;p&gt;Jesús María sitiada por el folklore&lt;/p&gt;&#xA;&lt;p&gt;A las 19 de ayer el anfiteatro José Hernandez estaba cubierto por 25 mil&#xA;personas que elevaban sus brazos en olas de entusiasmo. En las&#xA;inmediaciones una fila de varias cuadras pugnaba por un lugar en el&#xA;festival cuya iniciación estaba prevista para las 22.&lt;/p&gt;&#xA;&lt;p&gt;Florencia Sánchez es de Córdoba ciudad y hoy cumple 15 años, pero no&#xA;quiso hacer fiesta. Ella pidió como regaló celebrarlo anoche en la&#xA;primera fila escuchando y saltando con Soledad. Como su caso hay 30 mil&#xA;ejemplos para dar respecto de la quinta jornada del Festival de Doma y&#xA;Folklore de Jesús María. Ayer a las 18.30 el anfiteatro se retrataba&#xA;totalmente cubierto. En sus graderías se respiraba un clima de sana&#xA;locura y se palpaba que por la noche, a partir de las 22.30 el festival&#xA;mostraría el aspecto de un agradable infierno sacudido por la música de&#xA;raíz criolla.&lt;/p&gt;</description>
 			</item>
 	</channel>
