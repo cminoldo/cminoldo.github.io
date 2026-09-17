@@ -10,40 +10,60 @@ Jesús María. El Festival de Doma y Folklore de Jesús María, fenómeno de con
 
 Jesús María. El Festival de Doma y Folklore de Jesús María, fenómeno de convocatoria de la última década, se prepara para celebrar su edición 40 adelantando su propuesta de jineteadas y folklore con dos jornadas gratuitas que comenzará desde las 20 de hoy con la final del Pre Jesús María.
 
-    Alrededor de 40 artistas -que llegaron a las instancias finales en las diez sedes que tuvo el Pre Jesús María- buscarán ganar su lugar en la próxima edición en las categorías solista masculino y femenino, dúo, y conjunto. El tramo que va entre las 22 y las 23 se televisaría por Canal 10 para, después, continuar con el concurso hasta las 2.
 
-    Desde las 20 del jueves, la propuesta es para los niños por la celebración de la festividad de Reyes Magos. Habrá demostración de mansedumbre de caballos, exhibición del juego del Pato y un carrusel de la Banda de Suboficiales de Gendarmería, además de una jineteada de petisos y ponies. El número central de la noche lo encabezarán Doña Jovita, el payaso Poca Sopa, y la Payasa Nené. También está prevista la televisación entre las 22 y las 24 y la actuación de numerosos jóvenes folkloristas locales después del cierre televisivo.
+Alrededor de 40 artistas -que llegaron a las instancias finales en las diez sedes que tuvo el Pre Jesús María- buscarán ganar su lugar en la próxima edición en las categorías solista masculino y femenino, dúo, y conjunto. El tramo que va entre las 22 y las 23 se televisaría por Canal 10 para, después, continuar con el concurso hasta las 2.
 
-    “En los números redondos siempre hemos tenido suerte. En el 25, en el 30, y en el 40, es decir, esperamos tener mucha gente en el 40”, corrige Pedro Canalda, presidente de la comisión organizadora, en medio de risas y presagiando lo que puede ser un récord de asistencia de público en las noches por venir.
 
-    Pese a que Canalda asegura que este es su último año como presidente nunca deja de promover innovaciones, por ejemplo la del telemarketing: “Hemos contratado un sistema de invitación telefónica que comenzó con 8 mil llamadas el lunes; 16 mil, el martes; y 32 mil, hoy, invitando a que la gente venga el día seis. Si eso funciona, vamos a implementarlo en noches claves del festival como el lunes” 
+Desde las 20 del jueves, la propuesta es para los niños por la celebración de la festividad de Reyes Magos. Habrá demostración de mansedumbre de caballos, exhibición del juego del Pato y un carrusel de la Banda de Suboficiales de Gendarmería, además de una jineteada de petisos y ponies. El número central de la noche lo encabezarán Doña Jovita, el payaso Poca Sopa, y la Payasa Nené. También está prevista la televisación entre las 22 y las 24 y la actuación de numerosos jóvenes folkloristas locales después del cierre televisivo.
 
-    Y remata sus declaraciones con la explicación sobre el porqué de incrementar en dos días más la programación festivalera: “Hay que iniciar la transformación porque si no crecemos nos vamos a amesetar (sic). Siempre decimos que este es el festival más importante en convocatoria pero no nos tenemos que quedar con las diez nochecitas. El Festival de la calle ya empezó, ya está todo armado (en referencia a la feria aledaña) y creo que quienes nos sigan tienen que empezar antes”.
+
+“En los números redondos siempre hemos tenido suerte. En el 25, en el 30, y en el 40, es decir, esperamos tener mucha gente en el 40”, corrige Pedro Canalda, presidente de la comisión organizadora, en medio de risas y presagiando lo que puede ser un récord de asistencia de público en las noches por venir.
+
+
+Pese a que Canalda asegura que este es su último año como presidente nunca deja de promover innovaciones, por ejemplo la del telemarketing: “Hemos contratado un sistema de invitación telefónica que comenzó con 8 mil llamadas el lunes; 16 mil, el martes; y 32 mil, hoy, invitando a que la gente venga el día seis. Si eso funciona, vamos a implementarlo en noches claves del festival como el lunes” 
+
+
+Y remata sus declaraciones con la explicación sobre el porqué de incrementar en dos días más la programación festivalera: “Hay que iniciar la transformación porque si no crecemos nos vamos a amesetar (sic). Siempre decimos que este es el festival más importante en convocatoria pero no nos tenemos que quedar con las diez nochecitas. El Festival de la calle ya empezó, ya está todo armado (en referencia a la feria aledaña) y creo que quienes nos sigan tienen que empezar antes”.
+
 
 Las nuevas obras
 
-    La niña mimada de la próxima edición será, sin dudas, la nueva tribuna que se levantó sobre el acceso principal y que tendrá capacidad para albergar a cerca de 3.050 espectadores con comodidad. La obra tuvo un costo de 430 mil pesos en los que la Provincia comprometió 100 mil pesos y el municipio de Jesús María 90 mil pesos. La entrega del dinero por parte de los gobiernos se concretaría el sábado 8 cuando la obra se inaugure formalmente.
 
-    La tribuna tiene 54 metros de largo y 18 escalones de 68 por 38 centímetros, un espacio que permitirá en el futuro colocar butacas plásticas, si el festival así lo decide.
+La niña mimada de la próxima edición será, sin dudas, la nueva tribuna que se levantó sobre el acceso principal y que tendrá capacidad para albergar a cerca de 3.050 espectadores con comodidad. La obra tuvo un costo de 430 mil pesos en los que la Provincia comprometió 100 mil pesos y el municipio de Jesús María 90 mil pesos. La entrega del dinero por parte de los gobiernos se concretaría el sábado 8 cuando la obra se inaugure formalmente.
 
-    La necesidad de incrementar la capacidad del anfiteatro José Hernández fue señalada al concluir la pasada edición por parte de Canalda que prometió su construcción y cumplió su promesa
 
-    “Es la sorpresa, la nueva comodidad que podemos brindar, y es el lugar desde donde mejor se ve el festival por su tranquilidad, porque está alejado del paso de la gente, y desde donde se ve todo con mejor perspectiva”, señala Canalda con orgullo.
+La tribuna tiene 54 metros de largo y 18 escalones de 68 por 38 centímetros, un espacio que permitirá en el futuro colocar butacas plásticas, si el festival así lo decide.
 
-    La otra obra de infraestructura que se realizó para esta edición es la remodelación del sector de las plateas al que se le pavimentó el piso y se dejó preparado para colocar 600 ubicaciones numeradas. El piso permite la circulación de grandes cargas y transforma la vieja platea oficial en platea preferencial con un espacio, inclusive, para que puedan recibirse a las distintas autoridades y personalidades que visitan cada año a la fiesta gaucha.
+
+La necesidad de incrementar la capacidad del anfiteatro José Hernández fue señalada al concluir la pasada edición por parte de Canalda que prometió su construcción y cumplió su promesa
+
+
+“Es la sorpresa, la nueva comodidad que podemos brindar, y es el lugar desde donde mejor se ve el festival por su tranquilidad, porque está alejado del paso de la gente, y desde donde se ve todo con mejor perspectiva”, señala Canalda con orgullo.
+
+
+La otra obra de infraestructura que se realizó para esta edición es la remodelación del sector de las plateas al que se le pavimentó el piso y se dejó preparado para colocar 600 ubicaciones numeradas. El piso permite la circulación de grandes cargas y transforma la vieja platea oficial en platea preferencial con un espacio, inclusive, para que puedan recibirse a las distintas autoridades y personalidades que visitan cada año a la fiesta gaucha.
+
 
 Mayor seguridad
 
-    Los trágicos sucesos ocurridos en la disco porteña cuando actuaba la banda Callejeros, obligó a los organizadores del festival a incrementar aún más las medidas de seguridad para tranquilidad de los asistentes. 
 
-    En la próxima edición se incrementará la asistencia médica para el público con la instalación de dos puestos de la Cruz Roja con capacidad para atender a 23 personas, un puesto de Unisam para la atención de cuatro personas en forma simultánea, y un consultorio en la zona de camarines para los plateístas.
+Los trágicos sucesos ocurridos en la disco porteña cuando actuaba la banda Callejeros, obligó a los organizadores del festival a incrementar aún más las medidas de seguridad para tranquilidad de los asistentes. 
 
-    Además, los Bomberos Voluntarios de Jesús María explicarán diariamente cuáles son y dónde están ubicadas cada una de las cinco salidas de emergencia, además de las de ingreso y egreso. En cada salida, habrá un bombero voluntario, un policía, y un miembro de vigilancia escolar con llave y autorización para abrir los portones en caso de emergencia sin mediar consulta alguna.
 
-    Respecto de los fuegos artificiales, se confirmó que se arrojarán en las noches del 6, 7, 8 y 16 de enero desde el Camino Real, al otro lado del río Jesús María y a unos 120 metros del anfiteatro. El Festival cuenta con autorización de Renar para operar con explosivos, contrató a una empresa autorizada por Renar, y delegó en la Brigada de Explosivos de la Policía la supervisión de los artefactos pirotécnicos antes de cada lanzamiento.
+En la próxima edición se incrementará la asistencia médica para el público con la instalación de dos puestos de la Cruz Roja con capacidad para atender a 23 personas, un puesto de Unisam para la atención de cuatro personas en forma simultánea, y un consultorio en la zona de camarines para los plateístas.
 
-    Finalmente, los negocios internos del anfiteatro fueron obligados a contar con matafuegos en condiciones y supervisados por Bomberos Voluntarios y llaves disyuntoras.
 
-    Todos los festivales tienen su espíritu, y cuando uno es cantor popular tiene que estar a donde lo requiera la gente, pero Jesús María tiene algo con lo que yo me siento cómodo. A pesar de que la destreza es mayormente de los jinetes, uno se ha ganado un lugar donde, como criollo, me siento bien afianzado. Conjuga todo: el cantor, el domador, el caballo...
-    Recuerdo la primera vez que iba a actuar en el Festival... fuimos a parar a casa de la familia Roggio, en Colonia Caroya, y me enfermé y casi paso de largo... me cargaban y me decían que en lugar de tirarme al Pilcomayo, me iban a tirar al río Carnero que pasa por ahí.
-    El Festival de Jesús María es una de los más grandes de Sudamérica, donde el criollo vive la fiesta y da a conocer su tradición a nivel país y a nivel mundial
+Además, los Bomberos Voluntarios de Jesús María explicarán diariamente cuáles son y dónde están ubicadas cada una de las cinco salidas de emergencia, además de las de ingreso y egreso. En cada salida, habrá un bombero voluntario, un policía, y un miembro de vigilancia escolar con llave y autorización para abrir los portones en caso de emergencia sin mediar consulta alguna.
+
+
+Respecto de los fuegos artificiales, se confirmó que se arrojarán en las noches del 6, 7, 8 y 16 de enero desde el Camino Real, al otro lado del río Jesús María y a unos 120 metros del anfiteatro. El Festival cuenta con autorización de Renar para operar con explosivos, contrató a una empresa autorizada por Renar, y delegó en la Brigada de Explosivos de la Policía la supervisión de los artefactos pirotécnicos antes de cada lanzamiento.
+
+
+Finalmente, los negocios internos del anfiteatro fueron obligados a contar con matafuegos en condiciones y supervisados por Bomberos Voluntarios y llaves disyuntoras.
+
+
+Todos los festivales tienen su espíritu, y cuando uno es cantor popular tiene que estar a donde lo requiera la gente, pero Jesús María tiene algo con lo que yo me siento cómodo. A pesar de que la destreza es mayormente de los jinetes, uno se ha ganado un lugar donde, como criollo, me siento bien afianzado. Conjuga todo: el cantor, el domador, el caballo...
+
+Recuerdo la primera vez que iba a actuar en el Festival... fuimos a parar a casa de la familia Roggio, en Colonia Caroya, y me enfermé y casi paso de largo... me cargaban y me decían que en lugar de tirarme al Pilcomayo, me iban a tirar al río Carnero que pasa por ahí.
+
+El Festival de Jesús María es una de los más grandes de Sudamérica, donde el criollo vive la fiesta y da a conocer su tradición a nivel país y a nivel mundial

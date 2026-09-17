@@ -10,76 +10,113 @@ El presidente de la Comisión Directiva del Festival de Doma
 
 El presidente de la Comisión Directiva del Festival de Doma 
 
-    Y Folklore de Jesús María, Alberto Fío, dio a conocer las cifras 
 
-    obtenidas por entradas pagas durante las diez noches del 
+Y Folklore de Jesús María, Alberto Fío, dio a conocer las cifras 
 
-    color y del coraje.
 
-    Cabe recordar que al monto obtenido, cercano a los 940 mil 
+obtenidas por entradas pagas durante las diez noches del 
 
-    pesos, se le debe agregar el dinero obtenido en concepto 
 
-    de concesiones dentro del anfiteatro como también el ingreso 
+color y del coraje.
 
-    publicitario a través de cartelería.
 
-    Desdichadamente, desde la comisión se reconoció que algunos 
+Cabe recordar que al monto obtenido, cercano a los 940 mil 
 
-    colaboradores procedieron a la reventa de entradas y de 
 
-    pases para plateas, según el informe que brindó el órgano de 
+pesos, se le debe agregar el dinero obtenido en concepto 
 
-    fiscalización del festival.
 
-    Fío se refirió a este suceso diciendo que "lo lamentable es 
+de concesiones dentro del anfiteatro como también el ingreso 
 
-    que esa gente sale de las escuelas, razón por la que le hemos 
 
-    pedido a las mismas que para el año que viene seleccionen 
+publicitario a través de cartelería.
 
-    gente honesta ya que las personas que fueron dadas de baja 
 
-    este año no trabajarán nunca más con nosotros"
+Desdichadamente, desde la comisión se reconoció que algunos 
 
-    Por otra parte, se señaló que a fines de febrero tendrá lugar 
 
-    la primera sesión de tablas, en la que las 20 cooperadoras 
+colaboradores procedieron a la reventa de entradas y de 
 
-    escolares tendrán los números definitivos de la edición 34 
 
-    del festival de música y jineteadas más grande del país.
+pases para plateas, según el informe que brindó el órgano de 
 
-    Lejos de la controversia generada por las cifras de espectadores 
 
-    que fueron brindadas en forma oficial y extraoficial, Fío 
+fiscalización del festival.
 
-    finalizó reconociendo que ingresaron 10.300 personas menos 
 
-    que en la edición 33.
+Fío se refirió a este suceso diciendo que "lo lamentable es 
 
-    Números Municipales
 
-    Desde el municipio, en tanto, se indicó que lo recaudado 
+que esa gente sale de las escuelas, razón por la que le hemos 
 
-    por el municipio durante las diez noches festivaleras asciende 
 
-    a una cifra cercana a los 250 mil pesos.
+pedido a las mismas que para el año que viene seleccionen 
 
-    Ese monto proviene de la venta de los 274 predios que funcionaron 
 
-    fuera del anfiteatro, de los impuestos cobrados a los concesionarios 
+gente honesta ya que las personas que fueron dadas de baja 
 
-    y del 5% de lo recaudado por el Festival, de acuerdo al 
 
-    convenio que mantiene el municipio con la Comisión.
+este año no trabajarán nunca más con nosotros"
 
-    Finalmente, trascendió que el asesor letrado municipal, Luis 
 
-    Riveros, tuvo que interrumpir sus vacaciones por un informe 
+Por otra parte, se señaló que a fines de febrero tendrá lugar 
 
-    presentado por el area de recursos tributarios sobre ciertas 
 
-    irregularidades cometidas por personal municipal durante 
+la primera sesión de tablas, en la que las 20 cooperadoras 
 
-    el festival.
+
+escolares tendrán los números definitivos de la edición 34 
+
+
+del festival de música y jineteadas más grande del país.
+
+
+Lejos de la controversia generada por las cifras de espectadores 
+
+
+que fueron brindadas en forma oficial y extraoficial, Fío 
+
+
+finalizó reconociendo que ingresaron 10.300 personas menos 
+
+
+que en la edición 33.
+
+
+Números Municipales
+
+
+Desde el municipio, en tanto, se indicó que lo recaudado 
+
+
+por el municipio durante las diez noches festivaleras asciende 
+
+
+a una cifra cercana a los 250 mil pesos.
+
+
+Ese monto proviene de la venta de los 274 predios que funcionaron 
+
+
+fuera del anfiteatro, de los impuestos cobrados a los concesionarios 
+
+
+y del 5% de lo recaudado por el Festival, de acuerdo al 
+
+
+convenio que mantiene el municipio con la Comisión.
+
+
+Finalmente, trascendió que el asesor letrado municipal, Luis 
+
+
+Riveros, tuvo que interrumpir sus vacaciones por un informe 
+
+
+presentado por el area de recursos tributarios sobre ciertas 
+
+
+irregularidades cometidas por personal municipal durante 
+
+
+el festival.

@@ -10,4 +10,5 @@ Colonia Caroya. En coincidencia con el día del libro, el intendente de Colonia 
 
 Colonia Caroya. En coincidencia con el día del libro, el intendente de Colonia Caroya entregará a los terceros grados de todas las escuelas de la zona ejemplares del libro América, gracias, cuyos autores lo escribieron mientras cursaban sexto grado.
 
-    Ana Magdalena Angulo y Franco Agnelli escribieron e ilustraron esta Historieta que relata desde la mirada de los niños la llegada de los inmigrantes friulanos a Colonia Caroya.
+
+Ana Magdalena Angulo y Franco Agnelli escribieron e ilustraron esta Historieta que relata desde la mirada de los niños la llegada de los inmigrantes friulanos a Colonia Caroya.

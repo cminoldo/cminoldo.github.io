@@ -9,77 +9,149 @@ description: "Chile"
 Chile
 
 Se salvó de milagro tras caerse de cabeza en una jineteada, estuvo en
+
 coma, se recupera con dificultad, y necesita urgente traslado a su país
+
 para rehabilitarse.
 
+
 Claudio Minoldo.
+
 Corresponsalía.
+
 Jesús María. José Luis Guerra Rivera (32) llegó al Festival de Doma y
+
 Folklore de Jesús María con un sueño: convertirse en el mejor jinete
+
 chileno representando a su país en la cita ecuménica de enero pasado. Y
+
 no tuvo suerte y tuvo suerte, aunque parezca contradictorio. No tuvo
+
 suerte porque jineteando se cayó en dos noches consecutivas y en la
+
 segunda oportunidad se retiró inconsciente del campo de doma. Y tuvo
+
 suerte porque logró salvarse de lo que parecía, cuando menos, una muerte
+
 cerebral irreversible.
+
 Para tomar dimensión del estado en que llegó al sanatorio Caroya, valga
+
 recordar que tenía hematomas varios y un derrame cerebral en la zona del
+
 hipotálamo de magnitud. La pericia del neurocirujano Claudio Centurión
+
 evitó que se muera. Guerra Rivera pasó por una traqueotomía y por una
+
 incisión en la zona craneana para evitar inflamación interna. Estuvo en
+
 coma inducido durante casi diez días y cuando despertó fue considerado
+
 un milagro auténtico.
+
 El jinete que representó a Chile durante el pasado festival es soltero,
+
 no tiene hijos, vive en Puerto Natale, 230 kilómetros más al sur de Río
+
 Gallegos, y trabaja como camionero. Su familia está pidiendo hoy que lo
+
 trasladen a Rancagua donde residen los demás integrantes para poder
+
 comenzar con su rehabilitación urgente.
+
 José (67), padre del jinete, así lo resumió: “Quiero que me ayuden a
+
 trasladar al muchacho porque no tengo recursos económicos para hacerlo.
+
 Él ya se está parando, pero se quiere ir, está muy enojón y lo menean de
+
 aquí para allá. Yo no pido nada, sólo que me den la autorización para
+
 llevarlo”.
+
 Respecto del estado de salud del joven domador, su padre añadió: “A
+
 veces me reconoce y a veces no. Por ahí está hablando conmigo y me
+
 pregunta por su papá. No se acuerda de que su hermano mayor y su abuelo
+
 fallecieron y me pregunta por ellos. Ni siquiera se acuerda del
+
 accidente. Él dice que tuvo un golpe en la cabeza, pero no sabe cómo se
+
 lo hizo”.
+
 Desde que Guerra Rivera está internado, el centro de salud emitió partes
+
 médicos que fueron retrasmitidos por la Secretaría de Prensa del
+
 Festival. En ninguno de los que se difundió hasta ahora se mencionó
+
 diagnóstico alguno. Lo que sí está claro es que -más allá de las
+
 sesiones de fisioterapia que recibe a diario y de las curaciones de unas
+
 escaras que se le hicieron a la altura del sacro- el jinete no está
+
 recibiendo un tratamiento de rehabilitación.
+
 La preocupación de la familia es que esté perdiendo funciones y que ese
+
 proceso resulte irreversible si no apuran el traslado a Chile y comience
+
 con la rehabilitación urgente.
 
+
 Burocracia que no se puede sortear
+
 Hace tres años, el Festival vivió una situación similar con el jinete
+
 Cristian Rollari de Salta que tuvo una caída que lo dejó con una
+
 parálisis permanente de la cintura para abajo. Estuvo 30 días internado
+
 hasta que en un avión sanitario fue trasladado a su provincia. En este
+
 caso, la situación es más compleja por tratarse de gestiones que hay que
+
 encarar en conjunto con las autoridades diplomáticas chilenas.
+
 Esta semana, a través del consulado de Chile en Córdoba, se conoció que
+
 el jinete será admitido en el centro de salud Bernardo de O`Higgins por
+
 un equipo de neorocirujanos que lo evaluará y dictaminará como continuar
+
 el tratamiento, en Rancagua. Pero el aeropuerto de Rancagua no tiene
+
 aduana y entonces autoridades militares tendrán que acompañar el momento
+
 del aterrizaje. Para sumar demoras, Guerra Rivera tiene vencida la visa
+
 y también hay que tramitarle eso.
+
 Juan López, vicepresidente segundo del Festival, explicó: “Estamos en
+
 contacto permanente con las autoridades de la provincia porque por el
+
 estado de salud del paciente no podemos enviarlo en un vuelo comercial,
+
 cosa que ya hubiéramos hecho. Entonces, tenemos que evaluar, primero,
+
 que tipo de avión podría trasladarlo y, luego, coordinar con ambulancia,
+
 aeropuerto, y el hospital de Chile todo lo del traslado”.
+
 “Además, añadió López, la comunicación oficial del consulado chileno era
+
 imprescindible para poder continuar con el trámite y ese papel nos llegó
+
 con fecha 21 de febrero”.
+
 Desde que se anunció que el paciente estaba en condiciones de su
+
 traslado, el primero de febrero, ya pasó una quincena. Guerra Rivera no
+
 ve las horas de cruzar la cordillera de los Andes para afrontar lo que
+
 viene, si la burocracia se lo permite.

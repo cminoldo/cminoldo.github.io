@@ -10,4 +10,5 @@ Villa del Totoral. Desde esta semana, Villa del Totoral cuenta con una nueva esc
 
 Villa del Totoral. Desde esta semana, Villa del Totoral cuenta con una nueva escuela técnica que funcionará como anexo de la Escuela Normal Superior, con orientación en producción en bienes y servicios, y una  suborientación en Producción Industrial. La apertura de este centro educativo había sido gestionada por las autoridades municipales dentro del marco del programa Actualización de la Educación Técnica. 
 
-    El moderno edificio alberga a sus primeros 35 alumnos a quienes se formará para que adquieran competencias tecnológicas, valoren el trabajo manual, y cuenten con un bagaje de conocimientos que les permita continuar estudios superiores.
+
+El moderno edificio alberga a sus primeros 35 alumnos a quienes se formará para que adquieran competencias tecnológicas, valoren el trabajo manual, y cuenten con un bagaje de conocimientos que les permita continuar estudios superiores.

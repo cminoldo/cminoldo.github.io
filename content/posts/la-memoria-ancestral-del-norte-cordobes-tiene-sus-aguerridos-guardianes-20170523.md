@@ -9,122 +9,237 @@ description: "La Asociación Civil y Cultural Relatos del Viento se dedica desde
 La Asociación Civil y Cultural Relatos del Viento se dedica desde hace
 
 La Asociación Civil y Cultural Relatos del Viento se dedica desde hace
+
 12 años a relevar mitos, leyendas, saberes, y relatos sobre nuestro
+
 pasado originario y mestizo.
 
+
 Corresponsalía.
+
 Jesús María. A lo largo de 12 años, la Asociación Civil y Cultural
+
 Relatos del Viento realizó un impresionante periplo por toda la
+
 geografía del norte, noreste y noroeste cordobés tratando de rescatar
+
 del olvido los saberes ancestrales de nuestros comprovincianos, saberes
+
 que se vienen trasmitiendo en forma oral desde hace varias generaciones.
+
 Y a esa oralidad lograron hacerla aflorar, precisamente, conversando con
+
 la gente en sus lugares de origen.
+
 La licenciada en Psicología Patricia Rionda y el licenciado en
+
 comunicación Pablo Rosalía son dos de los integrantes de la asociación
+
 civil que están desde el día uno, cuando nació el proyecto, y quienes
+
 mayor trabajo tuvieron en la confección de un fondo documental que
+
 cuenta hoy con 830 horas de grabación en audio, video, y fotografías. De
+
 hecho, se capacitaron para “profesionalizar” ese registro y aplicaron
+
 técnicas de la etnografía que les permitió darle otro valor al material.
+
 Las conversaciones con alrededor de 415 abuelos y abuelas desde 2005 a
+
 la fecha permitieron recuperar 420 cuentos y leyendas, 320 relatos
+
 mitológicos y cosmogónicos, 130 ritos y rituales, 3250 saberes que van
+
 desde la medicina naturista a saberes ambientales, 190 seres
+
 mitológicos, 660 creencias, y 350 referencias sobre nuestro pasado
+
 originario, entre otras.
+
 Hasta ahora, el fondo documental sirvió para la realización de 26
+
 capítulos de una serie televisiva, dos libros que recopilan parte del
+
 trabajo, revistas y publicaciones más pequeñas destinados al sector
+
 educativo, y micros radiofónicos.
+
 “Nos gustaría poder hacer una tarea de recopilación más intensiva porque
+
 quedan cada vez menos personas portadoras de una cultura oral y
+
 ancestral que esté anclada a nuestro pasado originario mestizo. Y
+
 también nos gustaría poder redinamizar el fondo documental”, señaló
+
 Rosalía sobre las actuales intenciones de la asociación.
 
+
 Biblioteca inmaterial
+
 “Nuestra cultura ancestral está fragmentada y diseminada por todo el
+
 norte cordobés como si fuese un gran rompecabezas y nos urge ir
+
 encontrando la mayor cantidad de piezas posibles. Cada vez que fallece
+
 un abuelo o abuela portadora de esta cultura, desaparece para siempre
+
 una de esas piezas, muere con ellos una biblioteca inmaterial”, completó
+
 Rosalía sobre su preocupación por continuar con la tarea de
+
 recopilación.
+
 Durante los primeros tres años, Relatos del Viento consiguió
+
 financiamiento internacional para el proyecto; luego consiguieron algo
+
 de apoyo de pequeños municipios, pero en el último tiempo la
+
 financiación se está haciendo cada vez más difícil y no quieren darse
+
 por vencidos sin dar la última pelea.
+
 Por eso están invitando a la sociedad a tomar parte de esta salvaguarda,
+
 mediante su aporte económico a través del débito solidario de Tarjeta
+
 Naranja o transferencia a la cuenta bancaria de la Asociación. También,
+
 vienen invitando al sector privado, a través de los programas de
+
 responsabilidad social empresaria que quieran aportar al fortalecimiento
+
 de las identidades regionales. Además, vienen gestionando la concreción
+
 de un espacio físico propio en el que montar la “escuela del monte”.
+
 CONTACTO:
+
 www.relatosdelviento.org
+
 relatosdelviento@gmail.com
+
 Facebook: relatosdelviento
+
 Tel: (03525) 462710
+
 El sol que baila
+
 Patricia Rionda, asturiana de nacimiento pero cordobesa por adopción,
+
 cuenta que uno de los rituales rescatados que más le llamó la atención
+
 fue el del sol que baila. Para el 24 de junio, muchos pobladores
+
 recordaban que sus padres y sus abuelos o que ellos mismos de niños se
+
 levantaban muy temprano, antes de que amaneciese, se lavaban, se ponían
+
 las mejores vestimentas como en los días de fiesta y se iban hasta algún
+
 lugar elevado (monte o colina) donde pudiesen ver al sol salir.
+
 “Lo que comentan es que ese día, y sólo ese día, ven que el sol baila.
+
 Te describen un movimiento circular y es como que ven al sol bailar y
+
 ese día se le pueden pedir cosas. Don Rafael de la zona de (San
+
 Francisco de) Chañar nos decía que si bailabas mientras el sol salía,
+
 aprendías a bailar bien”, relató Rionda sobre esa costumbre que se
+
 mantiene hasta nuestros días.
+
 Y completó Rosalía sobre esta historia: “Las mejores ‘yuyeras’ aseguran
+
 que el 24 de junio los yuyos cortados antes de que salga el sol tendrán
+
 una suerte de bendición extra. Y hay todo un ritual de preparación y
+
 espera para ese momento”.
 
+
 Peleas entre animales
+
 Audino Sosa, del paraje Los eucaliptos, y Dominga Gorosito, del paraje
+
 La Rinconada, son moradores de este norte cordobés que ayudaron a
+
 rescatar los relatos que cuentan peleas entre animales e insectos. Dos
+
 de esas historias tenían como protagonista al zorro que, por algún
+
 motivo, provoca pelas. En una, el zorro se enfrenta con un grillo
+
 -llamado chilicote en gran parte del norte- y, en otra, el zorro se
+
 trenza con una catanga, que es el nombre dado al escarabajo.
+
 En ambos casos, cada uno se va a buscar aliados para la pelea. El zorro
+
 busca a otros animales grandes como el jaguar, el puma, y cree que
+
 saldrá victorioso tras enfrentarse a insectos de pequeño tamaño. Con lo
+
 que no cuenta el zorro es que los insectos convocan a la lucha a abejas
+
 y avispas que terminan dándole una paliza y hacen huir despavoridos a
+
 los animales que no pueden frenar el ataque.
+
 “Tenemos a muchos abuelos que recuerdan que hasta fines de 1800
+
 escuchaban hablar a sus ancestros en quechua, lo cual es lógico porque
+
 el Córdoba se hablaba esa lengua por orden administrativa del imperio
+
 español que quería unificar la comunicación con los pueblos
+
 originarios”, acotó Rosalía.
+
 Vocablos 100% cordobeses
 
+
 Los saberes de los comechingones y los sanavirones perviven en nuestra
+
 cultura. Incluso vocablos que no son quechuas ni aimaras ni guaraníes,
+
 que son de acá. Como, por ejemplo, cuncún. “La práctica del cuncún que
+
 es, tras la cosecha del maíz, la recolección de los maicitos más pobres,
+
 los granos sueltos que las familias más pobres realizaban en los campos
+
 con permiso de sus dueños. Se utiliza como verbo ‘cuncunear’”, detalló
+
 Rosalía.
+
 También se rescató el vocablo utuco que se utiliza como sinónimo de
+
 abundante. “Está presente incluso en la oralidad de la misma gente de
+
 Colonia Caroya. ‘Esa cabeza utuca de piojos’ como sinónimo de mucho. O
+
 ‘esa tuna utuca de frutos’ como sinónimo de sobrecargada”, añadió
+
 Rionda.
+
 Como esas, los recopiladores han logrado armar un listado grande de
+
 palabras que resultan de la combinación de todas las lenguas originarias
+
 que se dialogaron en nuestra provincia. “Queremos evitar el exterminio
+
 sobre una cultura ancestral. Frente al estado de las tradiciones orales
+
 estamos en la misma situación que cuando se estaban extinguiendo los
+
 distintos dialectos comechingones. Quedan un puñado de portadores y de
+
 ahí la urgencia del trabajo nuestro. No queremos que se extinga”,
+
 completó Rosalía.

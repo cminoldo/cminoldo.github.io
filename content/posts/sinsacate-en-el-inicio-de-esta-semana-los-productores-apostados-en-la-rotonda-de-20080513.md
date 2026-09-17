@@ -10,4 +10,5 @@ La especulación que surge de las asambleas, que se llevan a cabo a diario en es
 
 La especulación que surge de las asambleas, que se llevan a cabo a diario en esta localidad, es que la medida de fuerza se mantendrá una vez que finalicen los ocho días previstos por la mesa de enlace y aseguran que el gobierno nacional deberá dar una muestra muy fuerte y clara al campo si quieren las rutas despejadas. 
 
-    Para este jueves está prevista la realización de una misa en la explanada del ferrocarril de Jesús María con un manifiesto de agradecimiento para el sector comercial y para la comunidad a sabiendas de que la prolongación de la protesta trae consecuencias indeseadas y malestar como la caída en las ventas y faltantes de mercaderías.
+
+Para este jueves está prevista la realización de una misa en la explanada del ferrocarril de Jesús María con un manifiesto de agradecimiento para el sector comercial y para la comunidad a sabiendas de que la prolongación de la protesta trae consecuencias indeseadas y malestar como la caída en las ventas y faltantes de mercaderías.

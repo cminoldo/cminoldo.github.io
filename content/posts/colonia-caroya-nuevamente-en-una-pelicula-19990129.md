@@ -10,48 +10,71 @@ María Juliana Rodriguez y Rafael linares, alumnos de la Escuela
 
 María Juliana Rodriguez y Rafael linares, alumnos de la Escuela 
 
-    de Cine de la Universidad Nacional de Córdoba, eligieron 
 
-    a Colonia Caroya como escenario para un cortometraje titulado 
+de Cine de la Universidad Nacional de Córdoba, eligieron 
 
-    "en el camino".
 
-    La duración del filme será de 25 minutos y su rodaje se extenderá 
+a Colonia Caroya como escenario para un cortometraje titulado 
 
-    por un período de 15 días en lugares claves de la geografía 
 
-    caroyense: la plaza Nicolás Avellaneda, el bar 9 de julio, 
+"en el camino".
 
-    viviendas particulares y diversos espacios públicos.
 
-    El argumento de la película narra la historia de un ingeniero 
+La duración del filme será de 25 minutos y su rodaje se extenderá 
 
-    vial que por razones laborales debe radicarse en la zona 
 
-    junto a su hijo de 8 años, después de haber sufrido la pérdida 
+por un período de 15 días en lugares claves de la geografía 
 
-    de su esposa, fallecida a causa del Sida.
 
-    Cabe recordar que en Colonia Caroya se filmó también la película 
+caroyense: la plaza Nicolás Avellaneda, el bar 9 de julio, 
 
-    Cartas para Ulises que fuera exhibida a fines del pasado 
 
-    año.
+viviendas particulares y diversos espacios públicos.
 
-    Miembros del grupo de teatro caroyense Fra Noi, que vienen 
 
-    de participar como extras en la serie el alquimista de Polka 
+El argumento de la película narra la historia de un ingeniero 
 
-    producciones, participarán también de esta iniciativa, al 
 
-    igual que algunos vecinos e instituciones como el mismo 
+vial que por razones laborales debe radicarse en la zona 
 
-    municipio.
 
-    Se señaló, finalmente, que los responsables del equipo, integrado 
+junto a su hijo de 8 años, después de haber sufrido la pérdida 
 
-    por unas 15 personas, están realizando los contactos y seleccionando 
 
-    los lugares para iniciar el rodaje, previsto para el próximo 
+de su esposa, fallecida a causa del Sida.
 
-    5 de febrero.
+
+Cabe recordar que en Colonia Caroya se filmó también la película 
+
+
+Cartas para Ulises que fuera exhibida a fines del pasado 
+
+
+año.
+
+
+Miembros del grupo de teatro caroyense Fra Noi, que vienen 
+
+
+de participar como extras en la serie el alquimista de Polka 
+
+
+producciones, participarán también de esta iniciativa, al 
+
+
+igual que algunos vecinos e instituciones como el mismo 
+
+
+municipio.
+
+
+Se señaló, finalmente, que los responsables del equipo, integrado 
+
+
+por unas 15 personas, están realizando los contactos y seleccionando 
+
+
+los lugares para iniciar el rodaje, previsto para el próximo 
+
+
+5 de febrero.

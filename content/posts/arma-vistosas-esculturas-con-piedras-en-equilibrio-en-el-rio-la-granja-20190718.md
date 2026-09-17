@@ -9,54 +9,104 @@ description: "Mientras avanza la construcción de su hogar, Adrián Rolfo constr
 Mientras avanza la construcción de su hogar, Adrián Rolfo construye
 
 Mientras avanza la construcción de su hogar, Adrián Rolfo construye
+
 obras de arte efímeras, pero singulares apilando piedras de distintos
+
 tamaños y formas.
 
+
 Corresponsalía Jesús María. Con una mezcla de arte, disciplina y
+
 pasatiempo, Adrián Rolfo viene dedicando gran parte de su tiempo libre a
+
 lo que en inglés de denomina rock balancing o stone stacking y que
+
 consiste en equilibrar naturalmente piedras, unas sobre otras y en
+
 varias posiciones, sin el uso de adhesivos, cables, soportes, anillos o
+
 cualquier otro artilugio. El río La Granja es su teatro de operaciones y
+
 allí pasa interminables horas edificando estas obras efímeras.
+
 “Todo lo que tiene que ver con trabajar con las manos me acompaña desde
+
 que era muy chico. Pintar, hacer dibujos en las paredes de mi
+
 dormitorio, hasta trabajar con arcilla, después con cuero crudo, o con
+
 madera en la carpintería y ahora con esto de balancear piedras. Y
+
 básicamente también lo que me permite vivir y que es mi trabajo fijo: la
+
 panadería”, explicó Rolfo, quien con su familia tiene panadería y
+
 pastelería en Jesús María desde hace muchísimos años.
+
 Y su afición por balancear piedras nació como una casualidad, viendo
+
 unos videos en Youtube donde se topó con dos especialistas, Michael Grab
+
 (Canadá) y Pontus Jansson (Suecia). “Un día –recordó Rolfo- estábamos
+
 acá con mi hija (Zoe) en el río de La Granja, vi las piedras y el
+
 ambiente, me acordé lo que había visto y nos pusimos a hacer una torre
+
 de piedra que fue lo primero que hicimos”.
+
 Después, volvió a buscar las demostraciones de Grab y Jansson, los
+
 empezó a seguir en redes sociales y supo que había muchísima gente que
+
 practica este arte, no tanto en Argentina, pero sí en otros lados.
+
 “Empecé a practicarlo y a querer mejorarlo cada día un poco más”,
+
 completó este vecino jesusmariense que viene construyendo su hogar en La
+
 Granja, a metros del río que lleva el mismo nombre.
+
 Vale señalar que parece fácil, pero no es para cualquiera. Requiere
+
 concentración, firmeza en las manos, y mucha paciencia. Muchas personas
+
 se valen de esta disciplina para relajarse, aliviar el estrés, meditar,
+
 crear, jugar y aprender. La complicidad de Rolfo con su hija Zoe es
+
 también un motor para avanzar. Ella está agazapada y a la espera de que
+
 su papá termine la obra para proceder a su destrucción casi en forma
+
 instantánea, previa foto que testimonie el esfuerzo.
+
 Pero aun si Zoe no estuviese, el mismo viento es un enemigo de ese
+
 equilibrio precario que se logra entre piedras que parecen imposibles de
+
 juntarse. Cualquier semejanza con la búsqueda del equilibrio en la vida
+
 personal, vale. Como bien planteó este cultor: “La verdad es que es
+
 bastante satisfactorio a nivel mental encontrar ese punto de equilibrio.
+
 Sobre todo, traer la mente al tiempo presente porque pasa muy a menudo
+
 que la mente está en el futuro o en el pasado y eso genera malestar, no
+
 hace bien a la salud. En este tipo de cosas es como que uno busca traer
+
 la mente al presente, no estar pensando en otras cosas y así se logra un
+
 buen punto de equilibrio, estar en el lugar con las manos y con la
+
 mente”.
+
 Por ahora, pasatiempo y aislarse del ruido cotidiano. Y en el mientras
+
 tanto lograr que los incrédulos le den crédito por el esfuerzo que viene
+
 haciendo como artista del rock balancing, mientras piensa en cuál será
+
 su próximo desafío.

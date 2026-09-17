@@ -10,4 +10,5 @@ Jesús María. Coordinado por el área de Bromatología municipal, se llevará a
 
 Jesús María. Coordinado por el área de Bromatología municipal, se llevará a cabo un nuevo curso de manipulador de alimentos, el martes 3 de enero desde las 10 en la Biblioteca Popular Sarmiento, destinado a las personas que trabajarán por primera vez en los puestos de comidas durante la próxima edición del Festival de Doma.
 
-    La capacitación se repite para quienes no pudieron participar del curso dictado el pasado 20 de diciembre y comprende un módulo teórico y un examen básico para fijar conocimientos.
+
+La capacitación se repite para quienes no pudieron participar del curso dictado el pasado 20 de diciembre y comprende un módulo teórico y un examen básico para fijar conocimientos.

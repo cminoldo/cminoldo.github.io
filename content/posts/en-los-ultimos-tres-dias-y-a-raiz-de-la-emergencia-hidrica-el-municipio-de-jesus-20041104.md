@@ -10,4 +10,5 @@ Paralelamente y para implementar mayores controles al exceso de consumo, se habi
 
 Paralelamente y para implementar mayores controles al exceso de consumo, se habilitó un registro para que los vecinos declaren las piletas de natación que no estén registradas en obras privadas de la Secretaría de Desarrollo Urbano. La declaración abarca la capacidad, el tipo de pileta de que se trate, y el plazo expirará a fin de mes.
 
-    Desde el área de inspección, se puso en marcha un registro de denuncias y se incrementaron los controles multando a todos los vecinos que derrochan agua. Las denuncias se receptan en el Tel. 426772.
+
+Desde el área de inspección, se puso en marcha un registro de denuncias y se incrementaron los controles multando a todos los vecinos que derrochan agua. Las denuncias se receptan en el Tel. 426772.

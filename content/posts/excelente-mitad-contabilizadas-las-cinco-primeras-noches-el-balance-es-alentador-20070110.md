@@ -10,4 +10,5 @@ Récord de consumo energético. El extenuante calor del martes y la realización
 
 Récord de consumo energético. El extenuante calor del martes y la realización del festival volvieron a disparar el consumo de energía eléctrica en Jesús María a un récord histórico de 16,8 megavatios. Idéntica cifra se había registrado el año pasado en el mismo día e implica un consumo mensual de entre 500 y 600 mil kilovatios más. 
 
+
 Menos comida secuestrada. El estricto control de depósitos y de elaboración de comidas y bebidas que hace el municipio local consiguió que hubiese menos decomiso de alimentos, en relación a ediciones anteriores. En estos días están abocados a encontrar un producto que permita controlar la proliferación de moscas sin afectar la calidad de los alimentos.

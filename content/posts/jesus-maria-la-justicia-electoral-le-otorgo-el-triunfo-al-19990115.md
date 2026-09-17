@@ -10,44 +10,65 @@ radicalismo
 
 radicalismo
 
-    Una resolución del Juzgado Electoral Provincial, presidida 
 
-    por la jueza Marta Vidal, no hizo lugar al recurso solicitado 
+Una resolución del Juzgado Electoral Provincial, presidida 
 
-    por el apoderado del justicialismo de Jesús María para que 
 
-    se anule el resultado de la mesa 5662, situación que convalida 
+por la jueza Marta Vidal, no hizo lugar al recurso solicitado 
 
-    el triunfo del radical Jorge Colombo.
 
-    En el auto interlocutorio, Domingo Angel Carbonetti, asesor 
+por el apoderado del justicialismo de Jesús María para que 
 
-    letrado del partido justicialista, solicitaba el llamado 
 
-    a elecciones complementarias para esa mesa, habida cuenta 
+se anule el resultado de la mesa 5662, situación que convalida 
 
-    que existía una diferencia de 17 votos entre los sobres y 
 
-    votos escrutados y la sumatoria en las columnas del telegrama.
+el triunfo del radical Jorge Colombo.
 
-    De acuerdo a la resolución de la jueza "lo que ha sucedido 
 
-    es efectivamente la omisión del cómputo de los votos en blanco 
+En el auto interlocutorio, Domingo Angel Carbonetti, asesor 
 
-    en forma independiente para cada cargo, unificándolos con 
 
-    los correspondientes a las categorías de Gobernador y Vicegobernador, 
+letrado del partido justicialista, solicitaba el llamado 
 
-    generando de esta forma diferencias aparentes entre los 
 
-    resultados, ello por no haberse computado los votos en blanco".
+a elecciones complementarias para esa mesa, habida cuenta 
 
-    Cabe mencionar que en la mesa que pretendía ser impugnada 
 
-    por el justicialismo se impuso por un voto el candidato 
+que existía una diferencia de 17 votos entre los sobres y 
 
-    de la Alianza en Jesús María y que de proceder a su anulación 
 
-    de igual manera Jorge Colombo seguiría siendo el ganador 
+votos escrutados y la sumatoria en las columnas del telegrama.
 
-    de la última compulsa electoral en Jesús María.
+
+De acuerdo a la resolución de la jueza "lo que ha sucedido 
+
+
+es efectivamente la omisión del cómputo de los votos en blanco 
+
+
+en forma independiente para cada cargo, unificándolos con 
+
+
+los correspondientes a las categorías de Gobernador y Vicegobernador, 
+
+
+generando de esta forma diferencias aparentes entre los 
+
+
+resultados, ello por no haberse computado los votos en blanco".
+
+
+Cabe mencionar que en la mesa que pretendía ser impugnada 
+
+
+por el justicialismo se impuso por un voto el candidato 
+
+
+de la Alianza en Jesús María y que de proceder a su anulación 
+
+
+de igual manera Jorge Colombo seguiría siendo el ganador 
+
+
+de la última compulsa electoral en Jesús María.

@@ -10,42 +10,65 @@ Jesús María. Desde diciembre de 2001 a la fecha, la demanda de vecinos de Jes�
 
 Jesús María. Desde diciembre de 2001 a la fecha, la demanda de vecinos de Jesús María por servicios de seguridad se ha incrementado. La sensación de que ya no se vive en una tranquila localidad y la comisión de algunos hechos de robo con la utilización de la violencia llevó a pobladores de distintos barrios a optar por la contratación de servicios adicionales a los que presta la policía de la provincia.
 
-    El hecho se hizo notorio en los últimos meses con la instalación de casillas de madera para vigilancia que pagan los vecinos que deciden suscribir el servicio. Aunque se supone que el permiso para instalar dichas casillas le corresponde a la Municipalidad, desde la administración del intendente Jorge Colombo se negó que haya existido permiso para instalarlas.
 
-    La prestación de servicios privados comenzó hace unos dos años en los barrios que se encuentran del otro lado del río Jesús María –Italia, Parque Suizo, y La Represa- pero ya se trasladó a distintos sectores de la zona céntrica. La vigilancia incluye no sólo a domicilios particulares sino a algunos comercios.
+El hecho se hizo notorio en los últimos meses con la instalación de casillas de madera para vigilancia que pagan los vecinos que deciden suscribir el servicio. Aunque se supone que el permiso para instalar dichas casillas le corresponde a la Municipalidad, desde la administración del intendente Jorge Colombo se negó que haya existido permiso para instalarlas.
 
-    En general, los prestadores de este servicio son gendarmes en actividad que hacen su “changa” después de los horarios de trabajo que tienen en la Escuela de Suboficiales de Gendarmería y en el Móvil 3 de la fuerza. No obstante, el servicio no incluye la portación de armas reglamentarias, cuestión que hace cuestionable su efectividad a la hora de enfrentar a delincuentes que operan armados y con gran velocidad.
 
-    Si las condiciones para abrir una agencia de seguridad privada no cambiaron, la inscripción y la habilitación para ejercer el servicio cuesta unos 12 mil pesos, una cifra inalcanzable para cualquier interesado en la prestación y que hace presumir que no existe ninguna agencia habilitada en Jesús María.
+La prestación de servicios privados comenzó hace unos dos años en los barrios que se encuentran del otro lado del río Jesús María –Italia, Parque Suizo, y La Represa- pero ya se trasladó a distintos sectores de la zona céntrica. La vigilancia incluye no sólo a domicilios particulares sino a algunos comercios.
+
+
+En general, los prestadores de este servicio son gendarmes en actividad que hacen su “changa” después de los horarios de trabajo que tienen en la Escuela de Suboficiales de Gendarmería y en el Móvil 3 de la fuerza. No obstante, el servicio no incluye la portación de armas reglamentarias, cuestión que hace cuestionable su efectividad a la hora de enfrentar a delincuentes que operan armados y con gran velocidad.
+
+
+Si las condiciones para abrir una agencia de seguridad privada no cambiaron, la inscripción y la habilitación para ejercer el servicio cuesta unos 12 mil pesos, una cifra inalcanzable para cualquier interesado en la prestación y que hace presumir que no existe ninguna agencia habilitada en Jesús María.
+
 
 Seguridad extra
 
-    Muchos de los vecinos, que abonan un canon mensual por el servicio, aseguran que la presencia de los gendarmes vigilando los barrios desalienta la comisión de delitos. Además, les brinda la posibilidad de sentirse vigilados cuando tienen que ingresar los vehículos a la cochera durante cualquier hora de la madrugada.
 
-    Lo mismo sucede en caso de la presencia de vehículos sospechosos en las inmediaciones de los domicilios particulares o de personas extrañas merodeando las inmediaciones, ya que pueden comunicarse con el guardia y solicitarle que averigüe qué está pasando.
+Muchos de los vecinos, que abonan un canon mensual por el servicio, aseguran que la presencia de los gendarmes vigilando los barrios desalienta la comisión de delitos. Además, les brinda la posibilidad de sentirse vigilados cuando tienen que ingresar los vehículos a la cochera durante cualquier hora de la madrugada.
 
-    Pese a ello, cuando algún vecino es víctima de algún delito lo primero que hace es comunicarse con la policía como quedó demostrado en algunos casos de robo o intentos de robo a pesar de la presencia del guardia.
 
-    Pero es la sensación de inseguridad que se vive la que lleva a los pobladores a decidirse por la contratación de un servicio extra, cuyo costo va desde los 20 a los 50 pesos por mes. Además, la notoriedad de algunos hechos recientes alimenta la necesidad de buscar más protección. Tal es el caso del robo que sufrió, hace algunos meses, el presidente de la Sociedad Rural de Jesús María, Miguel Ángel Picat, o el reciente asalto comando perpetrado a turistas extranjeros en la Estancia La Paz.
+Lo mismo sucede en caso de la presencia de vehículos sospechosos en las inmediaciones de los domicilios particulares o de personas extrañas merodeando las inmediaciones, ya que pueden comunicarse con el guardia y solicitarle que averigüe qué está pasando.
 
-    A esos hechos, habría que agregarle el robo al productor caroyense Néstor Panontini, y el desmantelamiento del Centro Tecnológico Comunitario que sufrió el propio municipio local.
 
-    En todos los casos, a los delincuentes no les tomó más de media hora alzarse con valiosos botines y darse a la fuga despistando las pesquisas inmediatas de la policía.
+Pese a ello, cuando algún vecino es víctima de algún delito lo primero que hace es comunicarse con la policía como quedó demostrado en algunos casos de robo o intentos de robo a pesar de la presencia del guardia.
 
-    Muchos vecinos reconocen que portar una linterna y recorrer los domicilios vigilados en una bicicleta o un vehículo es insuficiente pero –aseguran- los hace sentir más cómodos ante la eventualidad de que la crisis económica desate una ola delictiva mayor.
 
-    Claves
+Pero es la sensación de inseguridad que se vive la que lleva a los pobladores a decidirse por la contratación de un servicio extra, cuyo costo va desde los 20 a los 50 pesos por mes. Además, la notoriedad de algunos hechos recientes alimenta la necesidad de buscar más protección. Tal es el caso del robo que sufrió, hace algunos meses, el presidente de la Sociedad Rural de Jesús María, Miguel Ángel Picat, o el reciente asalto comando perpetrado a turistas extranjeros en la Estancia La Paz.
+
+
+A esos hechos, habría que agregarle el robo al productor caroyense Néstor Panontini, y el desmantelamiento del Centro Tecnológico Comunitario que sufrió el propio municipio local.
+
+
+En todos los casos, a los delincuentes no les tomó más de media hora alzarse con valiosos botines y darse a la fuga despistando las pesquisas inmediatas de la policía.
+
+
+Muchos vecinos reconocen que portar una linterna y recorrer los domicilios vigilados en una bicicleta o un vehículo es insuficiente pero –aseguran- los hace sentir más cómodos ante la eventualidad de que la crisis económica desate una ola delictiva mayor.
+
+
+Claves
+
 
 - La policía local detuvo en el mes de julio a 95 personas -45 por
-  delitos y 50 por contravenciones- a razón de tres personas por día.
-  Cada tres delincuentes, uno era menor de edad.
 
-  En el mismo mes, la policía controló cerca de 900 vehículos solamente
-  en Colonia Caroya y Jesús María.
+delitos y 50 por contravenciones- a razón de tres personas por día.
 
-  Del robo a la Estancia La Paz, fueron detenidas dos personas bajo el
-  cargo de encubrimiento agravado.
+Cada tres delincuentes, uno era menor de edad.
 
-  se receptaron 1389 llamados al 101, de los cuales solamente 80 fueron
-  falsas alarmas. Desde este mes, cada llamada al 101 será chequeada por
-  la policía.
+
+En el mismo mes, la policía controló cerca de 900 vehículos solamente
+
+en Colonia Caroya y Jesús María.
+
+
+Del robo a la Estancia La Paz, fueron detenidas dos personas bajo el
+
+cargo de encubrimiento agravado.
+
+
+se receptaron 1389 llamados al 101, de los cuales solamente 80 fueron
+
+falsas alarmas. Desde este mes, cada llamada al 101 será chequeada por
+
+la policía.

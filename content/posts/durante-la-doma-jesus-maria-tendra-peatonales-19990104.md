@@ -10,82 +10,122 @@ Con el objetivo de mejorar la circulación de los turistas
 
 Con el objetivo de mejorar la circulación de los turistas 
 
-    y visitantes que se acerquen a la trigesimocuarta edición 
 
-    del Festival de Doma y Folklore, el departamento Ejecutivo 
+y visitantes que se acerquen a la trigesimocuarta edición 
 
-    Municipal programó un sistema de peatonalización en las arterias 
 
-    aledañas al anfiteatro.
+del Festival de Doma y Folklore, el departamento Ejecutivo 
 
-    Desde el día 8 y hasta el 17 a partir de las 18 horas, 30 
 
-    inspectores municipales se encargarán de ordenar el tránsito 
+Municipal programó un sistema de peatonalización en las arterias 
 
-    para evitar que los vehículos se conduzcan por lugares inapropiados.
 
-    Las calles afectadas al sistema de peatonales son las siguientes: 
+aledañas al anfiteatro.
 
-    Córdoba del 0 al 200, Tucumán del 0 al 100, Cleto Peña del 
 
-    0 al 200 y Paseo del huerto desde bulevar Agüero hasta 25 
+Desde el día 8 y hasta el 17 a partir de las 18 horas, 30 
 
-    de mayo(de una sola mano)
 
-    Se informó, además, que el ingreso de proveedores al sector 
+inspectores municipales se encargarán de ordenar el tránsito 
 
-    peatonalizado finalizará a la hora 18 sin excepción, recordándose 
 
-    también que en esta zona está prohibida la venta ambulante.
+para evitar que los vehículos se conduzcan por lugares inapropiados.
 
-    Respecto del estacionamiento de vehículos de pasajeros, se 
 
-    indicó que los taxis se ubicarán en la zona aledaña al colegio 
+Las calles afectadas al sistema de peatonales son las siguientes: 
 
-    Del Huerto, mientras que los remises lo harán a una distancia 
 
-    de 10 metros respecto de los primeros, en dirección a la 
+Córdoba del 0 al 200, Tucumán del 0 al 100, Cleto Peña del 
 
-    calle O'Higgins.
 
-    Por otra parte se señaló que aún quedan disponibles 34 predios 
+0 al 200 y Paseo del huerto desde bulevar Agüero hasta 25 
 
-    para la instalación de locales comerciales, con excepción 
 
-    de los rubros alimentos y bebidas, los cuales serán otorgados 
+de mayo(de una sola mano)
 
-    en forma directa ya que no fueron en su momento adjudicados 
 
-    por remate.
+Se informó, además, que el ingreso de proveedores al sector 
 
-    Controles y seguridad
 
-    Por su parte, la junta Municipal de Defensa Civil adelantó 
+peatonalizado finalizará a la hora 18 sin excepción, recordándose 
 
-    las principales medidas que se pondrán en marcha durante 
 
-    las diez noches festivaleras, consistentes en la instalación 
+también que en esta zona está prohibida la venta ambulante.
 
-    de cartelería para señalización de rutas de evacuación, sistema 
 
-    de alerta en las márgenes del río Jesús María y sistema de comunicación 
+Respecto del estacionamiento de vehículos de pasajeros, se 
 
-    de servicios públicos y emergencias.
 
-    En tanto, desde la Unidad Regional 4(U.R.4) se informó que 
+indicó que los taxis se ubicarán en la zona aledaña al colegio 
 
-    están todos los uniformados listos para el operativo de seguridad 
 
-    que montó dicha repartición, en procura de evitar los arrebatos 
+Del Huerto, mientras que los remises lo harán a una distancia 
 
-    en la vía pública y el merodeo en las zonas que poseen una 
 
-    pobre iluminación.
+de 10 metros respecto de los primeros, en dirección a la 
 
-    Finalmente, se señaló que al igual que en las últimas dos ediciones 
 
-    se extremarán los controles bromatológicos para evitar el 
+calle O'Higgins.
 
-    expendio de bebidas y comidas que no posean las condiciones 
 
-    de higiene exigidas por ordenanza Municipal.
+Por otra parte se señaló que aún quedan disponibles 34 predios 
+
+
+para la instalación de locales comerciales, con excepción 
+
+
+de los rubros alimentos y bebidas, los cuales serán otorgados 
+
+
+en forma directa ya que no fueron en su momento adjudicados 
+
+
+por remate.
+
+
+Controles y seguridad
+
+
+Por su parte, la junta Municipal de Defensa Civil adelantó 
+
+
+las principales medidas que se pondrán en marcha durante 
+
+
+las diez noches festivaleras, consistentes en la instalación 
+
+
+de cartelería para señalización de rutas de evacuación, sistema 
+
+
+de alerta en las márgenes del río Jesús María y sistema de comunicación 
+
+
+de servicios públicos y emergencias.
+
+
+En tanto, desde la Unidad Regional 4(U.R.4) se informó que 
+
+
+están todos los uniformados listos para el operativo de seguridad 
+
+
+que montó dicha repartición, en procura de evitar los arrebatos 
+
+
+en la vía pública y el merodeo en las zonas que poseen una 
+
+
+pobre iluminación.
+
+
+Finalmente, se señaló que al igual que en las últimas dos ediciones 
+
+
+se extremarán los controles bromatológicos para evitar el 
+
+
+expendio de bebidas y comidas que no posean las condiciones 
+
+
+de higiene exigidas por ordenanza Municipal.

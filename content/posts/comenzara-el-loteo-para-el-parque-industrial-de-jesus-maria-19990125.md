@@ -10,98 +10,146 @@ El Concejo Deliberante de Jesús María sancionó la ordenanza
 
 El Concejo Deliberante de Jesús María sancionó la ordenanza 
 
-    que dispone la venta en forma privada de los lotes de propiedad 
 
-    Municipal en los que se levantará el futuro parque industrial 
+que dispone la venta en forma privada de los lotes de propiedad 
 
-    de la ciudad, con un precio base de quince pesos el metro 
 
-    cuadrado.
+Municipal en los que se levantará el futuro parque industrial 
 
-    La instalación de este predio, de 14 hectareas de dimensión, 
 
-    fue anunciada durante la presentación del plan quinquenal 
+de la ciudad, con un precio base de quince pesos el metro 
 
-    que el justicialismo ejecutaría si resultaba ganador en las 
 
-    elecciones del pasado 20 de diciembre.
+cuadrado.
 
-    De acuerdo a los términos de la ordenanza, en el precio por 
 
-    metro cuadrado se incluyen los siguientes servicios: red 
+La instalación de este predio, de 14 hectareas de dimensión, 
 
-    de agua potable para consumo domiciliario, red eléctrica 
 
-    para conexión domiciliaria y alumbrado público, dejándose aclarado 
+fue anunciada durante la presentación del plan quinquenal 
 
-    que no se incluyen las redes de agua para fuerza motriz, 
 
-    de cloacas, ni gas natural, obras que podrían ejecutarse 
+que el justicialismo ejecutaría si resultaba ganador en las 
 
-    de acuerdo al índice de desarrollo de la zona.
 
-    Asimismo, se señala en la normativa que se realizará un descuento 
+elecciones del pasado 20 de diciembre.
 
-    del 10% para quienes adquieran los lotes de contado, mientras 
 
-    que los interesados en adquirirlos en cuotas deberán entregar 
+De acuerdo a los términos de la ordenanza, en el precio por 
 
-    un 30% y abonar el resto en 12 cuotas con un interés del 
 
-    1% mensual sobre saldos.
+metro cuadrado se incluyen los siguientes servicios: red 
 
-    Para el caso en que la envergadura del proyecto industrial 
 
-    implique un impacto social de interés general, la norma contempla 
+de agua potable para consumo domiciliario, red eléctrica 
 
-    la ampliación del número de cuotas, previa autorización del 
 
-    cuerpo de ediles de la ciudad.
+para conexión domiciliaria y alumbrado público, dejándose aclarado 
 
-    Cabe mencionar que el predio, ubicado en las adyacencias 
 
-    del puente que une Sinsacate con Jesús María, perteneció durante 
+que no se incluyen las redes de agua para fuerza motriz, 
 
-    años a la familia Carrucio y con posterioridad fue adquirido 
 
-    por el municipio.
+de cloacas, ni gas natural, obras que podrían ejecutarse 
 
-    Oxigenar el centro
 
-    Juan José Nievas, secretario de Desarrollo Urbano de la ciudad, 
+de acuerdo al índice de desarrollo de la zona.
 
-    fue uno de los mentores de este proyecto cuya finalidad 
 
-    es trasladar las pequeñas y medianas industrias a una zona 
+Asimismo, se señala en la normativa que se realizará un descuento 
 
-    de nula urbanización y despejar de polución y de ruidos molestos 
 
-    el casco céntrico de Jesús María.
+del 10% para quienes adquieran los lotes de contado, mientras 
 
-    En tal sentido, el intendente Lucas Torres, señaló que "podrían 
 
-    otorgarse mayores facilidades a las empresas que tengan 
+que los interesados en adquirirlos en cuotas deberán entregar 
 
-    la voluntad de trasladarse a ese predio y transformar la 
 
-    parte céntrica de la ciudad en un verdadero polo comercial".
+un 30% y abonar el resto en 12 cuotas con un interés del 
 
-    Según se informó, las industrias que se instalen en el loteo 
 
-    Carrucio deberán ajustar sus construcciones al Código de Edificación, 
+1% mensual sobre saldos.
 
-    previa presentación de planos, proyecto de obra y estudio 
 
-    de impacto ambiental realizado por autoridades competentes.
+Para el caso en que la envergadura del proyecto industrial 
 
-    Torres manifestó, finalmente, que el municipio "tiene puesta 
 
-    muchas espectativas en este proyecto y esperamos que por 
+implique un impacto social de interés general, la norma contempla 
 
-    el precio, las facilidades de pago y las bondades que ofrece 
 
-    el loteo, empresarios de la zona o de otros lugares tengan 
+la ampliación del número de cuotas, previa autorización del 
 
-    la voluntad de poblar este sector cuya contribución más importante 
 
-    será preservar el medio ambiente de la ciudad".
+cuerpo de ediles de la ciudad.
+
+
+Cabe mencionar que el predio, ubicado en las adyacencias 
+
+
+del puente que une Sinsacate con Jesús María, perteneció durante 
+
+
+años a la familia Carrucio y con posterioridad fue adquirido 
+
+
+por el municipio.
+
+
+Oxigenar el centro
+
+
+Juan José Nievas, secretario de Desarrollo Urbano de la ciudad, 
+
+
+fue uno de los mentores de este proyecto cuya finalidad 
+
+
+es trasladar las pequeñas y medianas industrias a una zona 
+
+
+de nula urbanización y despejar de polución y de ruidos molestos 
+
+
+el casco céntrico de Jesús María.
+
+
+En tal sentido, el intendente Lucas Torres, señaló que "podrían 
+
+
+otorgarse mayores facilidades a las empresas que tengan 
+
+
+la voluntad de trasladarse a ese predio y transformar la 
+
+
+parte céntrica de la ciudad en un verdadero polo comercial".
+
+
+Según se informó, las industrias que se instalen en el loteo 
+
+
+Carrucio deberán ajustar sus construcciones al Código de Edificación, 
+
+
+previa presentación de planos, proyecto de obra y estudio 
+
+
+de impacto ambiental realizado por autoridades competentes.
+
+
+Torres manifestó, finalmente, que el municipio "tiene puesta 
+
+
+muchas espectativas en este proyecto y esperamos que por 
+
+
+el precio, las facilidades de pago y las bondades que ofrece 
+
+
+el loteo, empresarios de la zona o de otros lugares tengan 
+
+
+la voluntad de poblar este sector cuya contribución más importante 
+
+
+será preservar el medio ambiente de la ciudad".

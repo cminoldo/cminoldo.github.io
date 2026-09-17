@@ -10,10 +10,17 @@ Asimismo, se confirmó que el seleccionado nacional de fútbol femenino tampoco 
 
 Asimismo, se confirmó que el seleccionado nacional de fútbol femenino tampoco jugará el partido de exhibición que estaba previsto en Caroya para los próximos días.
 
+
 En Jesús María, el área Deportes de la Municipalidad de Jesús Maria
+
 suspendió la exhibición de los alumnos que toman clases en la pileta
+
 cubierta del polideportivo municipal. El Colegio Nuestra Señora del
+
 Huerto, propietaria del Cine Teatro Gianelli, señaló que no habrá obras
+
 de teatro ni cine durante todo julio. Finalmente, la Escuela de
+
 Suboficiales de Gendarmería Nacional adelantó ayer el inicio de
+
 vacaciones para los aspirantes a Suboficiales.
