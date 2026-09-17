@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Ccay on Archivo periodistico - Claudio Minoldo</title>
-		<link>http://localhost:1313/tags/ccay/</link>
+		<link>https://cminoldo.github.io/tags/ccay/</link>
 		<description>Recent content in Ccay on Archivo periodistico - Claudio Minoldo</description>
 		<generator>Hugo</generator>
 		<language>es-AR</language>
@@ -12,19 +12,19 @@
 		
 			<lastBuildDate>Sat, 24 Aug 2002 00:00:00 -0300</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/tags/ccay/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://cminoldo.github.io/tags/ccay/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Vecinos de Caroya quieren erradicación de un cortadero de ladrillos</title>
-				<link>http://localhost:1313/posts/vecinos-de-caroya-quieren-erradicacion-de-un-cortadero-de-ladrillos-20020824/</link>
+				<link>https://cminoldo.github.io/posts/vecinos-de-caroya-quieren-erradicacion-de-un-cortadero-de-ladrillos-20020824/</link>
 				<pubDate>Sat, 24 Aug 2002 00:00:00 -0300</pubDate>
-				<guid>http://localhost:1313/posts/vecinos-de-caroya-quieren-erradicacion-de-un-cortadero-de-ladrillos-20020824/</guid>
+				<guid>https://cminoldo.github.io/posts/vecinos-de-caroya-quieren-erradicacion-de-un-cortadero-de-ladrillos-20020824/</guid>
 				<description>&lt;p&gt;Colonia Caroya. Un grupo de vecinos de Colonia Caroya reclamaron ante el Concejo Deliberante por las molestias que les ocasiona una cortada de ladrillos, ubicada a menos de 100 metros de la calle 48, por la constante emisión de humo y de partículas que les impide mantener ventiladas sus casas o tender la ropa, entre otras cosas.&lt;/p&gt;&#xA;&lt;p&gt;Colonia Caroya. Un grupo de vecinos de Colonia Caroya reclamaron ante el Concejo Deliberante por las molestias que les ocasiona una cortada de ladrillos, ubicada a menos de 100 metros de la calle 48, por la constante emisión de humo y de partículas que les impide mantener ventiladas sus casas o tender la ropa, entre otras cosas.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>La UTN habilitará tecnicatura en Alimentos en Colonia Caroya</title>
-				<link>http://localhost:1313/posts/la-utn-habilitara-tecnicatura-en-alimentos-en-colonia-caroya-20001018/</link>
+				<link>https://cminoldo.github.io/posts/la-utn-habilitara-tecnicatura-en-alimentos-en-colonia-caroya-20001018/</link>
 				<pubDate>Wed, 18 Oct 2000 00:00:00 -0300</pubDate>
-				<guid>http://localhost:1313/posts/la-utn-habilitara-tecnicatura-en-alimentos-en-colonia-caroya-20001018/</guid>
+				<guid>https://cminoldo.github.io/posts/la-utn-habilitara-tecnicatura-en-alimentos-en-colonia-caroya-20001018/</guid>
 				<description>&lt;p&gt;A raíz de la firma de un convenio, entre la Universidad Tecnológica Nacional y la Municipalidad de Colonia Caroya, los egresados de las escuelas secundarias de la región podrán cursar la tecnicatura superior en industrias alimentarias que se comenzarán a dictar, desde el año próximo, en las instalaciones de Puerto Caroya.&lt;/p&gt;&#xA;&lt;p&gt;A raíz de la firma de un convenio, entre la Universidad Tecnológica Nacional y la Municipalidad de Colonia Caroya, los egresados de las escuelas secundarias de la región podrán cursar la tecnicatura superior en industrias alimentarias que se comenzarán a dictar, desde el año próximo, en las instalaciones de Puerto Caroya.&lt;/p&gt;</description>
 			</item>
 	</channel>

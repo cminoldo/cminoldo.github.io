@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Brev on Archivo periodistico - Claudio Minoldo</title>
-		<link>http://localhost:1313/tags/brev/</link>
+		<link>https://cminoldo.github.io/tags/brev/</link>
 		<description>Recent content in Brev on Archivo periodistico - Claudio Minoldo</description>
 		<generator>Hugo</generator>
 		<language>es-AR</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Thu, 06 Feb 2003 00:00:00 -0300</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/tags/brev/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://cminoldo.github.io/tags/brev/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Aula anexo del Ipem 69</title>
-				<link>http://localhost:1313/posts/aula-anexo-del-ipem-69-20030206/</link>
+				<link>https://cminoldo.github.io/posts/aula-anexo-del-ipem-69-20030206/</link>
 				<pubDate>Thu, 06 Feb 2003 00:00:00 -0300</pubDate>
-				<guid>http://localhost:1313/posts/aula-anexo-del-ipem-69-20030206/</guid>
+				<guid>https://cminoldo.github.io/posts/aula-anexo-del-ipem-69-20030206/</guid>
 				<description>&lt;p&gt;Jesús María. La Secretaría de Desarrollo Urbano y Económico está encarando los trabajos finales de la ampliación en el Instituto Municipal de Enseñanza Integral (Imei)donde funcionará la extensión áulica del Ipem 69. Un relevamiento determinó que la demanda de bancos en los institutos de nivel medio en Jesús María alcanzaba los 100. Por ese motivo, el municipio gestionó ante la Demes del Ministerio de Educación provincial la habilitación de un nuevo centro educativo.&lt;/p&gt;</description>
 			</item>
 	</channel>

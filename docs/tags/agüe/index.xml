@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Agüe on Archivo periodistico - Claudio Minoldo</title>
-		<link>http://localhost:1313/tags/ag%C3%BCe/</link>
+		<link>https://cminoldo.github.io/tags/ag%C3%BCe/</link>
 		<description>Recent content in Agüe on Archivo periodistico - Claudio Minoldo</description>
 		<generator>Hugo</generator>
 		<language>es-AR</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Wed, 26 Aug 1998 00:00:00 -0300</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/tags/ag%C3%BCe/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://cminoldo.github.io/tags/ag%C3%BCe/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Celebran Patronales en Vicente Agüero</title>
-				<link>http://localhost:1313/posts/celebran-patronales-en-vicente-aguero-19980826/</link>
+				<link>https://cminoldo.github.io/posts/celebran-patronales-en-vicente-aguero-19980826/</link>
 				<pubDate>Wed, 26 Aug 1998 00:00:00 -0300</pubDate>
-				<guid>http://localhost:1313/posts/celebran-patronales-en-vicente-aguero-19980826/</guid>
+				<guid>https://cminoldo.github.io/posts/celebran-patronales-en-vicente-aguero-19980826/</guid>
 				<description>&lt;p&gt;Del 4 al 13 de Setiembre se celebrarán las Fiestas Patronales de Colonia&lt;/p&gt;&#xA;&lt;p&gt;Del 4 al 13 de Setiembre se celebrarán las Fiestas Patronales de Colonia&#xA;Vicente Agüero en honor a la Virgen de Lourdes, con una serie de&#xA;actividades religiosas que culminarán el domingo 13 con un asado&#xA;comunitario y una gran fiesta familiar.&lt;/p&gt;&#xA;&lt;p&gt;La idea principal es encuadrar la fiesta dentro del marco del jubileo&#xA;del año 2.000, por ello se exhortó a la comunidad a participar de la&#xA;celebración eucarística, de las confirmaciones y procesiones que se&#xA;organizaron en honor a su patrona, a quien se ruega para que proteja las&#xA;cosechas de la zona.&lt;/p&gt;</description>
 			</item>
 	</channel>

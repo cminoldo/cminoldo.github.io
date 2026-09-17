@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Segu on Archivo periodistico - Claudio Minoldo</title>
-		<link>http://localhost:1313/tags/segu/</link>
+		<link>https://cminoldo.github.io/tags/segu/</link>
 		<description>Recent content in Segu on Archivo periodistico - Claudio Minoldo</description>
 		<generator>Hugo</generator>
 		<language>es-AR</language>
@@ -12,19 +12,19 @@
 		
 			<lastBuildDate>Wed, 19 Apr 2000 00:00:00 -0300</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/tags/segu/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://cminoldo.github.io/tags/segu/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Colonia Caroya, Sinsacate y Jesús María tras la implementación del plan de seguridad ciudadana</title>
-				<link>http://localhost:1313/posts/colonia-caroya-sinsacate-y-jesus-maria-tras-la-implementacion-del-plan-de-seguri-20000419/</link>
+				<link>https://cminoldo.github.io/posts/colonia-caroya-sinsacate-y-jesus-maria-tras-la-implementacion-del-plan-de-seguri-20000419/</link>
 				<pubDate>Wed, 19 Apr 2000 00:00:00 -0300</pubDate>
-				<guid>http://localhost:1313/posts/colonia-caroya-sinsacate-y-jesus-maria-tras-la-implementacion-del-plan-de-seguri-20000419/</guid>
+				<guid>https://cminoldo.github.io/posts/colonia-caroya-sinsacate-y-jesus-maria-tras-la-implementacion-del-plan-de-seguri-20000419/</guid>
 				<description>&lt;p&gt;Los municipios de Colonia Caroya, Sinsacate y Jesús María siguen delineando estrategias para incrementar la seguridad en la zona con un sistema similar al que utilizó la vecina ciudad de Villa Allende, mientras esperan que el ministro de Gobierno de la provincia, Oscar Gonzalez, cumpla con la promesa de dotar a la zona de tres vehículos y diez efectivos policiales más.&lt;/p&gt;&#xA;&lt;p&gt;Los municipios de Colonia Caroya, Sinsacate y Jesús María siguen delineando estrategias para incrementar la seguridad en la zona con un sistema similar al que utilizó la vecina ciudad de Villa Allende, mientras esperan que el ministro de Gobierno de la provincia, Oscar Gonzalez, cumpla con la promesa de dotar a la zona de tres vehículos y diez efectivos policiales más.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Proponen plan de seguridad ciudadana para Jesús María, Colonia Caroya y Sinsacate</title>
-				<link>http://localhost:1313/posts/proponen-plan-de-seguridad-ciudadana-para-jesus-maria-colonia-caroya-y-sinsacate-20000331/</link>
+				<link>https://cminoldo.github.io/posts/proponen-plan-de-seguridad-ciudadana-para-jesus-maria-colonia-caroya-y-sinsacate-20000331/</link>
 				<pubDate>Fri, 31 Mar 2000 00:00:00 -0300</pubDate>
-				<guid>http://localhost:1313/posts/proponen-plan-de-seguridad-ciudadana-para-jesus-maria-colonia-caroya-y-sinsacate-20000331/</guid>
+				<guid>https://cminoldo.github.io/posts/proponen-plan-de-seguridad-ciudadana-para-jesus-maria-colonia-caroya-y-sinsacate-20000331/</guid>
 				<description>&lt;p&gt;Ante los intendentes de Colonia Caroya, Jesús María y Sinsacate se presentó un proyecto de instrumentación para seguridad ciudadana cuyo objetivo es colaborar con la tarea que desarrolla el personal de la Unidad Regional 4, con la conformación de una suerte de Policía Municipal, de acuerdo a lo que surge de la lectura del mismo.&lt;/p&gt;&#xA;&lt;p&gt;Ante los intendentes de Colonia Caroya, Jesús María y Sinsacate se presentó un proyecto de instrumentación para seguridad ciudadana cuyo objetivo es colaborar con la tarea que desarrolla el personal de la Unidad Regional 4, con la conformación de una suerte de Policía Municipal, de acuerdo a lo que surge de la lectura del mismo.&lt;/p&gt;</description>
 			</item>
 	</channel>

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Hogar on Archivo periodistico - Claudio Minoldo</title>
-		<link>http://localhost:1313/tags/hogar/</link>
+		<link>https://cminoldo.github.io/tags/hogar/</link>
 		<description>Recent content in Hogar on Archivo periodistico - Claudio Minoldo</description>
 		<generator>Hugo</generator>
 		<language>es-AR</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Tue, 05 Nov 2002 00:00:00 -0300</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/tags/hogar/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://cminoldo.github.io/tags/hogar/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Preocupación por el futuro del complejo vacacional de Colonia Hogar</title>
-				<link>http://localhost:1313/posts/preocupacion-por-el-futuro-del-complejo-vacacional-de-colonia-hogar-20021105/</link>
+				<link>https://cminoldo.github.io/posts/preocupacion-por-el-futuro-del-complejo-vacacional-de-colonia-hogar-20021105/</link>
 				<pubDate>Tue, 05 Nov 2002 00:00:00 -0300</pubDate>
-				<guid>http://localhost:1313/posts/preocupacion-por-el-futuro-del-complejo-vacacional-de-colonia-hogar-20021105/</guid>
+				<guid>https://cminoldo.github.io/posts/preocupacion-por-el-futuro-del-complejo-vacacional-de-colonia-hogar-20021105/</guid>
 				<description>&lt;p&gt;Jesús María. Ante las versiones que hablan de la inminente venta o desmantelamiento del complejo recreativo vacacional Colonia Hogar -ubicado a 6 kilómetros de la Estancia de Santa Catalina- los pobladores de la zona, los empleados del establecimiento, el legislador departamental Víctor Molina, y algunos sindicatos plantearon su preocupación por el destino del inmueble que se utiliza para turismo social.&lt;/p&gt;&#xA;&lt;p&gt;Jesús María. Ante las versiones que hablan de la inminente venta o desmantelamiento del complejo recreativo vacacional Colonia Hogar -ubicado a 6 kilómetros de la Estancia de Santa Catalina- los pobladores de la zona, los empleados del establecimiento, el legislador departamental Víctor Molina, y algunos sindicatos plantearon su preocupación por el destino del inmueble que se utiliza para turismo social.&lt;/p&gt;</description>
 			</item>
 	</channel>

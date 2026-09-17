@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Mendo on Archivo periodistico - Claudio Minoldo</title>
-		<link>http://localhost:1313/tags/mendo/</link>
+		<link>https://cminoldo.github.io/tags/mendo/</link>
 		<description>Recent content in Mendo on Archivo periodistico - Claudio Minoldo</description>
 		<generator>Hugo</generator>
 		<language>es-AR</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Wed, 02 Apr 2003 00:00:00 -0300</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/tags/mendo/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://cminoldo.github.io/tags/mendo/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>El Instituto Nacional de Vitivinicultura quiere incorporar a los productores de vino artesanal</title>
-				<link>http://localhost:1313/posts/el-instituto-nacional-de-vitivinicultura-quiere-incorporar-a-los-productores-de--20030402/</link>
+				<link>https://cminoldo.github.io/posts/el-instituto-nacional-de-vitivinicultura-quiere-incorporar-a-los-productores-de--20030402/</link>
 				<pubDate>Wed, 02 Apr 2003 00:00:00 -0300</pubDate>
-				<guid>http://localhost:1313/posts/el-instituto-nacional-de-vitivinicultura-quiere-incorporar-a-los-productores-de--20030402/</guid>
+				<guid>https://cminoldo.github.io/posts/el-instituto-nacional-de-vitivinicultura-quiere-incorporar-a-los-productores-de--20030402/</guid>
 				<description>&lt;p&gt;Mendoza. En el corazón del departamento de Maipú, Mendoza, tuvo lugar el primer Encuentro Nacional de Elaboradores de Vino Casero que promovió el Instituto Nacional de Vitivinicultura (INV) a fines de marzo. 66 productores de todo el país participaron de la jornada de trabajo dentro de las instalaciones de la antigua Bodega Giol, fallida empresa que, en algún momento, llegó a envasar 250 millones de litros de vino por año.&lt;/p&gt;</description>
 			</item>
 	</channel>

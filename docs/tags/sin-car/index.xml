@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Sin-Car on Archivo periodistico - Claudio Minoldo</title>
-		<link>http://localhost:1313/tags/sin-car/</link>
+		<link>https://cminoldo.github.io/tags/sin-car/</link>
 		<description>Recent content in Sin-Car on Archivo periodistico - Claudio Minoldo</description>
 		<generator>Hugo</generator>
 		<language>es-AR</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Sat, 01 Jun 2002 00:00:00 -0300</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/tags/sin-car/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://cminoldo.github.io/tags/sin-car/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Polémica entre Colonia Caroya y Sinsacate por cobro de multas</title>
-				<link>http://localhost:1313/posts/polemica-entre-colonia-caroya-y-sinsacate-por-cobro-de-multas-20020601/</link>
+				<link>https://cminoldo.github.io/posts/polemica-entre-colonia-caroya-y-sinsacate-por-cobro-de-multas-20020601/</link>
 				<pubDate>Sat, 01 Jun 2002 00:00:00 -0300</pubDate>
-				<guid>http://localhost:1313/posts/polemica-entre-colonia-caroya-y-sinsacate-por-cobro-de-multas-20020601/</guid>
+				<guid>https://cminoldo.github.io/posts/polemica-entre-colonia-caroya-y-sinsacate-por-cobro-de-multas-20020601/</guid>
 				<description>&lt;p&gt;Colonia Caroya. El legislador por el departamento Totoral, Víctor Molina, ingresó un pedido de informes a la Legislatura Provincial para recabar datos sobre los convenios suscriptos entre el Gobierno provincial y Gendarmería Nacional que permiten el cobro de multas por infracciones en la localidad de Sinsacate, departamento Totoral, a la municipalidad de Colonia Caroya, que pertenece al departamento Colon.&lt;/p&gt;&#xA;&lt;p&gt;Colonia Caroya. El legislador por el departamento Totoral, Víctor Molina, ingresó un pedido de informes a la Legislatura Provincial para recabar datos sobre los convenios suscriptos entre el Gobierno provincial y Gendarmería Nacional que permiten el cobro de multas por infracciones en la localidad de Sinsacate, departamento Totoral, a la municipalidad de Colonia Caroya, que pertenece al departamento Colon.&lt;/p&gt;</description>
 			</item>
 	</channel>

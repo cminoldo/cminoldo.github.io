@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Kabr on Archivo periodistico - Claudio Minoldo</title>
-		<link>http://localhost:1313/tags/kabr/</link>
+		<link>https://cminoldo.github.io/tags/kabr/</link>
 		<description>Recent content in Kabr on Archivo periodistico - Claudio Minoldo</description>
 		<generator>Hugo</generator>
 		<language>es-AR</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Wed, 16 Apr 1997 00:00:00 -0300</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/tags/kabr/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://cminoldo.github.io/tags/kabr/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Campaña contra la pediculosis en Jesús María y Colonia Caroya</title>
-				<link>http://localhost:1313/posts/campana-contra-la-pediculosis-en-jesus-maria-y-colonia-caroya-19970416/</link>
+				<link>https://cminoldo.github.io/posts/campana-contra-la-pediculosis-en-jesus-maria-y-colonia-caroya-19970416/</link>
 				<pubDate>Wed, 16 Apr 1997 00:00:00 -0300</pubDate>
-				<guid>http://localhost:1313/posts/campana-contra-la-pediculosis-en-jesus-maria-y-colonia-caroya-19970416/</guid>
+				<guid>https://cminoldo.github.io/posts/campana-contra-la-pediculosis-en-jesus-maria-y-colonia-caroya-19970416/</guid>
 				<description>&lt;p&gt;La dirección de Calidad de Vida de Jesús María y la Secretaría de&lt;/p&gt;&#xA;&lt;p&gt;La dirección de Calidad de Vida de Jesús María y la Secretaría de&#xA;Gobierno caroyense por medio del departamento de Bromatología y medio&#xA;ambiente conjuntamente lanzaron la jornada zonal de prevención y control&#xA;de la pediculosis `97.&lt;/p&gt;&#xA;&lt;p&gt;Para ello se programaron charlas informativas para docentes y padres a&#xA;cargo de los doctores, Santiago Esteso y Fernando Manera, quienes&#xA;disertarán sobre el tema los días 23 y 24 de abril, a lo que se suma la&#xA;jornada de la cabeza limpia prevista para el 28 de abril.&lt;/p&gt;</description>
 			</item>
 	</channel>

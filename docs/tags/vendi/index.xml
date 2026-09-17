@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Vendi on Archivo periodistico - Claudio Minoldo</title>
-		<link>http://localhost:1313/tags/vendi/</link>
+		<link>https://cminoldo.github.io/tags/vendi/</link>
 		<description>Recent content in Vendi on Archivo periodistico - Claudio Minoldo</description>
 		<generator>Hugo</generator>
 		<language>es-AR</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Wed, 08 Mar 2000 00:00:00 -0300</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/tags/vendi/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://cminoldo.github.io/tags/vendi/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Facundo Toro animará la edición 31 de la Fiesta de la Vendimia en Colonia Caroya</title>
-				<link>http://localhost:1313/posts/facundo-toro-animara-la-edicion-31-de-la-fiesta-de-la-vendimia-en-colonia-caroya-20000308/</link>
+				<link>https://cminoldo.github.io/posts/facundo-toro-animara-la-edicion-31-de-la-fiesta-de-la-vendimia-en-colonia-caroya-20000308/</link>
 				<pubDate>Wed, 08 Mar 2000 00:00:00 -0300</pubDate>
-				<guid>http://localhost:1313/posts/facundo-toro-animara-la-edicion-31-de-la-fiesta-de-la-vendimia-en-colonia-caroya-20000308/</guid>
+				<guid>https://cminoldo.github.io/posts/facundo-toro-animara-la-edicion-31-de-la-fiesta-de-la-vendimia-en-colonia-caroya-20000308/</guid>
 				<description>&lt;p&gt;La comisión organizadora de la Fiesta provincial de la Vendimia y de la Fiesta Nacional de la Fritihorticultura confirmó la participación del músico, Facundo Toro, como figura central dentro de los actos preparados en Colonia Caroya para la edición 31.&lt;/p&gt;&#xA;&lt;p&gt;La comisión organizadora de la Fiesta provincial de la Vendimia y de la Fiesta Nacional de la Fritihorticultura confirmó la participación del músico, Facundo Toro, como figura central dentro de los actos preparados en Colonia Caroya para la edición 31.&lt;/p&gt;</description>
 			</item>
 	</channel>

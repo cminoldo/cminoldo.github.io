@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Totoral on Archivo periodistico - Claudio Minoldo</title>
-		<link>http://localhost:1313/tags/totoral/</link>
+		<link>https://cminoldo.github.io/tags/totoral/</link>
 		<description>Recent content in Totoral on Archivo periodistico - Claudio Minoldo</description>
 		<generator>Hugo</generator>
 		<language>es-AR</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Tue, 07 Jun 2005 00:00:00 -0300</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/tags/totoral/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://cminoldo.github.io/tags/totoral/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Cuarto atentado contra la Cooperativa de Totoral</title>
-				<link>http://localhost:1313/posts/cuarto-atentado-contra-la-cooperativa-de-totoral-20050607/</link>
+				<link>https://cminoldo.github.io/posts/cuarto-atentado-contra-la-cooperativa-de-totoral-20050607/</link>
 				<pubDate>Tue, 07 Jun 2005 00:00:00 -0300</pubDate>
-				<guid>http://localhost:1313/posts/cuarto-atentado-contra-la-cooperativa-de-totoral-20050607/</guid>
+				<guid>https://cminoldo.github.io/posts/cuarto-atentado-contra-la-cooperativa-de-totoral-20050607/</guid>
 				<description>&lt;p&gt;Villa del Totoral. En la madrugada de ayer, un grupo de desconocidos volvió a atentar contra los servicios que presta la Cooperativa Telefónica de esa localidad, cortando un cable con 200 pares que le presta el servicio de teléfono a más de 200 usuarios.&lt;/p&gt;&#xA;&lt;p&gt;Villa del Totoral. En la madrugada de ayer, un grupo de desconocidos volvió a atentar contra los servicios que presta la Cooperativa Telefónica de esa localidad, cortando un cable con 200 pares que le presta el servicio de teléfono a más de 200 usuarios.&lt;/p&gt;</description>
 			</item>
 	</channel>

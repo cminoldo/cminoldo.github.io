@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Stacata on Archivo periodistico - Claudio Minoldo</title>
-		<link>http://localhost:1313/tags/stacata/</link>
+		<link>https://cminoldo.github.io/tags/stacata/</link>
 		<description>Recent content in Stacata on Archivo periodistico - Claudio Minoldo</description>
 		<generator>Hugo</generator>
 		<language>es-AR</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Sat, 24 Feb 2001 00:00:00 -0300</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/tags/stacata/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://cminoldo.github.io/tags/stacata/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>En Santa Catalina, mucho y variado</title>
-				<link>http://localhost:1313/posts/en-santa-catalina-mucho-y-variado-20010224/</link>
+				<link>https://cminoldo.github.io/posts/en-santa-catalina-mucho-y-variado-20010224/</link>
 				<pubDate>Sat, 24 Feb 2001 00:00:00 -0300</pubDate>
-				<guid>http://localhost:1313/posts/en-santa-catalina-mucho-y-variado-20010224/</guid>
+				<guid>https://cminoldo.github.io/posts/en-santa-catalina-mucho-y-variado-20010224/</guid>
 				<description>&lt;p&gt;A los propietarios de la Estancia de Santa Catalina, la afluencia de turistas durante enero y la primera quincena de febrero les despertó sentimientos encontrados. La mayor parte de la familia se mostró satisfecha porque el número de visitantes se triplicó en relación al año pasado pero, al mismo tiempo, esa afluencia masiva les acarreó algunos inconvenientes.&lt;/p&gt;&#xA;&lt;p&gt;A los propietarios de la Estancia de Santa Catalina, la afluencia de turistas durante enero y la primera quincena de febrero les despertó sentimientos encontrados. La mayor parte de la familia se mostró satisfecha porque el número de visitantes se triplicó en relación al año pasado pero, al mismo tiempo, esa afluencia masiva les acarreó algunos inconvenientes.&lt;/p&gt;</description>
 			</item>
 	</channel>

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Scat on Archivo periodistico - Claudio Minoldo</title>
-		<link>http://localhost:1313/tags/scat/</link>
+		<link>https://cminoldo.github.io/tags/scat/</link>
 		<description>Recent content in Scat on Archivo periodistico - Claudio Minoldo</description>
 		<generator>Hugo</generator>
 		<language>es-AR</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Thu, 03 Nov 2022 00:00:00 -0300</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/tags/scat/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://cminoldo.github.io/tags/scat/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Un consorcio cordobés muy antiguo y numeroso custodia una Estancia</title>
-				<link>http://localhost:1313/posts/un-consorcio-cordobes-muy-antiguo-y-numeroso-custodia-una-estancia-20221103/</link>
+				<link>https://cminoldo.github.io/posts/un-consorcio-cordobes-muy-antiguo-y-numeroso-custodia-una-estancia-20221103/</link>
 				<pubDate>Thu, 03 Nov 2022 00:00:00 -0300</pubDate>
-				<guid>http://localhost:1313/posts/un-consorcio-cordobes-muy-antiguo-y-numeroso-custodia-una-estancia-20221103/</guid>
+				<guid>https://cminoldo.github.io/posts/un-consorcio-cordobes-muy-antiguo-y-numeroso-custodia-una-estancia-20221103/</guid>
 				<description>&lt;p&gt;Jesuítica que cumple 400 años&lt;/p&gt;&#xA;&lt;p&gt;Los sucesores de Francisco Antonio Díaz están celebrando por estos días&#xA;los 400 años de historia de la Estancia Santa Catalina, Patrimonio de la&#xA;Humanidad, y la única que permanece en manos privadas.&lt;/p&gt;&#xA;&lt;p&gt;Claudio Minoldo.&#xA;Corresponsalía. Probablemente se trate del consorcio cordobés más&#xA;antiguo y, probablemente, del más numeroso. Está vigente desde hace casi&#xA;250 años y administra -a través de un curioso modelo familiar- una de&#xA;las Estancias Jesuíticas más majestuosas que tiene Córdoba y que no ha&#xA;perdido su característica original: sigue enclavada en zona rural, lejos&#xA;del ruido de las grandes urbes.&lt;/p&gt;</description>
 			</item>
 	</channel>

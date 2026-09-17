@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Juc on Archivo periodistico - Claudio Minoldo</title>
-		<link>http://localhost:1313/tags/juc/</link>
+		<link>https://cminoldo.github.io/tags/juc/</link>
 		<description>Recent content in Juc on Archivo periodistico - Claudio Minoldo</description>
 		<generator>Hugo</generator>
 		<language>es-AR</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Fri, 21 Nov 2014 00:00:00 -0300</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/tags/juc/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://cminoldo.github.io/tags/juc/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Experiencias locales y baratas. Los intendentes de Colonia Almada,</title>
-				<link>http://localhost:1313/posts/experiencias-locales-y-baratas-los-intendentes-de-colonia-almada-20141121/</link>
+				<link>https://cminoldo.github.io/posts/experiencias-locales-y-baratas-los-intendentes-de-colonia-almada-20141121/</link>
 				<pubDate>Fri, 21 Nov 2014 00:00:00 -0300</pubDate>
-				<guid>http://localhost:1313/posts/experiencias-locales-y-baratas-los-intendentes-de-colonia-almada-20141121/</guid>
+				<guid>https://cminoldo.github.io/posts/experiencias-locales-y-baratas-los-intendentes-de-colonia-almada-20141121/</guid>
 				<description>&lt;p&gt;Corralito, Tancacha, y Montecristo fueron los encargados de narrar cómo&lt;/p&gt;&#xA;&lt;p&gt;lograron frenar los enfrentamientos entre productores agropecuarios y&#xA;vecinos, a través de sencillos métodos de control. En todos los casos,&#xA;cuentan con una estación metereológica móvil a la que el vecino puede&#xA;acceder desde una computadora y saber si las condiciones de viento,&#xA;temperatura, y humedad son las adecuadas para realizar una&#xA;pulverización. Si no son las óptimas, pueden denunciar el hecho al&#xA;municipio que cuenta con uno o varios asesores fitosanitarios que se&#xA;encargan de evitar que la pulverización se realice o de castigarla si se&#xA;hizo en condiciones inadecuadas. En esos municipios, también fue clave&#xA;la llegada con charlas de capacitación y de información a las escuelas&#xA;secundarias y la constitución de mesas de trabajos que incluyan a los&#xA;vecinos que no se dedican a las actividades agropecuarias.&lt;/p&gt;</description>
 			</item>
 	</channel>

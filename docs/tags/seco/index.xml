@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Seco on Archivo periodistico - Claudio Minoldo</title>
-		<link>http://localhost:1313/tags/seco/</link>
+		<link>https://cminoldo.github.io/tags/seco/</link>
 		<description>Recent content in Seco on Archivo periodistico - Claudio Minoldo</description>
 		<generator>Hugo</generator>
 		<language>es-AR</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Tue, 28 Mar 2023 00:00:00 -0300</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/tags/seco/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://cminoldo.github.io/tags/seco/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Marcharon en Villa de María de Río Seco por la inseguridad</title>
-				<link>http://localhost:1313/posts/marcharon-en-villa-de-maria-de-rio-seco-por-la-inseguridad-20230328/</link>
+				<link>https://cminoldo.github.io/posts/marcharon-en-villa-de-maria-de-rio-seco-por-la-inseguridad-20230328/</link>
 				<pubDate>Tue, 28 Mar 2023 00:00:00 -0300</pubDate>
-				<guid>http://localhost:1313/posts/marcharon-en-villa-de-maria-de-rio-seco-por-la-inseguridad-20230328/</guid>
+				<guid>https://cminoldo.github.io/posts/marcharon-en-villa-de-maria-de-rio-seco-por-la-inseguridad-20230328/</guid>
 				<description>&lt;p&gt;Un centenar de vecinos se desplazó pacíficamente por las calles de la&lt;/p&gt;&#xA;&lt;p&gt;Un centenar de vecinos se desplazó pacíficamente por las calles de la&#xA;localidad en protesta por los últimos hechos delictivos&lt;/p&gt;&#xA;&lt;p&gt;Corresponsalía. Durante la tarde de este lunes, un centenar de vecinos&#xA;de Villa de María de Río Seco se movilizó por las calles de la ciudad en&#xA;reclamo por la creciente inseguridad que aseguran padecer.&lt;/p&gt;&#xA;&lt;p&gt;La tranquila manifestación incluyó un corte de media calzada sobre la&#xA;ruta nacional 9 durante una media hora y los manifestantes se&#xA;mantuvieron al costado de la ruta otro rato, para después ir hacia la&#xA;plaza central.&lt;/p&gt;</description>
 			</item>
 	</channel>

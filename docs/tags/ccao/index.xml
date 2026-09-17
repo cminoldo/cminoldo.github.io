@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Ccao on Archivo periodistico - Claudio Minoldo</title>
-		<link>http://localhost:1313/tags/ccao/</link>
+		<link>https://cminoldo.github.io/tags/ccao/</link>
 		<description>Recent content in Ccao on Archivo periodistico - Claudio Minoldo</description>
 		<generator>Hugo</generator>
 		<language>es-AR</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Tue, 13 Mar 2001 00:00:00 -0300</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/tags/ccao/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://cminoldo.github.io/tags/ccao/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Presentaron libro sobre Colonia Caroya</title>
-				<link>http://localhost:1313/posts/presentaron-libro-sobre-colonia-caroya-20010313/</link>
+				<link>https://cminoldo.github.io/posts/presentaron-libro-sobre-colonia-caroya-20010313/</link>
 				<pubDate>Tue, 13 Mar 2001 00:00:00 -0300</pubDate>
-				<guid>http://localhost:1313/posts/presentaron-libro-sobre-colonia-caroya-20010313/</guid>
+				<guid>https://cminoldo.github.io/posts/presentaron-libro-sobre-colonia-caroya-20010313/</guid>
 				<description>&lt;p&gt;En la Estancia de Caroya, la docente Martha Canale Vicentini presentó el libro Hacer la América, un homenaje a los gringos del Friuli que se alojaron en la antigua fábrica de armas blancas y, a fuerza de pico y pala, forjaron uno de los pueblos más pujantes del departamento Colón.&lt;/p&gt;&#xA;&lt;p&gt;En la Estancia de Caroya, la docente Martha Canale Vicentini presentó el libro Hacer la América, un homenaje a los gringos del Friuli que se alojaron en la antigua fábrica de armas blancas y, a fuerza de pico y pala, forjaron uno de los pueblos más pujantes del departamento Colón.&lt;/p&gt;</description>
 			</item>
 	</channel>

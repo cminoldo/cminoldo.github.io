@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>D on Archivo periodistico - Claudio Minoldo</title>
-		<link>http://localhost:1313/tags/d/</link>
+		<link>https://cminoldo.github.io/tags/d/</link>
 		<description>Recent content in D on Archivo periodistico - Claudio Minoldo</description>
 		<generator>Hugo</generator>
 		<language>es-AR</language>
@@ -12,19 +12,19 @@
 		
 			<lastBuildDate>Thu, 23 Oct 1997 00:00:00 -0300</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/tags/d/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://cminoldo.github.io/tags/d/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Entregaron premios del certamen de poesías en Colonia Caroya</title>
-				<link>http://localhost:1313/posts/entregaron-premios-del-certamen-de-poesias-en-colonia-caroya-19971023/</link>
+				<link>https://cminoldo.github.io/posts/entregaron-premios-del-certamen-de-poesias-en-colonia-caroya-19971023/</link>
 				<pubDate>Thu, 23 Oct 1997 00:00:00 -0300</pubDate>
-				<guid>http://localhost:1313/posts/entregaron-premios-del-certamen-de-poesias-en-colonia-caroya-19971023/</guid>
+				<guid>https://cminoldo.github.io/posts/entregaron-premios-del-certamen-de-poesias-en-colonia-caroya-19971023/</guid>
 				<description>&lt;p&gt;El jurado compuesto por María Teresa Andruetto, Livia Hidalgo y Susana&lt;/p&gt;&#xA;&lt;p&gt;El jurado compuesto por María Teresa Andruetto, Livia Hidalgo y Susana&#xA;Cabuchi, dictaminó los ganadores correspondientes al certamen de poesías&#xA;que organizó la Secretaría de Promoción y Desarrollo Humano de Colonia&#xA;Caroya.&lt;/p&gt;&#xA;&lt;p&gt;En la categoría juvenil, los dos primeros premios correspondieron a la&#xA;joven escritora de Salsipuedes, Natacha Salomé Stocco, quien fue&#xA;galardonada por “Calidez nocturna” y “Quintaesencia de la noche”, en&#xA;tanto que la mención fue para Magalí Anzolini de Colonia Caroya por su&#xA;poesía “Ajeno”.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Entregaron utilidades del Festival de Doma de Jesús María</title>
-				<link>http://localhost:1313/posts/entregaron-utilidades-del-festival-de-doma-de-jesus-maria-19970814/</link>
+				<link>https://cminoldo.github.io/posts/entregaron-utilidades-del-festival-de-doma-de-jesus-maria-19970814/</link>
 				<pubDate>Thu, 14 Aug 1997 00:00:00 -0300</pubDate>
-				<guid>http://localhost:1313/posts/entregaron-utilidades-del-festival-de-doma-de-jesus-maria-19970814/</guid>
+				<guid>https://cminoldo.github.io/posts/entregaron-utilidades-del-festival-de-doma-de-jesus-maria-19970814/</guid>
 				<description>&lt;p&gt;En el Salón 16 de Mayo se realizó el acto de entrega de utilidades&lt;/p&gt;&#xA;&lt;p&gt;En el Salón 16 de Mayo se realizó el acto de entrega de utilidades&#xA;correspondientes a la 32 edición del festival de la Doma y el Folklore&#xA;de Jesús María. En la oportunidad se hizo entrega a las 20 Asociaciones&#xA;Cooperadoras escolares cheque por 300.000 pesos.&lt;/p&gt;&#xA;&lt;p&gt;Como sucede habitualmente la mitad de la cifra se dividió por 20, que&#xA;son las Cooperadoras y el resultante que dió en esta oportunidad 7.528&#xA;pesos se entregó por partes iguales a las cooperadoras.&lt;/p&gt;</description>
 			</item>
 	</channel>

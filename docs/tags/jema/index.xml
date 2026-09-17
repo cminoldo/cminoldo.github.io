@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Jema on Archivo periodistico - Claudio Minoldo</title>
-		<link>http://localhost:1313/tags/jema/</link>
+		<link>https://cminoldo.github.io/tags/jema/</link>
 		<description>Recent content in Jema on Archivo periodistico - Claudio Minoldo</description>
 		<generator>Hugo</generator>
 		<language>es-AR</language>
@@ -12,26 +12,26 @@
 		
 			<lastBuildDate>Tue, 01 Nov 2005 00:00:00 -0300</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/tags/jema/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://cminoldo.github.io/tags/jema/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Un árbol por cada nieto recuperado</title>
-				<link>http://localhost:1313/posts/un-arbol-por-cada-nieto-recuperado-20051101/</link>
+				<link>https://cminoldo.github.io/posts/un-arbol-por-cada-nieto-recuperado-20051101/</link>
 				<pubDate>Tue, 01 Nov 2005 00:00:00 -0300</pubDate>
-				<guid>http://localhost:1313/posts/un-arbol-por-cada-nieto-recuperado-20051101/</guid>
+				<guid>https://cminoldo.github.io/posts/un-arbol-por-cada-nieto-recuperado-20051101/</guid>
 				<description>&lt;p&gt;Jesús María. La Municipalidad de esa ciudad plantará 83 árboles como una forma de homenaje porque esa es la cifra de nietos que fueron restituidos por la fundación Abuelas de Plaza de Mayo hasta la fecha. La medida fue decidida por el intendente Marcelino Gatica mientras participaba de un evento en el club Social de esa ciudad. Allí, se plantó el primer árbol y los 82 restantes se colocarán el 10 de diciembre, Día de los Derechos Humanos, sobre la Avenida Costanera en homenaje a la labor de Abue&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Instalarán en Jesús María medidores de agua</title>
-				<link>http://localhost:1313/posts/instalaran-en-jesus-maria-medidores-de-agua-19990305/</link>
+				<link>https://cminoldo.github.io/posts/instalaran-en-jesus-maria-medidores-de-agua-19990305/</link>
 				<pubDate>Fri, 05 Mar 1999 00:00:00 -0300</pubDate>
-				<guid>http://localhost:1313/posts/instalaran-en-jesus-maria-medidores-de-agua-19990305/</guid>
+				<guid>https://cminoldo.github.io/posts/instalaran-en-jesus-maria-medidores-de-agua-19990305/</guid>
 				<description>&lt;p&gt;La Municipalidad de Jesús María anunció la desición de colocar, en forma&lt;/p&gt;&#xA;&lt;p&gt;La Municipalidad de Jesús María anunció la desición de colocar, en forma&#xA;progresiva, medidores de consumo de agua potable, situación que&#xA;solamente tuvo algú tipo de reservas de parte de los ediles de la&#xA;oposición.&lt;/p&gt;&#xA;&lt;p&gt;En el transcurso de la semana pasada se procedió a la apertura de sobres&#xA;entre las empresas que ofrecían dichos medidores y en el transcurso de&#xA;la semana entrante la comisión evaluadora hará las reservas que, sobre&#xA;el caso, correspondan.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Jesús María tiene nuevo Código de Tránsito</title>
-				<link>http://localhost:1313/posts/jesus-maria-tiene-nuevo-codigo-de-transito-19981120/</link>
+				<link>https://cminoldo.github.io/posts/jesus-maria-tiene-nuevo-codigo-de-transito-19981120/</link>
 				<pubDate>Fri, 20 Nov 1998 00:00:00 -0300</pubDate>
-				<guid>http://localhost:1313/posts/jesus-maria-tiene-nuevo-codigo-de-transito-19981120/</guid>
+				<guid>https://cminoldo.github.io/posts/jesus-maria-tiene-nuevo-codigo-de-transito-19981120/</guid>
 				<description>&lt;p&gt;El Concejo Deliberante de Jesús María sancionó la ordenanza que pone en&lt;/p&gt;&#xA;&lt;p&gt;El Concejo Deliberante de Jesús María sancionó la ordenanza que pone en&#xA;funcionamiento el nuevo código de Tránsito por el cual se regirá la&#xA;ciudad y que está compuesto por cuatro componentes interrelacionados:&#xA;hombres, vehículos, infraestructura vial y medio ambiente.&lt;/p&gt;&#xA;&lt;p&gt;Uno de los objetivos que persigue este cuerpo normativo es el de regular&#xA;el tránsito terrestre y lograr la seguridad en el mismo como también&#xA;otorgarle fluidez al tránsito, aprovechar las vías de circulación y&#xA;tender al respeto de las normas de circulación.&lt;/p&gt;</description>
 			</item>
 	</channel>

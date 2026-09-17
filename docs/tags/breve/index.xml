@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Breve on Archivo periodistico - Claudio Minoldo</title>
-		<link>http://localhost:1313/tags/breve/</link>
+		<link>https://cminoldo.github.io/tags/breve/</link>
 		<description>Recent content in Breve on Archivo periodistico - Claudio Minoldo</description>
 		<generator>Hugo</generator>
 		<language>es-AR</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Fri, 03 Nov 2000 00:00:00 -0300</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/tags/breve/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://cminoldo.github.io/tags/breve/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Marketing en Jesús María</title>
-				<link>http://localhost:1313/posts/marketing-en-jesus-maria-20001103/</link>
+				<link>https://cminoldo.github.io/posts/marketing-en-jesus-maria-20001103/</link>
 				<pubDate>Fri, 03 Nov 2000 00:00:00 -0300</pubDate>
-				<guid>http://localhost:1313/posts/marketing-en-jesus-maria-20001103/</guid>
+				<guid>https://cminoldo.github.io/posts/marketing-en-jesus-maria-20001103/</guid>
 				<description>&lt;p&gt;Durante los días 6, 7, 8 y 9 de noviembre, a partir de las 21:30, tendrá lugar un curso de Marketing destinado a comerciantes, microemprendedores, estudiantes secundarios, universitarios, personas en proceso de reinserción laboral y público en general. Las jornadas tendrán lugar en la Asociación Atlética Falucho sin costo alguno para los participantes. El dictado del curso estará a cargo de especialistas en Marketing y comercialización y constará de dos módulos de cuatro horas cada uno. Las acti&lt;/p&gt;</description>
 			</item>
 	</channel>

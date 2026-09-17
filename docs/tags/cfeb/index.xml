@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Cfeb on Archivo periodistico - Claudio Minoldo</title>
-		<link>http://localhost:1313/tags/cfeb/</link>
+		<link>https://cminoldo.github.io/tags/cfeb/</link>
 		<description>Recent content in Cfeb on Archivo periodistico - Claudio Minoldo</description>
 		<generator>Hugo</generator>
 		<language>es-AR</language>
@@ -12,19 +12,19 @@
 		
 			<lastBuildDate>Wed, 26 Feb 1997 00:00:00 -0300</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/tags/cfeb/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://cminoldo.github.io/tags/cfeb/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Vuelven a destruir monumento al inmigrante de Colonia Caroya</title>
-				<link>http://localhost:1313/posts/vuelven-a-destruir-monumento-al-inmigrante-de-colonia-caroya-19970226/</link>
+				<link>https://cminoldo.github.io/posts/vuelven-a-destruir-monumento-al-inmigrante-de-colonia-caroya-19970226/</link>
 				<pubDate>Wed, 26 Feb 1997 00:00:00 -0300</pubDate>
-				<guid>http://localhost:1313/posts/vuelven-a-destruir-monumento-al-inmigrante-de-colonia-caroya-19970226/</guid>
+				<guid>https://cminoldo.github.io/posts/vuelven-a-destruir-monumento-al-inmigrante-de-colonia-caroya-19970226/</guid>
 				<description>&lt;p&gt;Luego de su reciente restauración y ante el reiterado daño sufrido en su&lt;/p&gt;&#xA;&lt;p&gt;Luego de su reciente restauración y ante el reiterado daño sufrido en su&#xA;estructura, el municipio caroyense decidió convocar a representantes de&#xA;las fuerzas vivas de la ciudad para evaluar cúales serán las acciones a&#xA;tomar para evitar que se siga destruyendo el monumento.&lt;/p&gt;&#xA;&lt;p&gt;Según se informó, el monumento al inmigrante que recuerda la venida de&#xA;los colonos a esta zona, era utilizado como blanco de algunos&#xA;aficcionados a la caza, además de la erosión que resulta de las fuerzas&#xA;naturales.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Trío Latinoamericano en Jesús María</title>
-				<link>http://localhost:1313/posts/trio-latinoamericano-en-jesus-maria-19970219/</link>
+				<link>https://cminoldo.github.io/posts/trio-latinoamericano-en-jesus-maria-19970219/</link>
 				<pubDate>Wed, 19 Feb 1997 00:00:00 -0300</pubDate>
-				<guid>http://localhost:1313/posts/trio-latinoamericano-en-jesus-maria-19970219/</guid>
+				<guid>https://cminoldo.github.io/posts/trio-latinoamericano-en-jesus-maria-19970219/</guid>
 				<description>&lt;p&gt;En un evento denominado concierto en el centro de la Torre hará su debut&lt;/p&gt;&#xA;&lt;p&gt;En un evento denominado concierto en el centro de la Torre hará su debut&#xA;oficial el Trío Latinoamericano el viernes 21 de febrero a las 22 horas.&lt;/p&gt;&#xA;&lt;p&gt;Ricardo Guida en violoncello, Lidia Mazzieri en piano y el cubano Alexis&#xA;Borges Lugo en Violín intentarán aprovechar la acústica de la Galería de&#xA;Arte Torre Latino para ofrecer un repertorio de piezas clásicas de&#xA;autores como Glincka y Jhostakovich.&lt;/p&gt;</description>
 			</item>
 	</channel>

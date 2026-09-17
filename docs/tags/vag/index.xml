@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Vag on Archivo periodistico - Claudio Minoldo</title>
-		<link>http://localhost:1313/tags/vag/</link>
+		<link>https://cminoldo.github.io/tags/vag/</link>
 		<description>Recent content in Vag on Archivo periodistico - Claudio Minoldo</description>
 		<generator>Hugo</generator>
 		<language>es-AR</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Fri, 28 May 2010 00:00:00 -0300</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/tags/vag/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://cminoldo.github.io/tags/vag/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Vicente Agüero celebra su centenario</title>
-				<link>http://localhost:1313/posts/vicente-aguero-celebra-su-centenario-20100528/</link>
+				<link>https://cminoldo.github.io/posts/vicente-aguero-celebra-su-centenario-20100528/</link>
 				<pubDate>Fri, 28 May 2010 00:00:00 -0300</pubDate>
-				<guid>http://localhost:1313/posts/vicente-aguero-celebra-su-centenario-20100528/</guid>
+				<guid>https://cminoldo.github.io/posts/vicente-aguero-celebra-su-centenario-20100528/</guid>
 				<description>&lt;p&gt;Colonia Vicente Agüero. La comunidad de esta localidad celebrará este domingo sus primeros cien años como pueblo. Originariamente fueron habitantes de Colonia Caroya, pero se dividieron de sus congéneres en la discusión sobre el agua para riego.&lt;/p&gt;&#xA;&lt;p&gt;Colonia Vicente Agüero. La comunidad de esta localidad celebrará este domingo sus primeros cien años como pueblo. Originariamente fueron habitantes de Colonia Caroya, pero se dividieron de sus congéneres en la discusión sobre el agua para riego.&lt;/p&gt;</description>
 			</item>
 	</channel>

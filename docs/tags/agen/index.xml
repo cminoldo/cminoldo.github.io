@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Agen on Archivo periodistico - Claudio Minoldo</title>
-		<link>http://localhost:1313/tags/agen/</link>
+		<link>https://cminoldo.github.io/tags/agen/</link>
 		<description>Recent content in Agen on Archivo periodistico - Claudio Minoldo</description>
 		<generator>Hugo</generator>
 		<language>es-AR</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Wed, 04 Apr 2007 00:00:00 -0300</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/tags/agen/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://cminoldo.github.io/tags/agen/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Deán Funes</title>
-				<link>http://localhost:1313/posts/dean-funes-20070404/</link>
+				<link>https://cminoldo.github.io/posts/dean-funes-20070404/</link>
 				<pubDate>Wed, 04 Apr 2007 00:00:00 -0300</pubDate>
-				<guid>http://localhost:1313/posts/dean-funes-20070404/</guid>
+				<guid>https://cminoldo.github.io/posts/dean-funes-20070404/</guid>
 				<description>&lt;p&gt;Jueves 5.&lt;/p&gt;&#xA;&lt;p&gt;Jueves 5.&lt;/p&gt;&#xA;&lt;ol start=&#34;19&#34;&gt;&#xA;&lt;li&gt;Proyección de película “La Misión” APM 13. Centro Cultural Municipal. Entrada gratuita&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;21.30. Proyección de película “El Código Da Vinci” APM 13. Centro Cultural Municipal. Entrada gratuita.&lt;/p&gt;&#xA;&lt;p&gt;Viernes 6.&lt;/p&gt;&#xA;&lt;p&gt;9 a 22. Exposición de Tapices. calle Italia esq. 9 de Julio.&lt;/p&gt;&#xA;&lt;ol start=&#34;16&#34;&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Proyección de Película “El Gran Silencio” ATP. Centro Cultural Municipal. Entrada gratuita.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Proyección de Película “La Pasión de Cristo” APM 13. Centro Cultural Municipal. Entrada gratuita.&lt;/p&gt;</description>
 			</item>
 	</channel>

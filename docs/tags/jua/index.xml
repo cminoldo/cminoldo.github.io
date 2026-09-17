@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Jua on Archivo periodistico - Claudio Minoldo</title>
-		<link>http://localhost:1313/tags/jua/</link>
+		<link>https://cminoldo.github.io/tags/jua/</link>
 		<description>Recent content in Jua on Archivo periodistico - Claudio Minoldo</description>
 		<generator>Hugo</generator>
 		<language>es-AR</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Fri, 21 Nov 2014 00:00:00 -0300</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/tags/jua/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://cminoldo.github.io/tags/jua/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Agroquímicos vs salud: la producción agropecuaria aseguró que no es</title>
-				<link>http://localhost:1313/posts/agroquimicos-vs-salud-la-produccion-agropecuaria-aseguro-que-no-es-20141121/</link>
+				<link>https://cminoldo.github.io/posts/agroquimicos-vs-salud-la-produccion-agropecuaria-aseguro-que-no-es-20141121/</link>
 				<pubDate>Fri, 21 Nov 2014 00:00:00 -0300</pubDate>
-				<guid>http://localhost:1313/posts/agroquimicos-vs-salud-la-produccion-agropecuaria-aseguro-que-no-es-20141121/</guid>
+				<guid>https://cminoldo.github.io/posts/agroquimicos-vs-salud-la-produccion-agropecuaria-aseguro-que-no-es-20141121/</guid>
 				<description>&lt;p&gt;envenenadora ni asesina&lt;/p&gt;&#xA;&lt;p&gt;A través de paneles con especialistas y demostraciones a campo, la&#xA;producción agropecuaria se defendió de los ataques que viene sufriendo&#xA;como supuesta generadora de enfermedades.&lt;/p&gt;&#xA;&lt;p&gt;Corresponsalía.&#xA;Juárez Celman. El pasado jueves en el aeródromo de esta localidad, el&#xA;Ministerio de Agricultura y Ganadería de Córdoba lideró una jornada&#xA;destinada a autoridades municipales, concejales, y comunicadores en la&#xA;que se ofreció información técnica y científica respecto de buenas&#xA;prácticas agrícolas. La oportunidad sirvió, además, para defenderse de&#xA;los ataques que el sector agropecuario viene sufriendo por la asociación&#xA;que se hace entre uso de plaguicidas y aparición de enfermedades graves.&#xA;De hecho, la molestia de algunos profesionales y funcionarios fue&#xA;indisimulable y la crítica hacia la posición de algunos medios de&#xA;comunicación no se hizo esperar. Especialmente, en la difusión del&#xA;informe preliminar sobre el mapa con los casos de cáncer de la localidad&#xA;de Monte Maíz y en el que trabajaron docentes y estudiantes de la&#xA;Universidad Nacional de Córdoba. El trabajo y su posterior difusión&#xA;generaron los momentos más críticos. “No somos envenenadores, ni&#xA;asesinos”, se repitió literal o solapadamente durante todo el encuentro.&#xA;Claramente lo expresó el ingeniero agrónomo Daniel Igarzábal, uno de los&#xA;moderadores del panel de salud, toxicología, y oncología: “Cuando&#xA;alguien instala una primicia, después hay que probar lo contrario. Y&#xA;ellos (por los diversos grupos ambientalistas) pegaron primero y lo&#xA;hicieron con la salud y, específicamente, con el cáncer”.&#xA;Pero la jornada sirvió, más allá del enojo, para discutir sobre otras&#xA;problemáticas que atañen a la actividad productiva como, por ejemplo, la&#xA;deriva de agroquímicos en aplicaciones terrestre y aéreas, la existencia&#xA;o no de intoxicaciones crónicas por la exposición a productos químicos,&#xA;la necesidad de ajustar las ordenanzas al marco de la ley provincial de&#xA;agroquímicos 9164, entre otros.&lt;/p&gt;</description>
 			</item>
 	</channel>

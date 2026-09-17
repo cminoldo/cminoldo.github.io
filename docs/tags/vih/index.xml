@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Vih on Archivo periodistico - Claudio Minoldo</title>
-		<link>http://localhost:1313/tags/vih/</link>
+		<link>https://cminoldo.github.io/tags/vih/</link>
 		<description>Recent content in Vih on Archivo periodistico - Claudio Minoldo</description>
 		<generator>Hugo</generator>
 		<language>es-AR</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Thu, 30 Nov 2023 00:00:00 -0300</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/tags/vih/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://cminoldo.github.io/tags/vih/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>El bioquímico y docente Ignacio Aguirre, cordobés del año 2012 de La Voz</title>
-				<link>http://localhost:1313/posts/el-bioquimico-y-docente-ignacio-aguirre-cordobes-del-ano-2012-de-la-voz-20231130/</link>
+				<link>https://cminoldo.github.io/posts/el-bioquimico-y-docente-ignacio-aguirre-cordobes-del-ano-2012-de-la-voz-20231130/</link>
 				<pubDate>Thu, 30 Nov 2023 00:00:00 -0300</pubDate>
-				<guid>http://localhost:1313/posts/el-bioquimico-y-docente-ignacio-aguirre-cordobes-del-ano-2012-de-la-voz-20231130/</guid>
+				<guid>https://cminoldo.github.io/posts/el-bioquimico-y-docente-ignacio-aguirre-cordobes-del-ano-2012-de-la-voz-20231130/</guid>
 				<description>&lt;p&gt;del Interior, también coincide con la información de que hubo un aumento&lt;/p&gt;&#xA;&lt;p&gt;de las infecciones de transmisión sexual (ITS), tanto del VIH como de la&#xA;hepatitis B y de la sífilis, y tiene una visión que la explica: la&#xA;inacción.&lt;/p&gt;&#xA;&lt;p&gt;Estamos recogiendo los frutos de inacción que venimos teniendo. Hace&#xA;tres años, el único tema que le importó a mucha gente vinculada con la&#xA;salud fue la llegada del COVID y las otras infecciones pasaron a segundo&#xA;plano, incluidas las infecciones de transmisión sexual siguen siendo un&#xA;problema de absoluta actualidad”, reflexiona Aguirre&lt;/p&gt;</description>
 			</item>
 	</channel>

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Jabr on Archivo periodistico - Claudio Minoldo</title>
-		<link>http://localhost:1313/tags/jabr/</link>
+		<link>https://cminoldo.github.io/tags/jabr/</link>
 		<description>Recent content in Jabr on Archivo periodistico - Claudio Minoldo</description>
 		<generator>Hugo</generator>
 		<language>es-AR</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Wed, 16 Apr 1997 00:00:00 -0300</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/tags/jabr/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://cminoldo.github.io/tags/jabr/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Concierto de Otoño en Jesús María</title>
-				<link>http://localhost:1313/posts/concierto-de-otono-en-jesus-maria-19970416/</link>
+				<link>https://cminoldo.github.io/posts/concierto-de-otono-en-jesus-maria-19970416/</link>
 				<pubDate>Wed, 16 Apr 1997 00:00:00 -0300</pubDate>
-				<guid>http://localhost:1313/posts/concierto-de-otono-en-jesus-maria-19970416/</guid>
+				<guid>https://cminoldo.github.io/posts/concierto-de-otono-en-jesus-maria-19970416/</guid>
 				<description>&lt;p&gt;El próximo viernes 25 de abril a partir de las 22 horas en Latino&lt;/p&gt;&#xA;&lt;p&gt;El próximo viernes 25 de abril a partir de las 22 horas en Latino&#xA;galería de arte de Jesús María se llevará a cabo el llamado concierto de&#xA;otoño a cargo de Carlos Harlan Gigena, distinguido maestro de piano,&#xA;quién interpretará piezas de jazz internacional.&lt;/p&gt;&#xA;&lt;p&gt;Para la ocasión se previó un bono de 5 pesos y servicio de bar para los&#xA;que quieran disfrutar del buen jazz en el parque del Club social Jesús&#xA;María sito en la calle Colón 180.&lt;/p&gt;</description>
 			</item>
 	</channel>

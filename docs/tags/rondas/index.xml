@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Rondas on Archivo periodistico - Claudio Minoldo</title>
-		<link>http://localhost:1313/tags/rondas/</link>
+		<link>https://cminoldo.github.io/tags/rondas/</link>
 		<description>Recent content in Rondas on Archivo periodistico - Claudio Minoldo</description>
 		<generator>Hugo</generator>
 		<language>es-AR</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Sat, 10 Jan 2004 00:00:00 -0300</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/tags/rondas/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://cminoldo.github.io/tags/rondas/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Música gratis en el teatrino Tutú Campos</title>
-				<link>http://localhost:1313/posts/musica-gratis-en-el-teatrino-tutu-campos-20040110/</link>
+				<link>https://cminoldo.github.io/posts/musica-gratis-en-el-teatrino-tutu-campos-20040110/</link>
 				<pubDate>Sat, 10 Jan 2004 00:00:00 -0300</pubDate>
-				<guid>http://localhost:1313/posts/musica-gratis-en-el-teatrino-tutu-campos-20040110/</guid>
+				<guid>https://cminoldo.github.io/posts/musica-gratis-en-el-teatrino-tutu-campos-20040110/</guid>
 				<description>&lt;p&gt;Jesús María. Con el objetivo de promover las expresiones artísticas locales, la Dirección de Cultura de la Municipalidad de Jesús María viene presentando diferentes espectáculos gratuitos en el teatrino Tutú, Campos durante los días del Festival. El espectáculo comienza, todas las tardes, alrededor de las 18 y culmina a las 20. En la jornada inaugural actuaron la Academia Renacer de mi Patria, Yésica “Sonidos de mi tierra”, y el Trío Jesús María; ayer, hicieron lo propio la Academia El Pampero y&lt;/p&gt;</description>
 			</item>
 	</channel>

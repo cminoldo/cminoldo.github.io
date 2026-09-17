@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Ninte on Archivo periodistico - Claudio Minoldo</title>
-		<link>http://localhost:1313/tags/ninte/</link>
+		<link>https://cminoldo.github.io/tags/ninte/</link>
 		<description>Recent content in Ninte on Archivo periodistico - Claudio Minoldo</description>
 		<generator>Hugo</generator>
 		<language>es-AR</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Wed, 03 Aug 2011 00:00:00 -0300</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/tags/ninte/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://cminoldo.github.io/tags/ninte/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Piden extender la línea de electricidad hasta una escuela rural</title>
-				<link>http://localhost:1313/posts/piden-extender-la-linea-de-electricidad-hasta-una-escuela-rural-20110803/</link>
+				<link>https://cminoldo.github.io/posts/piden-extender-la-linea-de-electricidad-hasta-una-escuela-rural-20110803/</link>
 				<pubDate>Wed, 03 Aug 2011 00:00:00 -0300</pubDate>
-				<guid>http://localhost:1313/posts/piden-extender-la-linea-de-electricidad-hasta-una-escuela-rural-20110803/</guid>
+				<guid>https://cminoldo.github.io/posts/piden-extender-la-linea-de-electricidad-hasta-una-escuela-rural-20110803/</guid>
 				<description>&lt;p&gt;Corresponsalía.&lt;/p&gt;&#xA;&lt;p&gt;Corresponsalía.&#xA;Departamento Río Primero. Los padres de los alumnos que concurren a la&#xA;escuela rural Manuel Belgrano del paraje Nintes y la directora de la&#xA;escuela, Vilma Taborda, solicitaron por nota a las autoridades&#xA;provinciales y nacionales ser incluidos en una obra de extensión de&#xA;electricidad que realizará EPEC a través de siete cooperativas en un&#xA;tramo de unos 50 kilómetros.&#xA;La petición se funda en que la empresa provincial quedará a dos&#xA;kilómetros y medio de la mencionada escuela y abastecerá a una escuela&#xA;rural cercana, del paraje Cañada de Jume, que actualmente está cerrada&#xA;porque no tiene alumnos.&#xA;La escuela Manuel Belgrano tiene cinco alumnos, está equipada con señal&#xA;de cable, computadoras, e internet pero funcionan con baterías que&#xA;acumulan energía de cinco paneles solares. Como esas baterías no tienen&#xA;mantenimiento cada vez duran menos y en la actualidad duran entre 3 y 4&#xA;horas. La refrigeración de alimentos y bebidas se realiza allí con&#xA;garrafas de gas.&#xA;El jueves pasado, un grupo de padres y vecinos de la región se reunieron&#xA;y giraron notas al ministro de Obras Públicas de Córdoba, Hugo Testa, e&#xA;hicieron llegar otra de igual tenor a la presidencia de la nación. “Nos&#xA;parece que estamos peleando por algo justo y con posibilidades de&#xA;concretarse si ponen un poco de buena voluntad”, señaló la directora de&#xA;la escuela.&lt;/p&gt;</description>
 			</item>
 	</channel>

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Juar on Archivo periodistico - Claudio Minoldo</title>
-		<link>http://localhost:1313/tags/juar/</link>
+		<link>https://cminoldo.github.io/tags/juar/</link>
 		<description>Recent content in Juar on Archivo periodistico - Claudio Minoldo</description>
 		<generator>Hugo</generator>
 		<language>es-AR</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Fri, 30 Nov 2001 00:00:00 -0300</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/tags/juar/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://cminoldo.github.io/tags/juar/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Detectan fallas de construcción en IPV de Juárez Celman</title>
-				<link>http://localhost:1313/posts/detectan-fallas-de-construccion-en-ipv-de-juarez-celman-20011130/</link>
+				<link>https://cminoldo.github.io/posts/detectan-fallas-de-construccion-en-ipv-de-juarez-celman-20011130/</link>
 				<pubDate>Fri, 30 Nov 2001 00:00:00 -0300</pubDate>
-				<guid>http://localhost:1313/posts/detectan-fallas-de-construccion-en-ipv-de-juarez-celman-20011130/</guid>
+				<guid>https://cminoldo.github.io/posts/detectan-fallas-de-construccion-en-ipv-de-juarez-celman-20011130/</guid>
 				<description>&lt;p&gt;Juárez Celman. Un grupo de vecinos de la localidad de Juárez Celman, del último barrio IPV que fue entregado el 24 de enero de este año, manifestaron que las construcciones padecen serias deficiencias constructivas que se agravan en los períodos de lluvias fuertes. Al parecer, y según los comentarios de vecinos de mayor antigüedad en la zona, las 65 viviendas fueron edificadas sobre una zona de mallines.&lt;/p&gt;&#xA;&lt;p&gt;Juárez Celman. Un grupo de vecinos de la localidad de Juárez Celman, del último barrio IPV que fue entregado el 24 de enero de este año, manifestaron que las construcciones padecen serias deficiencias constructivas que se agravan en los períodos de lluvias fuertes. Al parecer, y según los comentarios de vecinos de mayor antigüedad en la zona, las 65 viviendas fueron edificadas sobre una zona de mallines.&lt;/p&gt;</description>
 			</item>
 	</channel>

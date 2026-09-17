@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Puente on Archivo periodistico - Claudio Minoldo</title>
-		<link>http://localhost:1313/tags/puente/</link>
+		<link>https://cminoldo.github.io/tags/puente/</link>
 		<description>Recent content in Puente on Archivo periodistico - Claudio Minoldo</description>
 		<generator>Hugo</generator>
 		<language>es-AR</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Fri, 10 Aug 2001 00:00:00 -0300</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/tags/puente/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://cminoldo.github.io/tags/puente/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Emotivo festejo del día del niño en San Francisco del Chañar</title>
-				<link>http://localhost:1313/posts/emotivo-festejo-del-dia-del-nino-en-san-francisco-del-chanar-20010810/</link>
+				<link>https://cminoldo.github.io/posts/emotivo-festejo-del-dia-del-nino-en-san-francisco-del-chanar-20010810/</link>
 				<pubDate>Fri, 10 Aug 2001 00:00:00 -0300</pubDate>
-				<guid>http://localhost:1313/posts/emotivo-festejo-del-dia-del-nino-en-san-francisco-del-chanar-20010810/</guid>
+				<guid>https://cminoldo.github.io/posts/emotivo-festejo-del-dia-del-nino-en-san-francisco-del-chanar-20010810/</guid>
 				<description>&lt;p&gt;Un grupo de adultos que permanecen internados en el geriátrico que funciona en el Instituto J.J.Puente de San Francisco del Chañar decidieron homenajear a los niños de la escuelita rural Luis Gorjón Álvarez, ubicado en el paraje El Rodeíto a 25 kilómetros de Chañar. La Fiesta tendrá lugar este domingo desde las 10 hasta pasada la media tarde.&lt;/p&gt;&#xA;&lt;p&gt;Un grupo de adultos que permanecen internados en el geriátrico que funciona en el Instituto J.J.Puente de San Francisco del Chañar decidieron homenajear a los niños de la escuelita rural Luis Gorjón Álvarez, ubicado en el paraje El Rodeíto a 25 kilómetros de Chañar. La Fiesta tendrá lugar este domingo desde las 10 hasta pasada la media tarde.&lt;/p&gt;</description>
 			</item>
 	</channel>

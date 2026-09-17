@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Arfa on Archivo periodistico - Claudio Minoldo</title>
-		<link>http://localhost:1313/tags/arfa/</link>
+		<link>https://cminoldo.github.io/tags/arfa/</link>
 		<description>Recent content in Arfa on Archivo periodistico - Claudio Minoldo</description>
 		<generator>Hugo</generator>
 		<language>es-AR</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Tue, 02 Jun 1998 00:00:00 -0300</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/tags/arfa/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://cminoldo.github.io/tags/arfa/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Campeonato Sudamericano Juvenil de Basquetbol/Segunda fase</title>
-				<link>http://localhost:1313/posts/campeonato-sudamericano-juvenil-de-basquetbol-segunda-fase-19980602/</link>
+				<link>https://cminoldo.github.io/posts/campeonato-sudamericano-juvenil-de-basquetbol-segunda-fase-19980602/</link>
 				<pubDate>Tue, 02 Jun 1998 00:00:00 -0300</pubDate>
-				<guid>http://localhost:1313/posts/campeonato-sudamericano-juvenil-de-basquetbol-segunda-fase-19980602/</guid>
+				<guid>https://cminoldo.github.io/posts/campeonato-sudamericano-juvenil-de-basquetbol-segunda-fase-19980602/</guid>
 				<description>&lt;p&gt;Argentina comienza a desandar&lt;/p&gt;&#xA;&lt;p&gt;Argentina comienza a desandar&lt;/p&gt;&#xA;&lt;p&gt;el camino en búsqueda del título&lt;/p&gt;&#xA;&lt;p&gt;Jesús María. Argentina comenzará a buscar esta noche el camino que lo&#xA;lleve a retener el cetro sudamericano, cuando enfrente esta noche, a&#xA;partir de las 22 horas, a su similar de Venezuela, en uno de los&#xA;encuentros reservados de la segunda fase del 17º Campeonato Sudamericano&#xA;Juvenil de Basquetbol que se juega en el estadio del club Alianza de&#xA;Jesús María.&lt;/p&gt;</description>
 			</item>
 	</channel>

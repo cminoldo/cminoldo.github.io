@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Nov on Archivo periodistico - Claudio Minoldo</title>
-		<link>http://localhost:1313/tags/nov/</link>
+		<link>https://cminoldo.github.io/tags/nov/</link>
 		<description>Recent content in Nov on Archivo periodistico - Claudio Minoldo</description>
 		<generator>Hugo</generator>
 		<language>es-AR</language>
@@ -12,19 +12,19 @@
 		
 			<lastBuildDate>Fri, 29 Nov 1996 00:00:00 -0300</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/tags/nov/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://cminoldo.github.io/tags/nov/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Jesús María</title>
-				<link>http://localhost:1313/posts/jesus-maria-19961129/</link>
+				<link>https://cminoldo.github.io/posts/jesus-maria-19961129/</link>
 				<pubDate>Fri, 29 Nov 1996 00:00:00 -0300</pubDate>
-				<guid>http://localhost:1313/posts/jesus-maria-19961129/</guid>
+				<guid>https://cminoldo.github.io/posts/jesus-maria-19961129/</guid>
 				<description>&lt;p&gt;ENCUENTRO CORAL INFANTO JUVENIL&lt;/p&gt;&#xA;&lt;p&gt;ENCUENTRO CORAL INFANTO JUVENIL&lt;/p&gt;&#xA;&lt;p&gt;La dirección de cultura, recreacióny deporte invita a la comunidad a&#xA;presenciar este importante encuentro coral. El evento cuenta con la&#xA;participación del coro municipal de Villa Carlos Paz, los coros de los&#xA;colegios William Morris de Córdoba y Renacer de Rosario y la presencia&#xA;del coro de niños y jóvenes de la municipalidad de Jesús María. El&#xA;encuentro se llevará a cabo el Sábado 30 de noviembre en el museo&#xA;jesuítico a partir de las 19:00hs y la entrada es libre.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Jesús María</title>
-				<link>http://localhost:1313/posts/jesus-maria-19961125/</link>
+				<link>https://cminoldo.github.io/posts/jesus-maria-19961125/</link>
 				<pubDate>Mon, 25 Nov 1996 00:00:00 -0300</pubDate>
-				<guid>http://localhost:1313/posts/jesus-maria-19961125/</guid>
+				<guid>https://cminoldo.github.io/posts/jesus-maria-19961125/</guid>
 				<description>&lt;p&gt;DEUDAS POR LOTES&lt;/p&gt;&#xA;&lt;p&gt;DEUDAS POR LOTES&lt;/p&gt;&#xA;&lt;p&gt;La Municipalidad de Jesús María y la Cooperativa de Servicios Públicos&#xA;firmaron un convenio por el cual ambas instituciones resuelven el&#xA;problema de las deudas que mantenían entre si. La Municipalidad saldó de&#xA;esta manera los montos adeudados hasta julio de 1995 lográndose una&#xA;rebaja enlos precios de la energia, tanto del alumbrado como de las&#xA;oficinas públicas A cambio, la Cooperativa recibió cincuenta lotes en el&#xA;nuevo loteo de Barrio La Florida.&lt;/p&gt;</description>
 			</item>
 	</channel>

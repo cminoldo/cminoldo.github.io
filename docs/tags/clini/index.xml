@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Clini on Archivo periodistico - Claudio Minoldo</title>
-		<link>http://localhost:1313/tags/clini/</link>
+		<link>https://cminoldo.github.io/tags/clini/</link>
 		<description>Recent content in Clini on Archivo periodistico - Claudio Minoldo</description>
 		<generator>Hugo</generator>
 		<language>es-AR</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Thu, 13 Jul 2000 00:00:00 -0300</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/tags/clini/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://cminoldo.github.io/tags/clini/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Desde ayer, las clínicas de Jesús María, San Isidro, Reina Rosa y Aníbal Viale, y el Sanatorio Caroya de Colonia Caroya acataron la disposición de la Federación Médica de Córdoba por la que se suspendía el recibo de órdenes del Ipam. Las directivas se conocieron a través de la delegación local del C</title>
-				<link>http://localhost:1313/posts/desde-ayer-las-clinicas-de-jesus-maria-san-isidro-reina-rosa-y-anibal-viale-y-el-20000713/</link>
+				<link>https://cminoldo.github.io/posts/desde-ayer-las-clinicas-de-jesus-maria-san-isidro-reina-rosa-y-anibal-viale-y-el-20000713/</link>
 				<pubDate>Thu, 13 Jul 2000 00:00:00 -0300</pubDate>
-				<guid>http://localhost:1313/posts/desde-ayer-las-clinicas-de-jesus-maria-san-isidro-reina-rosa-y-anibal-viale-y-el-20000713/</guid>
+				<guid>https://cminoldo.github.io/posts/desde-ayer-las-clinicas-de-jesus-maria-san-isidro-reina-rosa-y-anibal-viale-y-el-20000713/</guid>
 				<description></description>
 			</item>
 	</channel>
