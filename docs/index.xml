@@ -27745,7 +27745,7 @@
 				<link>https://cminoldo.github.io/buscar/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>https://cminoldo.github.io/buscar/</guid>
-				<description>&lt;link href=&#34;https://cminoldo.github.io/pagefind/pagefind-ui.css&#34; rel=&#34;stylesheet&#34;&gt;&#xD;&#xA;&lt;div id=&#34;search&#34;&gt;&lt;/div&gt;&#xD;&#xA;&lt;script src=&#34;https://cminoldo.github.io/pagefind/pagefind-ui.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;script&gt;&#xD;&#xA;  new PagefindUI({ element: &#34;#search&#34;, showSubResults: true });&#xD;&#xA;&lt;/script&gt;</description>
+				<description>&lt;p&gt;&lt;a href=&#34;https://cminoldo.github.io/&#34;&gt;&lt;img src=&#34;https://cminoldo.github.io/header.png&#34; alt=&#34;Archivo periodístico - Claudio Minoldo&#34; style=&#34;width:100%; display:block; margin-bottom:1rem;&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;link href=&#34;https://cminoldo.github.io/pagefind/pagefind-ui.css&#34; rel=&#34;stylesheet&#34;&gt;&#xD;&#xA;&lt;div id=&#34;search&#34;&gt;&lt;/div&gt;&#xD;&#xA;&lt;script src=&#34;https://cminoldo.github.io/pagefind/pagefind-ui.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;script&gt;&#xD;&#xA;  new PagefindUI({ element: &#34;#search&#34;, showSubResults: true });&#xD;&#xA;&lt;/script&gt;</description>
 			</item>
 	</channel>
 </rss>
