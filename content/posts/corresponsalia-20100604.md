@@ -1,14 +1,14 @@
 ---
-title: "Corresponsalía."
+title: 'Analizan sanciones por tocar y bailar el "Bombón asesino"'
 date: 2010-06-04T00:00:00-03:00
 categories: ["Ciudadanos"]
 tags: ["Jesús María"]
-description: "Jesús María. Un video de cuatro minutos, protagonizado por la banda de música de la Escuela de Suboficiales de Gendarmería de esta ciudad, fue furor en todos los portales de Internet y redes sociales durante la jornada de ayer, desplazando al de los agentes de la Policía Caminera bailando."
+description: "Un video protagonizado por la banda de música de la Escuela de Suboficiales de Gendarmería de esta ciudad, fue furor en todos los portales de Internet y redes sociales durante la jornada de ayer, desplazando al de los agentes de la Policía Caminera bailando."
 ---
 
-Jesús María. Un video de cuatro minutos, protagonizado por la banda de música de la Escuela de Suboficiales de Gendarmería de esta ciudad, fue furor en todos los portales de Internet y redes sociales durante la jornada de ayer, desplazando al de los agentes de la Policía Caminera bailando.
+La gente saludó con entusiasmo la iniciativa de la banda militar. Autoridades dicen que se puede interpretar esa música, pero no acompañarla con el "acting".
 
-Jesús María. Un video de cuatro minutos, protagonizado por la banda de música de la Escuela de Suboficiales de Gendarmería de esta ciudad, fue furor en todos los portales de Internet y redes sociales durante la jornada de ayer, desplazando al de los agentes de la Policía Caminera bailando. 
+**Jesús María**. Un video de cuatro minutos, protagonizado por la banda de música de la Escuela de Suboficiales de Gendarmería de esta ciudad, fue furor en todos los portales de Internet y redes sociales durante la jornada de ayer, desplazando al de los agentes de la Policía Caminera bailando. 
 
 
 El video muestra a los músicos tocando y coreografiando temas populares como Macarena, Thriller, Bombón asesino, y La vida es un carnaval, entre otros. Pero lo realmente curioso fue ver a algunos músicos de la banda bailando sin ningún tapujo, contoneándose con el piso, corriendo a paso de marcha entonando una canción no militar, y haciendo pasitos de baile nada habituales en el repertorio de la agrupación. 
@@ -29,7 +29,7 @@ De hecho, el reglamento para bandas de música de gendarmería no autoriza el �
 “La banda participó en representación de Gendarmería, con uniforme de Gendarmería, en un evento musical militar en el que puede hacer lo que se denomina carrusel, fanfarria o retreta del desierto. Ése es el contexto”, resumió Torres.
 
 
-Podría haber apercibimientos
+**Podría haber apercibimientos**
 
 
 El comandante Torres señaló que están investigando la veracidad del video y comenzando a dialogar con los músicos para esclarecer el contexto de la actuación. Sin embargo, le restó importancia al tema y señaló que, de haber una sanción, sería una administrativa como puede ser un apercibimiento.

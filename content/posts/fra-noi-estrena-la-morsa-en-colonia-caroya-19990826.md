@@ -1,5 +1,5 @@
 ---
-title: "Fra Noi estrena \"la Morsa\" en Colonia Caroya"
+title: 'Fra Noi estrena "la Morsa" en Colonia Caroya'
 date: 1999-08-26T00:00:00-03:00
 categories: ["Regionales"]
 tags: ["Colonia Caroya"]

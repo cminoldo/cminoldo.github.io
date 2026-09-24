@@ -1,10 +1,12 @@
 ---
-title: "El bioquímico y docente Ignacio Aguirre, cordobés del año 2012 de La Voz"
+title: "VIH: referentes del interior piden refuerzo en la prevención para evitar infecciones de transmisión sexual"
 date: 2023-11-30T00:00:00-03:00
 categories: ["Ciudadanos"]
 tags: ["Vih"]
 description: "del Interior, también coincide con la información de que hubo un aumento"
 ---
+
+El bioquímico y docente Ignacio Aguirre, cordobés del año 2012 de La Voz
 
 del Interior, también coincide con la información de que hubo un aumento
 
@@ -15,7 +17,7 @@ hepatitis B y de la sífilis, y tiene una visión que la explica: la
 inacción.
 
 
-Estamos recogiendo los frutos de inacción que venimos teniendo. Hace
+“Estamos recogiendo los frutos de inacción que venimos teniendo. Hace
 
 tres años, el único tema que le importó a mucha gente vinculada con la
 

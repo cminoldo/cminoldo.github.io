@@ -6,12 +6,9 @@ tags: ["Chañar"]
 description: "La primera mujer intendente del norte cordobés"
 ---
 
-La primera mujer intendente del norte cordobés
+Tras ganar las elecciones se convirtió en la primera mujer intendenta del norte cordobés.
 
-La primera mujer intendente del norte cordobés
-
-
-Algún día, la historia que se escriba sobre lo que sucedió a principios de siglo tendrá que contar que Sonia Graimprey fue electa con el 69 por ciento de los votos en San Francisco del Chañar, transformándose con ese resultado en la primera mujer intendente del norte cordobés.
+**Corresponsalía**. Algún día, la historia que se escriba sobre lo que sucedió a principios de siglo tendrá que contar que Sonia Graimprey fue electa con el 69 por ciento de los votos en San Francisco del Chañar, transformándose con ese resultado en la primera mujer intendente del norte cordobés.
 
 
 Hubo, justo es decirlo, otras mujeres que ocuparon el cargo de presidente comunal en el norte provincial pero es la primera vez que una mujer va ocupar el cargo de intendente de San Francisco del Chañar (o Chañar como prefieren llamarlo sus pobladores) hasta el año 2003 en el supuesto caso que después de sus cuatro años de gobierno no tenga aspiraciones de reelección.
@@ -29,7 +26,7 @@ Su marido, Fernando Jara, podría sentir algún tipo de celo por la tarea de su 
 Después de la jornada de trabajo, que nunca termina antes de la hora 14, la esperan en su casa su hija Malena de 16 años y su hijo Santiago de 13, transformados a esta altura en los principales colaboradores ad honorem con los que cuenta junto a su marido Fernando.
 
 
-Mujeres unidas
+**Mujeres unidas**
 
 
 No se trata de una masiva invasión de féminas en el terreno de la política, simplemente se dieron las cosas de modo tal que además de la intendente, otras mujeres ocupan cargos ejecutivos en Chañar como es el caso de la directora del Hospital y de dos Concejales.
@@ -50,7 +47,7 @@ Sin embargo, el interés por los problemas de su gente en Graimprey son absoluta
 "Me golpea mucho -agrega- el tema de la caída de los programas de empleo porque en nuestra zona estamos viviendo una etapa muy dura porque no tenemos fábricas, no tenemos empresas y la parte privada practicamente no existe. Más allá de sus defectos, los programas trabajar constituían una solución para muchas familias de Chañar".
 
 
-Urgencias y propuestas
+**Urgencias y propuestas**
 
 
 En las estadísticas, el departamento Sobremonte tiene un 44% de pobladores con necesidades básicas insatisfechas y en el caso concreto de San Francisco del Chañar los fondos que le llegan por coparticipación no coinciden con los datos de población que manejan a lo que se suma que el municipio tiene algunas acreencias que no logra cobrarlas por el general malestar económico. 
@@ -71,7 +68,7 @@ Para atacar esa migración comenzaron a trabajar desde diciembre en la organizac
 "Se viene una época -sentencia- en la que hay que aunar los esfuerzos porque lo importante del mercado caprino es la posibilidad de colocar la mercadería y traer recursos a nuestra gente. Si el cabrito se vende en Alemania como cabrito de Quilino yo no me sentiría mal sino todo lo contrario porque nuestro productor estaría mejor".
 
 
-El camino de la historia
+**El camino de la historia**
 
 
 La otra parte del proyecto para salvar a Chañar tiene que ver con la explotación del turismo hitórico-cultural, tan de moda en Europa y tan poco explotado en Latinoamérica. En ese contexto ¿Qué tiene San Francisco del Chañar para ofrecer?

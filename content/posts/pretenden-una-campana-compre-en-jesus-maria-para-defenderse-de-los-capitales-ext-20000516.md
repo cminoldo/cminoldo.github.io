@@ -1,5 +1,5 @@
 ---
-title: "Pretenden una campaña \"compre en Jesús María\" para defenderse de los capitales extranjeros"
+title: 'Pretenden una campaña "compre en Jesús María" para defenderse de los capitales extranjeros'
 date: 2000-05-16T00:00:00-03:00
 categories: ["Regionales"]
 tags: ["Jesús María"]

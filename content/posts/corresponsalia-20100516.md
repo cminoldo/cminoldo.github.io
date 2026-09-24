@@ -1,14 +1,14 @@
 ---
-title: "Corresponsalía."
+title: "Gieco abrió los festejos y disparó el debate sobre la inclusión"
 date: 2010-05-16T00:00:00-03:00
 categories: ["Ciudadanos"]
 tags: ["Jesús María"]
-description: "Jesús María. La presencia del espectáculo Mundo Alas en Jesús María a lo largo de la jornada de ayer sirvió para inaugurar un debate sobre la necesidad de generar una ciudad que incluya a todos, que sea más accesible para las personas que tienen alguna discapacidad."
+description: "Mundo Alas sirvió para inaugurar un debate sobre la necesidad de generar una ciudad más accesible para las personas con discapacidad."
 ---
 
-Jesús María. La presencia del espectáculo Mundo Alas en Jesús María a lo largo de la jornada de ayer sirvió para inaugurar un debate sobre la necesidad de generar una ciudad que incluya a todos, que sea más accesible para las personas que tienen alguna discapacidad.
+Jesús María disfrutó el espectáculo de Mundo Alas, donde participan personas con discapacidad
 
-Jesús María. La presencia del espectáculo Mundo Alas en Jesús María a lo largo de la jornada de ayer sirvió para inaugurar un debate sobre la necesidad de generar una ciudad que incluya a todos, que sea más accesible para las personas que tienen alguna discapacidad.
+**Jesús María**. La presencia del espectáculo Mundo Alas en Jesús María a lo largo de la jornada de ayer sirvió para inaugurar un debate sobre la necesidad de generar una ciudad que incluya a todos, que sea más accesible para las personas que tienen alguna discapacidad.
 
 
 Y es que León Gieco, Pancho Chévez, Maxi Lemos, Alejandro Davio, y las parejas de baile compuestas por María Laura Vicenti y Demián Frontera y por Karina Amado y Eduardo Spasaro demostraron sus grandes dotes artísticas y humanas, que trascienden las diferentes discapacidades que tienen. 

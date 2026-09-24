@@ -1,14 +1,15 @@
 ---
-title: "Corresponsalía."
+title: "Productores cortaron la ruta 9 e impidieron circular hacienda y cereales"
 date: 2008-05-28T00:00:00-03:00
 categories: ["Economía"]
 tags: ["Sinsacate"]
-description: "Sinsacate. Desde ayer, en el corte de ruta ubicado en la rotonda de acceso a la localidad, los productores decidieron que no solo no pasaban transportes con cereal sino que tampoco permitieron la circulación de ganado en pie. Anoche, en asamblea se analizaba la posibilidad de impedir también la circulación de harina."
+description: "productores decidieron que no pasen transportes con cereal ni ganado en pie. Analizaban, también, impedir la circulación de harina."
 ---
 
-Sinsacate. Desde ayer, en el corte de ruta ubicado en la rotonda de acceso a la localidad, los productores decidieron que no solo no pasaban transportes con cereal sino que tampoco permitieron la circulación de ganado en pie. Anoche, en asamblea se analizaba la posibilidad de impedir también la circulación de harina.
+Sigue la protesta de productores agropecuarios en contra de la resolución 125
 
-Sinsacate. Desde ayer, en el corte de ruta ubicado en la rotonda de acceso a la localidad, los productores decidieron que no solo no pasaban transportes con cereal sino que tampoco permitieron la circulación de ganado en pie. Anoche, en asamblea se analizaba la posibilidad de impedir también la circulación de harina.
+
+**Sinsacate**. Desde ayer, en el corte de ruta ubicado en la rotonda de acceso a la localidad, los productores decidieron que no solo no pasaban transportes con cereal sino que tampoco permitieron la circulación de ganado en pie. Anoche, en asamblea se analizaba la posibilidad de impedir también la circulación de harina.
 
 
 Para paliar el tremendo frío que hizo ayer, se dispuso agregar una segunda carpa estructural igual a la que instaló la Sociedad Rural de Jesús María y traer más leños para la hoguera permanente que está encendida cerca de ellas. Si el frío seguía arreciando, se analizaba la posibilidad de llevar algún tipo de casilla con mayor confort.

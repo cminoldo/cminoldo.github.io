@@ -1,14 +1,15 @@
 ---
-title: "Corresponsalía."
+title: "A costillas del Chaqueño"
 date: 2010-01-12T00:00:00-03:00
 categories: ["Suplemento Vos"]
 tags: ["Jesús María"]
-description: "Jesús María. Para los músicos que viajan de festival en festival con la intención de hacer carrera, la hospitalidad de un paisano en diferentes latitudes resulta tan imprescindible como valorada. Y en esta zona, la condición de anfitrión incondicional la viene ejerciendo el salteño Luis Offman junto a su familia, desde hace 18 años."
+description: "Para los músicos que viajan de festival en festival, la hospitalidad de un paisano en diferentes latitudes resulta tan imprescindible como valorada. desde hace 18 años, La condición de anfitrión incondicional la ejerce el salteño Luis Offman"
 ---
 
-Jesús María. Para los músicos que viajan de festival en festival con la intención de hacer carrera, la hospitalidad de un paisano en diferentes latitudes resulta tan imprescindible como valorada. Y en esta zona, la condición de anfitrión incondicional la viene ejerciendo el salteño Luis Offman junto a su familia, desde hace 18 años.
+Como cada año, Oscar "el Chaqueño" Palavecino se llegó al campo de los Offman para compartir un asado con un centenar de comensales.
 
-Jesús María. Para los músicos que viajan de festival en festival con la intención de hacer carrera, la hospitalidad de un paisano en diferentes latitudes resulta tan imprescindible como valorada. Y en esta zona, la condición de anfitrión incondicional la viene ejerciendo el salteño Luis Offman junto a su familia, desde hace 18 años.
+
+**Jesús María**. Para los músicos que viajan de festival en festival con la intención de hacer carrera, la hospitalidad de un paisano en diferentes latitudes resulta tan imprescindible como valorada. Y en esta zona, la condición de anfitrión incondicional la viene ejerciendo el salteño Luis Offman junto a su familia, desde hace 18 años.
 
 
 Será por eso que cada año, desde aquella primera vez en 1993, Oscar “el Chaqueño” Palavecino regresa para compartir una comida con esta familia y un centenar de amigos.
@@ -18,6 +19,9 @@ Y ayer no fue la excepción, aunque Palavecino se comportó como el cantor profe
 
 
 Durante el almuerzo, Palavecino relató animadamente los avances que pudo lograr junto a su fundación en su suelo natal donde concretaron desde obras de agua hasta la construcción de viviendas. 
+
+
+**Un menú para todos**
 
 
 Por las mesas, circularon bandejas con carne al “hornito” que cocinaron las expertas manos de Néstor “Quirca” Contessi, un preparado donde carne, chimichurri, vinagre blanco, vino blanco, más algunas especias alcanzan la condición de manjar.
