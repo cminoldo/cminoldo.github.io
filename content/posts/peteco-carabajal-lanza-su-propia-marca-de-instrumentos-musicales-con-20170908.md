@@ -1,12 +1,10 @@
 ---
-title: "Peteco Carabajal lanza su propia marca de instrumentos musicales con"
+title: "Peteco Carabajal lanza su propia marca de instrumentos musicales con socio cordobés"
 date: 2017-09-08T00:00:00-03:00
 categories: ["Varios"]
 tags: ["Colonia Caroya"]
 description: "socio cordobés"
 ---
-
-socio cordobés
 
 Trabajaron casi durante cuatro años en absoluta reserva y sellaron un
 
