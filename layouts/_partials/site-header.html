@@ -20,22 +20,13 @@
   </header>
 {{ else }}
   <header>
-    <div class="pb3-m pb6-l {{ .Site.Params.background_color_class | compare.Default "bg-black" }}">
+    <div class="{{ .Site.Params.background_color_class | compare.Default "bg-black" }}">
       {{ partials.Include "site-navigation.html" . }}
-      {{ $header_section_class := .Param "header_section_class" | compare.Default "tc-l pv3 ph3 ph4-ns" }}
-      <div class="{{ $header_section_class }}">
-        <h1 class="f2 f-subheadline-l fw2 light-silver mb0 lh-title">
-          {{ .Title | compare.Default .Site.Title }}
-        </h1>
-        {{ with .Params.description }}
-          <h2 class="fw1 f5 f3-l white-80 measure-wide-l center lh-copy mt3 mb4">
-            {{ . }}
-          </h2>
-        {{ end }}
-        <div style="margin-top:1rem;">
-          <a href="/buscar/" style="display:inline-block; background:white; color:#111; padding:0.4rem 1.2rem; border-radius:2rem; font-size:0.95rem; text-decoration:none;">🔍 Buscar en el archivo</a>
-        </div>
+      {{ if ne .RelPermalink "/buscar/" }}
+      <div style="text-align:center; padding:0.5rem 0 1rem;">
+        <a href="/buscar/" style="display:inline-block; background:white; color:#111; padding:0.4rem 1.2rem; border-radius:2rem; font-size:0.95rem; text-decoration:none;">🔍 Buscar en el archivo</a>
       </div>
+      {{ end }}
     </div>
   </header>
 {{ end }}
