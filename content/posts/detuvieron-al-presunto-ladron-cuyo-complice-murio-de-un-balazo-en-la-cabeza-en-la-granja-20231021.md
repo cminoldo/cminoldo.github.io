@@ -6,37 +6,8 @@ tags: ["Jesús María"]
 description: "La Fiscalía coordinó cinco allanamientos en Jesús María que concluyeron con un detenido y el secuestro de material probatorio. Los detalles."
 ---
 
-NOTA: Esta es una copia personal de un artículo publicado originalmente en La Voz del Interior (lavoz.com.ar), con la firma de Claudio Minoldo. Los derechos de edición y primera publicación corresponden al diario; el autor conserva la titularidad de su colaboración firmada, conforme al artículo 29 de la Ley 11.723 de Propiedad Intelectual.
-
-Título: Detuvieron al presunto ladrón cuyo cómplice murió de un balazo en la cabeza en La Granja
-Bajada: La Fiscalía coordinó cinco allanamientos en Jesús María que concluyeron con un detenido y el secuestro de material probatorio. Los detalles.
-Fecha de publicación: 2023-10-21T00:01:00-03:00
-Sección: Sucesos
-Localidad sugerida: jesu
-URL original: https://www.lavoz.com.ar/sucesos/detuvieron-al-ladron-que-estaba-profugo-vinculado-con-un-robo-en-sierras-chicas/
-
-------------------------------------------------------------
-
-Diez días más tarde del intento deasalto que terminó con un delincuente abatido y otros dos dándose a la fuga, finalmente la Policía pudo dar con el paradero de uno de los cómplices y le sigue de cerca los pasos al tercer atacante que, probablemente, hacía campana en las afueras del domicilio de Los Molles, La Granja, donde tuvo lugar el hecho.
-
-En la madrugada del domingo 8 de octubre, dos mujeres mayores de edad fueron abordadas por delincuentes que, a punta de pistola, y con violencia les obligaron a entregar una suma de dinero en pesos y dólares, además de otros objetos personales.
-
-Con lo que no contaban los delincuentes era con que una de las mujeres tenía escondida en su casa una pistola semiautomática 9 milímetros con la que efectuó disparos con los que terminó matando a uno de los agresores.
-
-Lavíctima identificada como Carlos Saúl Campos (29)vivía en barrio Sierras y Parque de Jesús María. Campos tenía un frondoso antecedente en el mundo delictivo y había salido de la cárcel hacía poco tiempo.
-
-En su currículum sobresalían robos calificados, hurtos, lesiones agravadas, amenazas calificadas, violación de domicilio, entre otras.
-
+NOTA: Esta es una copia personal de un artículo publicado originalmente en La Voz del Interior (lavoz.com.ar), con la firma de Claudio Minoldo. Los derechos de edición y primera publicación corresponden al diario; el autor conserva la titularidad de su colaboración firmada, conforme al artículo 29 de la Ley 11.723 de Propiedad Intelectual. Título: Detuvieron al presunto ladrón cuyo cómplice murió de un balazo en la cabeza en La Granja Bajada: La Fiscalía coordinó cinco allanamientos en Jesús María que concluyeron con un detenido y el secuestro de material probatorio. Los detalles. Fecha de publicación: 2023-10-21T00:01:00-03:00 Sección: Sucesos Localidad sugerida: jesu URL original: https://www.lavoz.com.ar/sucesos/detuvieron-al-ladron-que-estaba-profugo-vinculado-con-un-robo-en-sierras-chicas/ ------------------------------------------------------------ Diez días más tarde del intento deasalto que terminó con un delincuente abatido y otros dos dándose a la fuga, finalmente la Policía pudo dar con el paradero de uno de los cómplices y le sigue de cerca los pasos al tercer atacante que, probablemente, hacía campana en las afueras del domicilio de Los Molles, La Granja, donde tuvo lugar el hecho. En la madrugada del domingo 8 de octubre, dos mujeres mayores de edad fueron abordadas por delincuentes que, a punta de pistola, y con violencia les obligaron a entregar una suma de dinero en pesos y dólares, además de otros objetos personales. Con lo que no contaban los delincuentes era con que una de las mujeres tenía escondida en su casa una pistola semiautomática 9 milímetros con la que efectuó disparos con los que terminó matando a uno de los agresores. Lavíctima identificada como Carlos Saúl Campos (29)vivía en barrio Sierras y Parque de Jesús María. Campos tenía un frondoso antecedente en el mundo delictivo y había salido de la cárcel hacía poco tiempo. En su currículum sobresalían robos calificados, hurtos, lesiones agravadas, amenazas calificadas, violación de domicilio, entre otras.
 
 == Allanamientos múltiples en Jesús María ==
 
-
-El fiscal instructor de Jesús María, Guillermo Monti, fue el encargado de supervisar los cinco allanamientos que se realizaron este viernes en barrio Sierras y Parque y que concluyeron con la aprensión de otro hombre mayor de edad.
-
-También se secuestró un vehículo y otros elementos de prueba que lo vinculan con el hecho ocurrido en Los Molles. La Fiscalía confirmó que está detrás de un tercer delincuente que se encuentra prófugo, aunque estaría identificado.
-
-El fiscal Monti sigue aguardando el informe completo del área científica de la Policía Judicial para poder seguir avanzando en la reconstrucción completa del hecho.
-
-Respecto de la autora del hecho luctuoso en el que un delincuente fue ultimado, no ha cambiado su situación ni hay indicios de que cambie: permanece en libertad y sin imputación alguna.
-
-Para el fiscal de Jesús María, el caso se sigue encuadrando en la figura de la legítima defensa. Aunque no está imputada, se le hizo una atribución al artículo 80 del Código Procesal Penal para que pueda nombrar defensor, fijar domicilio, y nombrar peritos de parte durante la investigación, si fuese necesario.
+El fiscal instructor de Jesús María, Guillermo Monti, fue el encargado de supervisar los cinco allanamientos que se realizaron este viernes en barrio Sierras y Parque y que concluyeron con la aprensión de otro hombre mayor de edad. También se secuestró un vehículo y otros elementos de prueba que lo vinculan con el hecho ocurrido en Los Molles. La Fiscalía confirmó que está detrás de un tercer delincuente que se encuentra prófugo, aunque estaría identificado. El fiscal Monti sigue aguardando el informe completo del área científica de la Policía Judicial para poder seguir avanzando en la reconstrucción completa del hecho. Respecto de la autora del hecho luctuoso en el que un delincuente fue ultimado, no ha cambiado su situación ni hay indicios de que cambie: permanece en libertad y sin imputación alguna. Para el fiscal de Jesús María, el caso se sigue encuadrando en la figura de la legítima defensa. Aunque no está imputada, se le hizo una atribución al artículo 80 del Código Procesal Penal para que pueda nombrar defensor, fijar domicilio, y nombrar peritos de parte durante la investigación, si fuese necesario.
