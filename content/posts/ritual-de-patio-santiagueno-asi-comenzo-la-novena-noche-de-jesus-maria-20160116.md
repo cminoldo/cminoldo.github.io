@@ -1,0 +1,32 @@
+---
+title: "Ritual de patio santiagueño: así comenzó la novena noche de Jesús María"
+date: 2016-01-16T00:00:00-03:00
+categories: ["VOS"]
+tags: ["Jesús María"]
+description: "Los artistas de Santiago del Estero fueron los protagonistas de la noche de viernes en el Festival de Doma y Folklore. Crónica de los primeros números."
+---
+
+NOTA: Esta es una copia personal de un artículo publicado originalmente en La Voz del Interior (lavoz.com.ar), con la firma de Claudio Minoldo. Los derechos de edición y primera publicación corresponden al diario; el autor conserva la titularidad de su colaboración firmada, conforme al artículo 29 de la Ley 11.723 de Propiedad Intelectual.
+
+Título: Ritual de patio santiagueño: así comenzó la novena noche de Jesús María
+Bajada: Los artistas de Santiago del Estero fueron los protagonistas de la noche de viernes en el Festival de Doma y Folklore. Crónica de los primeros números.
+Fecha de publicación: 2016-01-16T00:00:37-03:00
+Sección: Suplemento Vos
+Localidad sugerida: jesu
+URL original: https://www.lavoz.com.ar/vos/verano/ritual-de-patio-santiagueno-asi-comenzo-la-novena-noche-de-jesus-maria/
+
+------------------------------------------------------------
+
+A poco de haber abierto las boleterías para la novena noche se supo que el Festival de Doma había vendido su entrada 100 mil y un alivio trajinó los rostros de los miembros de la comisión. Es que con 10 mil entradas más se habrá pagado el costo de esta edición y lo demás comenzará a computar como ganancia.
+
+Para alegría del público folklorista, la de este viernes fue una jornada bien santiagueña con Coplanacu, Raly Barrionuevo y El Carabajalazo como principales embajadores. En la previa a la televisión, un hermoso momento hicieron pasar al público Gustavo Chazarreta, Duendes de la Pacha, y Tulma cuando el sol todavía no se había ocultado en el horizonte.
+
+Entre las 19.30 y las 21, toda la acción pasó por el campo de la doma con el campeonato vibrante. En bastos con encimera, se abrió una importante luz de ventaja para el campeón defensor, Néstor Fernández. De seguir así, camino al tricampeonato. En Gurupa surera, el actual campeón Luis Prátula, disputaba el liderazgo con José Martí de San Juan, por segundo día consecutivo y a un punto de diferencia. Y, en Crina Limpia, Cristian Jacobo (Entre Ríos) y Oscar Lucero (Santa Cruz) se sacaban chispas con Luis Barboza (Uruguay) pisándoles los talones.
+
+La apertura de la academia Sentires dio paso a Mario Álvarez Quiroga que tuvo a los Tulma como banda de acompañamiento y con los que despachó una andanada de chacareras. El de Santiago del Estero aprovechó para presentar casi todas canciones nuevas, entre ellas,Santiagueño nomásyLa tribu de la corbata. Cerró con la chacareraLa Juan Saavedra, de su autoría, en homenaje al "bailarín de los montes".
+
+Más tarde llegó El Carabajalazo, o mejor dicho, Musha, Kali, Walter, Roberto, Graciela, Cuti, y Blas Sansierra. Y se levantó el anfiteatro para hacer palmas, bailar, corear hasta el borde de los gritos ese puñado de infaltables del cancionero folklórico. El primer tramo fue acompañado por la marcha de los bombos, 21 bombistas que machacaron la base de las primeras canciones:La Telesita,El corazón de mi tierrayAñoranzas.
+
+Después, se repartieron el escenario en diferentes formaciones. Cuti y Roberto primero, después sumaron a Graciela, y después hubo un tramo para la formación de los Carabajal. Para el final, sumaron a Mario Álvarez Quiroga paraPenas y alegrías del amor,Dejame que me vayayPuente Carretero. Con la ovación, quedó el escenario calentito para lo que vendría. A esa hora, alrededor de las 23, ya habían pasado por las boleterías unas 11 mil personas y el anfiteatro lucía bien repleto.
+
+Un rato antes de la medianoche, subió al escenario el Dúo Coplanacu como para prolongar el ritual de patio santiagueño con ese buen gusto que los caracteriza y que les vale el reconocimiento de la gente y de sus pares. Raly Barrionuevo llegaría alrededor de las dos de la madrugada.

@@ -1,0 +1,44 @@
+---
+title: "En Jesús María 2020, los lunes son sinónimo de Tekis y de carnaval jujeño"
+date: 2020-01-14T00:00:00-03:00
+categories: ["VOS"]
+tags: ["Jesús María"]
+description: "Alrededor de 16 mil personas colmaron el anfiteteatro José Hernández para este nuevo clásico festivalero. Un público mayoritariamente joven bailó, cantó y celebró el carnaval durante toda la noche."
+---
+
+NOTA: Esta es una copia personal de un artículo publicado originalmente en La Voz del Interior (lavoz.com.ar), con la firma de Claudio Minoldo. Los derechos de edición y primera publicación corresponden al diario; el autor conserva la titularidad de su colaboración firmada, conforme al artículo 29 de la Ley 11.723 de Propiedad Intelectual.
+
+Título: En Jesús María 2020, los lunes son sinónimo de Tekis y de carnaval jujeño
+Bajada: Alrededor de 16 mil personas colmaron el anfiteteatro José Hernández para este nuevo clásico festivalero. Un público mayoritariamente joven bailó, cantó y celebró el carnaval durante toda la noche.
+Fecha de publicación: 2020-01-14T03:36:56-03:00
+Sección: Suplemento Vos - Música
+Localidad sugerida: jesu
+URL original: https://www.lavoz.com.ar/vos/musica/en-jesus-maria-2020-los-lunes-son-sinonimo-de-tekis-y-de-carnaval-jujeno/
+
+------------------------------------------------------------
+
+Desde hace 11 años, los lunes del festival de Jesús María son exclusivos del carnaval jujeño y de sus más grandes embajadores: Los Tekis. Por eso, no sorprendió mucho que la cuarta jornada festivalera cumpliera con su cometido de convocar a un público más joven y ansioso de carnavalear y cuartetear, bien entrada la madrugada con La Barra.
+
+Y como el espectáculo principal estaba programado recién para la 1.30 de la madrugada, el público fue llenando paulatinamente el estadio hasta colmarlo por completo un rato después de la medianoche. El último dato informado de entradas vendidas hablaba de más de 15 mil entradas vendidas.
+
+Valga aclarar que, bien temprano, unas cinco mil personas ya habían ganado los lugares de tribunas cerca de los palenques para aprovechar una buena tanda de jineteadas. El campeonato, claro está, viene verde todavía y no habrá pronóstico posible hasta el viernes. El campo de la Doma no acusa por el momento ningún deterioro.
+
+Los campeones defensores del título 2019 se vienen manteniendo en posiciones expectantes para demostrar que ninguno se durmió en los laureles. Falta mucho para adelantar qué va a pasar, pero Rafael Safons, Ignacio Otero Blanco y Emiliano Lalli vienen demostrando que no se colgaron el título porque sí.
+
+Antes de la televisión, la banda Jujeños acercó un grato momento y demostró contar con un amplio repertorio estilístico, además de casi diez músicos en escena.
+
+Cuando el clarín dio por inaugurada la cuarta noche, el estadio mostraba un lleno interesante, mientras el cielo no se decidía si a llover o dar tregua. La humedad y el calor hicieron estragos entre la gente y la brisa no logró disminuir la sensación de sofoco.
+
+Por ventura, la presencia de los Kepianco en el escenario Martín Fierro hizo amena la espera por el fresco y la madrugada. Y unos 700 bailarines ataviados con una paleta de colores gigante le dió a las tribunas un espectáculo maravilloso, mientras la agrupación entregaba lo mejor de sí en el Martín Fierro.
+
+Kepianco se dedicó a disfrutar de sus diez años de trayectoria y de varias presentaciones consecutivas en Jesús María para alternar entre temas propios y un popurrí de carnavalitos nuevos e históricos.
+
+Cerca de la medianoche, el crédito local Jessica Benavídez tuvo sus 20 minutos de estelaridad. La cantora que arrancó a los doce años y que hoy forma parte del elenco de Somos bien argentinos en Carlos Paz, tiene herramientas como para llegar al público y conmoverle. Impresiona su madurez escénica, más allá del poderío y la tonalidad de su voz.
+
+En la cuarta jornada, también fue el debut del entrevero de tropillas, otro clásico de las actividades de campo. Con una yegua madrina intentan agrupar a una tropilla de caballos del mismo pelaje que, previamente, fueron mezclados y separados de “su” madrina. Luce hermoso desde las gradas este espectáculo cuando los más de 150 animales se mezclan y corretean por toda la grama.
+
+La previa del carnaval de Los Tekis la hicieron los Tupachi que dejaron el terreno bien preparado para que se desate una verdadera fiesta. Para esa hora, un rato antes de la una, la organización informaba que habían pagado su entrada más de 12 mil personas.
+
+Con Opuestos, Los Tekis presentaron una segunda versión en este festival de su nuevo espectáculo y celebraron el acompañamiento incondicional que el público le viene haciendo desde hace años, incluso bajo condiciones climáticas adversas como tuvieron otros años. En Jesús María, el público ya se habituó a que los lunes son de carnaval, después de haber quedado huérfanos tras la distancia de Horacio Guarany.
+
+Los de Jujuy se trajeron un repertorio como para no defraudar que combinó tinkus, carnavalitos, y hasta una que otra selección de cumbias que no obvió ningún clásico Carnaval, Y qué pasó, Lágrimas, Vienes y te vas, Poco a poco, Cariñito, y Cómo has hecho. Incluso ya forman parte de ese repertorio temas menos efusivos pero que son coreados con fervor por el público como Hasta el otro carnaval o Tierra mía. Los Tekis, que encabezaron el llamado “folklore joven”, siguen logrando cautivar a un público joven y el secreto está en su música contagiosa, que te hace mover los pies hasta involuntariamente.

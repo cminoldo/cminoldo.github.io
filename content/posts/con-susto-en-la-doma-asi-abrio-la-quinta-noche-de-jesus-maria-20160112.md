@@ -1,0 +1,32 @@
+---
+title: "Con susto en la doma, así abrió la quinta noche de Jesús María"
+date: 2016-01-12T00:00:00-03:00
+categories: ["VOS"]
+tags: ["Jesús María"]
+description: "Los Tekis estaban apuntados para la madrugada, pero la fiesta empezó temprano en el escenario. En la competencia, Darío García fue retirado en ambulancia."
+---
+
+NOTA: Esta es una copia personal de un artículo publicado originalmente en La Voz del Interior (lavoz.com.ar), con la firma de Claudio Minoldo. Los derechos de edición y primera publicación corresponden al diario; el autor conserva la titularidad de su colaboración firmada, conforme al artículo 29 de la Ley 11.723 de Propiedad Intelectual.
+
+Título: Con susto en la doma, así abrió la quinta noche de Jesús María
+Bajada: Los Tekis estaban apuntados para la madrugada, pero la fiesta empezó temprano en el escenario. En la competencia, Darío García fue retirado en ambulancia.
+Fecha de publicación: 2016-01-12T09:17:00-03:00
+Sección: Suplemento Vos
+Localidad sugerida: jesu
+URL original: https://www.lavoz.com.ar/vos/verano/con-susto-en-la-doma-asi-abrio-la-quinta-noche-de-jesus-maria/
+
+------------------------------------------------------------
+
+Con la certeza de que la quinta noche de Jesús María sería una reproducción muy fiel del carnaval norteño, a decir por los números programados para la noche, el Festival decidió comenzar temprano con la actividad en el campo de la doma, tanto que las primeras montas del lunes se realizaron alrededor de las 18.30, apenas un rato después de haber abierto las puertas del estadio.
+
+Esta es la última parte del campeonato en que los punteros pueden especular un poco, en función de cómo les va a sus rivales directos en la puja por la punta del campeonato. No habrá más margen a partir de esta noche y será la combinación de destreza, elegancia, y buenos reservados la que haga la diferencia. Además, había que recuperar las montas de la categoría Bastos con encimera lisa que se suspendieron tras el chaparrón previo a la actuación de Jairo, el domingo. En esa categoría está compitiendo Ramón Córdoba que ya fue campeón cuatro veces pero en Gurupa sureña. “Ramoncito” está jineteando como para campeón.
+
+Lo hizo para la tele encima del Pico Bravo, animal al que le arrancó un container de corcovos y abalanzos. En Gurupa, la mayoría de los que jineteó antes de la televisación (enVOS.com.arse ve completo) lo hizo sin suerte porque el nivel de la caballada fue excelente.
+
+El peor susto se lo llevó en Bastos con encimera Darío García de Río Negro, que quedó enganchado de los estribos del reservado El Fusible y golpeó varias veces con la cabeza en el piso, además de ser pateado por el caballo. Se retiró inconsciente, en ambulancia y con gran celeridad.
+
+A las 21, el clarín desató el carnaval prometido por Memo Vilte, este extraño personaje que llegó a conversar con el papa Francisco y que conjuga las tradiciones gauchas con el carnaval de la Puna y cuyo colorido desata en el público adhesión y celebración.
+
+El campo de la doma se llenó de colores flúo, vivos, naranjas, verdes y amarillos en las vestimentas del centenar de bailarines que bailó e hizo bailar al José Hernández. Una banda “característica” con charango, sikus, quenas, y acordeón fue el acompañamiento para el despliegue.
+
+“Josito” Cafrune se sumó al homenaje a su hermano, el inolvidable y referente de la canción jujeña Jorge Cafrune. El carnaval norteño se prolongaría con Los Queñuas, después de las 22.15 a puro caporal, morenadas y tinkus. El aroma a albahaca ya era parte del decorado y Jesús María esperaba por Los Tekis a la madrugada.

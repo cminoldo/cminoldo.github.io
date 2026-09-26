@@ -1,0 +1,40 @@
+---
+title: "Jesús María: cierre multitudinario y récord histórico"
+date: 2016-01-18T00:00:00-03:00
+categories: ["VOS"]
+tags: ["Jesús María"]
+description: "Cristian Jacobo (Entre Ríos), José Martí (San Juan) y Cruz Ramos (La Pampa) fueron los campeones de la jineteada. La de Los Manseros Santiagueños fue la mejor noche de cierre en la historia del Festival."
+---
+
+NOTA: Esta es una copia personal de un artículo publicado originalmente en La Voz del Interior (lavoz.com.ar), con la firma de Claudio Minoldo. Los derechos de edición y primera publicación corresponden al diario; el autor conserva la titularidad de su colaboración firmada, conforme al artículo 29 de la Ley 11.723 de Propiedad Intelectual.
+
+Título: Jesús María: cierre multitudinario y récord histórico
+Bajada: Cristian Jacobo (Entre Ríos), José Martí (San Juan) y Cruz Ramos (La Pampa) fueron los campeones de la jineteada. La de Los Manseros Santiagueños fue la mejor noche de cierre en la historia del Festival.
+Fecha de publicación: 2016-01-18T08:12:06-03:00
+Sección: Suplemento Vos
+Localidad sugerida: jesu
+URL original: https://www.lavoz.com.ar/vos/verano/jesus-maria-cierre-multitudinario-y-record-historico/
+
+------------------------------------------------------------
+
+Jesús María.Desde hace algunas ediciones, elFestival de Jesús Maríadecidió que el campeonato de jineteada se dispute hasta el último domingo, que el interés por la puja entre jinetes y reservados se mantenga hasta el final y que, de paso, ayude a sostener la convocatoria entre el público. Y en ese clima de final de torneo se desarrolló la jornada dominguera.
+
+Cuando todavía no se habían abierto las puertas, ya había vendidas ocho mil entradas; a las 21, 14 mil; y a las 22.30, 17 mil. Desde fines de la década de 1990 que Jesús María no tenía un cierre tan masivo. Tal vez, sirvió para ratificar queLos Manseros Santiagueñosjuegan en este anfiteatro de locales. Moverlos del segundo sábado al domingo fue un gran acierto porque el público respondió con una asistencia masiva.
+
+Para la apertura televisiva quedó la resolución del campeonato en las tres categorías. Arrancó con Bastos con encimera, donde el actual campeón, Néstor Fernández, necesitaba una buena monta para poder desplazar de la punta al de La Pampa, Cruz Ramos. Atado del palo uno, el reservado La Tera de Piccione, le ayudó a Ramos a concretar una buena faena y quedar pendiente de la resolución del jurado. A Fernández, en tanto, en Pamperito de Enzo Vega tuvo una monta de regular a buena.
+
+Gurupa surera fue la categoría siguiente en el programa y donde la puja estuvo entre el campeón defensor del título, Luis Prátula, y José Martí de San Juan. A Martí le tocó el reservado El Piquetero de Enzo Vega; a Prátula, La tuerca de Daneo. Aunque ninguna de las dos jineteadas fue espectacular quedó flotando la impresión de que Martí había sacado una mínima luz.
+
+La más riesgosa de las categorías, Crina Limpia, quedó para el final. Aquí, el codo a codo se dio entre Cristian Jacobo (Entre Ríos) y Oscar Lucero (Santa Cruz). Lucero a lomo de La Esperanza de Tolosa se mandó una monta con todos los chiches que le valió la ovación del estadio, a esta hora repleto, y desató un festejo propio de los que creen que se ganaron el premio mayor. Pero Jacobo también fue prolijo arriba de El Chasque de Piccione y estiró la espera hasta la medianoche.
+
+Recién cuando el reloj marcó las 23.30, se supo que los campeones de la edición fueron Cristian Jacobo (Crina Limpia), José Martí (Gurupa Surera), y Cruz Ramos (Bastos con Encimera Lisa).
+
+La programación de escenario arrancó con la presentación de Brisas del Norte, revelación en Jesús María en 2015, que presentó el “Caporalazo”, una puesta que sumó a 350 caporales que desplegaron su danza en el campo de la doma y generaron un colorido muy especial.
+
+Sobre el escenario y un rato antes de la medianoche, se entregaron las distinciones a los artistas más relevantes de la edición. El premio consagración fue para Los Trajinantes; el premio revelación, para Emiliano Zerbini.
+
+El jurado decidió, además, entregar una distinción de honor al Dúo Orellana Lucca y una mención de honor para Alma Carpera.
+
+A la medianoche, no se detenía el ingreso de público y la organización diagramó todo para abrir el campo de doma y que la gente esté más cómoda. Todo pasaría, después, por el escenario con Los Manseros Santiagueños, dueños de gran parte de este cierre multitudinario.
+
+Este lunes, el anfiteatro tendrá otro tono. Será la noche de Lali Espósito.

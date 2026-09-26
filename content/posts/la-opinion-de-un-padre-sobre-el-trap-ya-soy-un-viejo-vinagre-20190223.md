@@ -1,0 +1,32 @@
+---
+title: "La opinión de un padre sobre el trap: ¿Ya soy un viejo vinagre?"
+date: 2019-02-23T00:00:00-03:00
+categories: ["VOS"]
+tags: ["Jesús María"]
+description: "El género que atrae a chicos y chicas tiene letras que no estaban pensadas para ser destinadas para ellos. Cómo los padres pueden mediar en ese camino."
+---
+
+NOTA: Esta es una copia personal de un artículo publicado originalmente en La Voz del Interior (lavoz.com.ar), con la firma de Claudio Minoldo. Los derechos de edición y primera publicación corresponden al diario; el autor conserva la titularidad de su colaboración firmada, conforme al artículo 29 de la Ley 11.723 de Propiedad Intelectual.
+
+Título: La opinión de un padre sobre el trap: ¿Ya soy un viejo vinagre?
+Bajada: El género que atrae a chicos y chicas tiene letras que no estaban pensadas para ser destinadas para ellos. Cómo los padres pueden mediar en ese camino.
+Fecha de publicación: 2019-02-23T14:30:11-03:00
+Sección: Suplemento Vos - Música
+Localidad sugerida: (sin detectar — completar a mano)
+URL original: https://www.lavoz.com.ar/vos/musica/la-opinion-de-un-padre-sobre-el-trap-ya-soy-un-viejo-vinagre/
+
+------------------------------------------------------------
+
+Lo bueno de ser parte de una familia numerosa es que las afinidades musicales tienden a ser dispares. A papá le gusta la música clásica; a mamá, la melódica. Mis hermanos varones pendularon entre el blues y el cuarteto, pero matizando todo ese amplio espectro con muchos referentes del rock nacional. Y a mi hermana menor le gusta Luis Miguel.
+
+En nuestros viajes, entonces, no fue raro alternar en el “pasacasete” entre Paloma San Basilio, Paz Martínez, Valeria Lynch, Charly García, Los Abuelos de la Nada, Virus, Soda Stereo, y hasta algún Beethoven dirigido por Von Karajan. Amplitud musical sobró siempre en mi familia y nadie se escandalizó nunca por los gustos musicales del otro.
+
+Pero, con la madurez, llegaron los límites. Mi primera línea expulsiva comenzó con el reggaetón. No me gusta su machaque percusivo repetitivo y me molesta el rol que asignan a la mujer en sus letras. Quizás, tenga que ver con el hecho de que soy padre de dos jóvenes mujeres y en que me empeño todo lo que puedo en acompañar sus luchas antimachistas y antipatriarcales.
+
+El segundo límite comenzó a trazarse con el “trap”. ¿Por qué? Porque les encanta a mis sobrinos más pequeños, se saben muchas de sus letras y no entienden de qué tratan, y accedieron a ellas mucho antes de estar escolarizados.
+
+Esa exaltación de la vida en los márgenes, en el borde, y fuera de la ley –que no es propia del trap sino que atravesó unos cuantos géneros ya– nos genera angustia a quienes no tenemos 20 años ni por asomo aquella rebeldía juvenil. Y nos angustia que muchos niños tengan acceso sin supervisión a contenidos explícitos, inapropiados, y poco formativos. Creo que los padres deberíamos estar más atentos a los consumos de los nuestros.
+
+Los algoritmos de las redes sociales no distinguen “traperos” con contenido ATP de aquellos que cantan alabanzas a la droga, al uso de armas de fuego para delinquir, y que cuentan que en el exceso estuvieron a punto de morir. Ese modo random de las redes sociales puede generar que cualquier contenido llegue a cualquiera, sin distinción de edades.
+
+Muchos adultos nos reconocemos ya como “viejos vinagres” porque queremos que esos ejemplos que hoy vienen desde el “trap” sean tomados por los más chicos como relatos de ficción antes que como modelos para imitar.

@@ -1,0 +1,44 @@
+---
+title: "Rusherking en Jesús María, entre el sueño de cantar con Los Manseros y su alfajor favorito"
+date: 2023-01-17T00:00:00-03:00
+categories: ["VOS"]
+tags: ["Jesús María"]
+description: "El músico habló en conferencia de prensa antes de actuar en el escenario Martín Fierro junto a su banda."
+---
+
+NOTA: Esta es una copia personal de un artículo publicado originalmente en La Voz del Interior (lavoz.com.ar), con la firma de Claudio Minoldo. Los derechos de edición y primera publicación corresponden al diario; el autor conserva la titularidad de su colaboración firmada, conforme al artículo 29 de la Ley 11.723 de Propiedad Intelectual.
+
+Título: Rusherking en Jesús María, entre el sueño de cantar con Los Manseros y su alfajor favorito
+Bajada: El músico habló en conferencia de prensa antes de actuar en el escenario Martín Fierro junto a su banda.
+Fecha de publicación: 2023-01-17T11:44:59-03:00
+Sección: Suplemento Vos - Música
+Localidad sugerida: jesu
+URL original: https://www.lavoz.com.ar/vos/musica/rusherking-en-jesus-maria-entre-el-sueno-de-cantar-con-los-manseros-y-su-alfajor-favorito/
+
+------------------------------------------------------------
+
+En la noche extra del festival de Jesús María,Rusherking fue una de las figuras de la música joven que se presentó en el escenario Martín Fierro. Junto a su banda, el cantante santiagueño confirmó su gran momento de popularidad y se sorprendió por el calor y el amor del público jesusmariense. “Vamos a tener que venir más seguido”, llegó a decir en un momento del concierto.
+
+Minutos antes de subir a cantar, el artista urbano habló en conferencia de prensa y dejó algunos conceptos vinculados a su carrera.
+
+“Estamos muy ansiosos, muy nerviosos. También sé el tipo de festival que es, es muy importante a nivel país así que estoy orgulloso de que me hayan elegido a mí para participar”, dijo respecto a su llegada al festival de Jesús María.
+
+
+== El folklore y Los Manseros Santiagueños ==
+
+
+En ese sentido, al ser consultado por su relación con el folklore, aseguró que hoy en día no es una música que forma parte de su cotidianeidad, aunque sí tiene que ver con sus raíces y su infancia. “Me llevo muy bien. Es un género que respeto muchísimo, si bien hoy en día no lo escucho, pero sí de chiquito”, expresó.
+
+“Yo nací en Santiago del Estero y se escuchaba mucho, en mi familia, en los asados, en donde sea, compartíamos mucho ese tipo de música y lo respeto mucho. Quién sabe, en un futuro, quizás me aventure a hacer folklore”, explicó Rusherking.
+
+En esa misma línea, habló de Los Manseros Santiagueños, histórico grupo oriundo de la misma ciudad que Thomas Tobar, nacido en La Banda (“cuna de poetas y cantores”, como él mismo recordó) en el año 2000. “Para mí como para mi provincia, y creo que para el país, Los Manseros son unos artistas increíbles, reconocidos a nivel internacional, tienen el respeto que se merecen y una trayectoria increíble”, dijo Rusher.
+
+“Hace poquito, enLa peña de Morfi, hice una versión de ellos, deEterno amor. Tuve el honor de hablar con ellos. Y quién sabe, quizás ahora en La Salamanca tocarla con ellos también si se puede”, comentó. Luego, aseguró que la posibilidad de tocar junto al histórico grupo en el tradicional festival santiagueño está hablada y todo indica que sucederá: “Está en mis sueños y en mis planes”.
+
+
+== Un detalle de sabor: el alfajor preferido de Rusherking ==
+
+
+Respecto a sus exigencias en cuanto a camarines y condiciones previas a los shows, el artista aseguró que no tiene demasiados pruritos respecto a lo que tiene que haber a disposición para él y su equipo. No obstante, sorprendió con una revelación que incluyó a un popular alfajor.
+
+“Tampoco es que me pongo muy exigente, no es así, pero sí me gusta mucho llegar y que haya un alfajor que me gusta mucho, que se llama Tatín. Es el más pedorro pero el que más me gusta. Si está eso me pongo muy feliz”, dijo antes de marcar su preferencia por el sabor a chocolate negro.
