@@ -18,6 +18,10 @@
       </div>
     </div>
   </header>
+{{ else if eq .RelPermalink "/" }}
+  {{/* En la portada no mostramos la franja negra de navegación: la
+       imagen de portada (puesta en content/_index.md) cumple esa
+       función y ya funciona como enlace al buscador. */}}
 {{ else }}
   <header>
     <div class="{{ .Site.Params.background_color_class | compare.Default "bg-black" }}">
