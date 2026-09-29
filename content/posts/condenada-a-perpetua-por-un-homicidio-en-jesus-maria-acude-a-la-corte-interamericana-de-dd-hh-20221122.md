@@ -6,12 +6,62 @@ tags: ["Jesús María"]
 description: "Romina Vernola fue condenada por haber mandado a matar a Wanda Navarro (15), en Jesús María. Desde la cárcel dice que es inocente, su abogado recurrió ante el TSJ y ella pide que revisen su causa en el exterior."
 ---
 
-NOTA: Esta es una copia personal de un artículo publicado originalmente en La Voz del Interior (lavoz.com.ar), con la firma de Claudio Minoldo. Los derechos de edición y primera publicación corresponden al diario; el autor conserva la titularidad de su colaboración firmada, conforme al artículo 29 de la Ley 11.723 de Propiedad Intelectual. Título: Condenada a perpetua por un homicidio en Jesús María, acude a la Corte Interamericana de DD.HH. Bajada: Romina Vernola fue condenada por haber mandado a matar a Wanda Navarro (15), en Jesús María. Desde la cárcel dice que es inocente, su abogado recurrió ante el TSJ y ella pide que revisen su causa en el exterior. Fecha de publicación: 2022-11-22T06:55:03-03:00 Sección: Sucesos Localidad sugerida: jesu URL original: https://www.lavoz.com.ar/sucesos/condenada-a-perpetua-por-un-homicidio-acude-ante-la-corte-interamericana-de-ddhh/ ------------------------------------------------------------ El 23 de agosto de 2018 quedó marcado en el almanaque de la ciudad de Jesús María como un día funesto. El brutal asesinato de Wanda Abigaíl Navarro destapó una trama deabusos sexuales, consumo de drogas y ajustes de cuentas. El peritaje forense mostró una saña alevosa con la adolescente de 15 años y toda una comunidad quedó horrorizada. A las pocas horas, los rumores señalaban a tres personas sospechosas: Mario García, Walter Vargas y Claudio Schmidt. En menos de una semana, los tres habían quedado detenidos y acusados del crimen. Sin embargo, a la causa le faltaba el “motivo” que recién aparecería 21 meses más tarde. Fue cuando apareció en escena Romina Vernola (34), quien estaba presa desde fines de 2019 por comercialización de drogas. Vernola fue acusada entonces de haber contratado como sicarios a los tres hombres y haberles prometido recompensa por la muerte de la menor como parte de un mensaje mafioso y un claro “ajuste de cuentas”, según la fiscalía. Y aunque las piezas parecía que encajaban, la recolección del material probatorio marchaba de fracaso en fracaso. No encajaban los ADN, las comunicaciones por teléfono no revelaban contactos entre ellos, ni los peritajes químicos pudieron conectar a los acusados con la víctima el día del crimen. Tampoco había testigos presenciales ni registros de cámaras de video. Las únicas pruebas indiciales fueron relatos de “testigos” que, a su vez, había escuchado relatos de terceros y muchos de los cuales quedaron asentados en la instrucción, pero entraron en contradicción durante el juicio que se celebró en septiembre de 2021. Pese a ello, y contra todos los pronósticos, por unanimidad el jurado popular y los vocales de la Cámara 4ª del Crimen de Córdoba resolvieron condenar a los cuatro acusados a prisión perpetua: 35 años de cumplimiento efectivo.
+NOTA: Esta es una copia personal de un artículo publicado originalmente en La Voz del Interior (lavoz.com.ar), con la firma de Claudio Minoldo. Los derechos de edición y primera publicación corresponden al diario; el autor conserva la titularidad de su colaboración firmada, conforme al artículo 29 de la Ley 11.723 de Propiedad Intelectual.
 
-== Dar pelea en doble frente ==
+El 23 de agosto de 2018 quedó marcado en el almanaque de la ciudad de Jesús María como un día funesto. El brutal asesinato de Wanda Abigaíl Navarro destapó una trama de abusos sexuales , consumo de drogas y ajustes de cuentas. El peritaje forense mostró una saña alevosa con la adolescente de 15 años y toda una comunidad quedó horrorizada.
 
-Vernola, disconforme con el veredicto, decidió apelar su condena en un doble frente. Por una parte, su abogado Carlos Hairabedian interpuso un recurso de casación ante el Tribunal Superior de Justicia de Córdoba. Y, en paralelo, decidió ir más allá y elevar su reclamo a la Comisión de la Corte Interamericana de Derechos humanos junto al estudio de las abogadas Laura Valles y Graciela Arroyo. El expediente con el pedido de revisión ya fue despachado a través de correo argentino, recientemente. “Trabaje 32 años en el poder judicial como funcionaria y he visto muchas causas, pero como esta pocas. Hay un cuadro probatorio de 230 pruebas en las que nada incrimina a mi clienta. Me animo a decir categóricamente que (Romina) tuvo una condena sin pruebas”, señaló Valles. “Para que exista una condena –agregó Valles - tiene que haber certeza y, en caso de duda, rige el principio de inocencia. Acá no se aplicó ninguna de las garantías constitucionales de manera escandalosa y lo digo así porque está documentado en el expediente. Hay 230 pruebas que no dan cuenta ninguna de la participación de Romina Vernola en el crimen espantoso de Wanda Navarro”. Para la abogada, la calidad de las pruebas “indiciarias” también son endebles, ya que se trata de tres testimonios que se contradicen entre sí. Citó los casos de Camila Ojeda, Marcos Torres, y Pablo Casas. Dos de esos testimonios son de exparejas de Romina y uno de ellos tiene antecedentes psiquiátricos y tenía orden de restricción de acercamiento por haber sido violento con la mujer condenada.
+A las pocas horas, los rumores señalaban a tres personas sospechosas: Mario García, Walter Vargas y Claudio Schmidt. En menos de una semana, los tres habían quedado detenidos y acusados del crimen.
 
-== La versión de la condenada ==
+Sin embargo, a la causa le faltaba el “motivo” que recién aparecería 21 meses más tarde.
 
-En comunicación telefónica desde la Cárcel de Mujer en Bouwer, Vernola insistió con su “inocencia”. “Me condenaron sin ninguna prueba contundente. Por eso, estoy pidiendo una revisión de la causa. Quiero se esclarezca este caso porque, al haber sido tan mediático, quedó impune, no se hizo justicia”, dijo. En cada oportunidad que tuvo, Vernola negó haber conocido al resto de los imputados, a la familia de Wanda y a la propia adolescente. En el expediente tampoco hay constancia de algún tipo de vínculo entre ella y los demás. “No tengo ningún tipo de relación con ninguno. No los conocía, ni al padre de Wanda, ni a los chicos que están conmigo en la causa. El hecho de que esté presa por (venta de) droga no quiere decir que haya tenido alguna relación con ellos”. -¿Por qué cree, entonces, que la condenaron? -Creo que me involucraron en esta causa por mis antecedentes por comercialización de drogas, en 2019. Me condenaron a tres años y esa condena terminaba ahora en noviembre. Pero no sé por qué me pusieron allí. La fiscalía no sigue una línea, me parece que hubo testigos plantados. Y hay dos personas, que fueron exparejas, que están totalmente despechadas y que me acusaron de semejante cosa sin tener pruebas, sin ningún argumento. La mujer niega relación con el crimen. “Con el padre de mi hija estábamos relacionados en el ambiente de la droga. Y el otro es una persona con antecedentes psiquiátricos y de suicidio. Me llama la atención que la fiscalía haya valorado esos testimonios como válidos. Es ilógico haberles prestado atención a esos testimonios”, remarcó la mujer de 34 años. Vernola aseguró que está estudiando abogacía en prisión y enfatizó que no hay pruebas en su contra. “No hay nada. ¿Nadie vio eso en un juicio oral de semejante magnitud como lo fue ese? Me cuesta digerirlo”, señaló. Más allá de ello, dijo que mantiene “la esperanza” de que en alguno de los “dos frentes judiciales se le brinde la oportunidad de un nuevo juicio”, aunque sabe que para obtener una respuesta a su demanda tendrá que esperar entre seis meses y dos años.
+Fue cuando apareció en escena Romina Vernola (34), quien estaba presa desde fines de 2019 por comercialización de drogas.
+
+Vernola fue acusada entonces de haber contratado como sicarios a los tres hombres y haberles prometido recompensa por la muerte de la menor como parte de un mensaje mafioso y un claro “ajuste de cuentas”, según la fiscalía.
+
+Y aunque las piezas parecía que encajaban, la recolección del material probatorio marchaba de fracaso en fracaso.
+
+No encajaban los ADN, las comunicaciones por teléfono no revelaban contactos entre ellos, ni los peritajes químicos pudieron conectar a los acusados con la víctima el día del crimen.
+
+Tampoco había testigos presenciales ni registros de cámaras de video.
+
+Las únicas pruebas indiciales fueron relatos de “testigos” que, a su vez, había escuchado relatos de terceros y muchos de los cuales quedaron asentados en la instrucción, pero entraron en contradicción durante el juicio que se celebró en septiembre de 2021.
+
+Pese a ello, y contra todos los pronósticos, por unanimidad el jurado popular y los vocales de la Cámara 4ª del Crimen de Córdoba resolvieron condenar a los cuatro acusados a prisión perpetua: 35 años de cumplimiento efectivo.
+
+## Dar pelea en doble frente
+
+Vernola, disconforme con el veredicto, decidió apelar su condena en un doble frente.
+
+Por una parte, su abogado Carlos Hairabedian interpuso un recurso de casación ante el Tribunal Superior de Justicia de Córdoba.
+
+Y, en paralelo, decidió ir más allá y elevar su reclamo a la Comisión de la Corte Interamericana de Derechos humanos junto al estudio de las abogadas Laura Valles y Graciela Arroyo.
+
+El expediente con el pedido de revisión ya fue despachado a través de correo argentino, recientemente.
+
+“Trabaje 32 años en el poder judicial como funcionaria y he visto muchas causas, pero como esta pocas. Hay un cuadro probatorio de 230 pruebas en las que nada incrimina a mi clienta. Me animo a decir categóricamente que (Romina) tuvo una condena sin pruebas”, señaló Valles.
+
+“Para que exista una condena –agregó Valles - tiene que haber certeza y, en caso de duda, rige el principio de inocencia. Acá no se aplicó ninguna de las garantías constitucionales de manera escandalosa y lo digo así porque está documentado en el expediente. Hay 230 pruebas que no dan cuenta ninguna de la participación de Romina Vernola en el crimen espantoso de Wanda Navarro”.
+
+Para la abogada, la calidad de las pruebas “indiciarias” también son endebles, ya que se trata de tres testimonios que se contradicen entre sí. Citó los casos de Camila Ojeda, Marcos Torres, y Pablo Casas.
+
+Dos de esos testimonios son de exparejas de Romina y uno de ellos tiene antecedentes psiquiátricos y tenía orden de restricción de acercamiento por haber sido violento con la mujer condenada.
+
+## La versión de la condenada
+
+En comunicación telefónica desde la Cárcel de Mujer en Bouwer, Vernola insistió con su “inocencia”.
+
+“Me condenaron sin ninguna prueba contundente. Por eso, estoy pidiendo una revisión de la causa. Quiero se esclarezca este caso porque, al haber sido tan mediático, quedó impune, no se hizo justicia”, dijo.
+
+En cada oportunidad que tuvo, Vernola negó haber conocido al resto de los imputados, a la familia de Wanda y a la propia adolescente. En el expediente tampoco hay constancia de algún tipo de vínculo entre ella y los demás.
+
+“No tengo ningún tipo de relación con ninguno. No los conocía, ni al padre de Wanda, ni a los chicos que están conmigo en la causa. El hecho de que esté presa por (venta de) droga no quiere decir que haya tenido alguna relación con ellos”.
+
+-¿Por qué cree, entonces, que la condenaron?
+
+-Creo que me involucraron en esta causa por mis antecedentes por comercialización de drogas, en 2019. Me condenaron a tres años y esa condena terminaba ahora en noviembre. Pero no sé por qué me pusieron allí. La fiscalía no sigue una línea, me parece que hubo testigos plantados. Y hay dos personas, que fueron exparejas, que están totalmente despechadas y que me acusaron de semejante cosa sin tener pruebas, sin ningún argumento.
+
+La mujer niega relación con el crimen. “Con el padre de mi hija estábamos relacionados en el ambiente de la droga. Y el otro es una persona con antecedentes psiquiátricos y de suicidio. Me llama la atención que la fiscalía haya valorado esos testimonios como válidos. Es ilógico haberles prestado atención a esos testimonios”, remarcó la mujer de 34 años.
+
+Vernola aseguró que está estudiando abogacía en prisión y enfatizó que no hay pruebas en su contra. “No hay nada. ¿Nadie vio eso en un juicio oral de semejante magnitud como lo fue ese? Me cuesta digerirlo”, señaló.
+
+Más allá de ello, dijo que mantiene “la esperanza” de que en alguno de los “dos frentes judiciales se le brinde la oportunidad de un nuevo juicio”, aunque sabe que para obtener una respuesta a su demanda tendrá que esperar entre seis meses y dos años.

@@ -6,20 +6,84 @@ tags: ["Jesús María"]
 description: "En la noche y madrugada del domingo se coronó otra jornada de buena convocatoria. Crónica y fotos."
 ---
 
-NOTA: Esta es una copia personal de un artículo publicado originalmente en La Voz del Interior (lavoz.com.ar), con la firma de Claudio Minoldo. Los derechos de edición y primera publicación corresponden al diario; el autor conserva la titularidad de su colaboración firmada, conforme al artículo 29 de la Ley 11.723 de Propiedad Intelectual. Título: Jesús María 2023: otro estadio lleno en la tercera noche festivalera con Nahuel Pennisi y La Konga Bajada: En la noche y madrugada del domingo se coronó otra jornada de buena convocatoria. Crónica y fotos. Fecha de publicación: 2023-01-09T00:10:40-03:00 Sección: Suplemento Vos - Música Localidad sugerida: jesu URL original: https://www.lavoz.com.ar/vos/musica/jesus-maria-2023-otro-estadio-lleno-en-la-tercera-noche-festivalera-con-nahuel-pennisi-y-la-konga/ ------------------------------------------------------------ Después de dos jornadas con las queel Festival de Jesús María 2023sumó 25 mil espectadores, la del domingo pintaba de temprano para ser otro éxito. Y es que a las 21, la capacidad del estadio estaba en un 70%. Y había promesa de buena música con Nahuel Pennisi, Ahyre, y La Konga, tres expresiones con gran presente y en continuo ascenso. La jornada venía ensombrecida por el lamentable crimen de un adolescente, fuera del estadio durante la madrugada del domingo, pero que le obligó a la ciudad y al Festival a solidarizarse con la familia y a bregar por la rápida detención del o los responsables. Pero después de la arenga de Daniel Fazzi y el clarín, Jesús María estaba dispuesta para dar vuelta la página y seguir su derrotero. Y así llegaría Nahuel Pennisi para el primer momento alto de la noche. El cantante ya tiene en esta fiesta peso propio y específico y año tras año gana en minutos de actuación. Programarlo para el arranque fue otro acierto de la programación. Tras los agradecimientos de rigor al festival por enaltecer la música, Pennisi le dio lugar aUniverso paralelo, uno de los temas que más rotó en 2022 gracias a la versión de La Konga. Y en el tercer tema, interactuó con la Delio Valdez (con la pista y video correspondiente) para su última colaboración,La noche. “Jesús María es un sinónimo de folklore, de música popular, de familias que se encuentran”, enumeró Pennisi antes de cantar la zambaJamásenganchada conAl jardín de la repúblicadonde quedó flotando el recuerdo de Mercedes Sosa. A post shared by La Voz del Interior (@lavozcomar) La fiesta se prolongaría con un popurrí de carnavalitos (El humahuaqueño,Abrojito,La apuesta) y con la gente respondiendo a sus arengas, incluso de los que estaban más lejos del escenario. La banda de acompañamiento sonó ajustada, prolija, y dúctil, todo lo que Nahuel necesitaba mientras ejecutaba su criolla con ese estilo que solo él puede interpretar. Su despedida comenzó con el tinkuMundoque hizo poner de pie a gran parte de las tribunas. Y con el enganchadoCorazón santiagueño/Entre a mí pago sin golpear, Penissi dejó el estadio preparado para la fiesta que prometía la madrugada.
+NOTA: Esta es una copia personal de un artículo publicado originalmente en La Voz del Interior (lavoz.com.ar), con la firma de Claudio Minoldo. Los derechos de edición y primera publicación corresponden al diario; el autor conserva la titularidad de su colaboración firmada, conforme al artículo 29 de la Ley 11.723 de Propiedad Intelectual.
 
-== Palabras de fan ==
+Después de dos jornadas con las que el Festival de Jesús María 2023 sumó 25 mil espectadores, la del domingo pintaba de temprano para ser otro éxito. Y es que a las 21, la capacidad del estadio estaba en un 70%. Y había promesa de buena música con Nahuel Pennisi, Ahyre, y La Konga, tres expresiones con gran presente y en continuo ascenso.
 
-Claro, Nahuel tiene un público fiel. Sus fans se distribuyen por gradas y platea y vienen de todos los rincones del país. Rocío y Martina, dos hermanas de 28 y 22 años de Chubut, Esquel, cuentan que vienen por única noche al Festival y que empezaron a conocer al músico por la viralización deUniverso paralelo. De ahí, lo empezaron a seguir. Por otro lado, Teresita se vino desde Tartagal, Salta. Es su primera vez en Jesús María y eligió esta noche para disfrutar del show de sus coterráneos los Ahyre y de Pennisi. “Soy psicóloga y trabajo con personas con discapacidad. Por eso entendí cuánto le costó a Nahuel conseguir el lugar que tiene. Y desde que lo escuché por primera vez hace años, me emocionó mucho su música y su historia”.
+La jornada venía ensombrecida por el lamentable crimen de un adolescente, fuera del estadio durante la madrugada del domingo, pero que le obligó a la ciudad y al Festival a solidarizarse con la familia y a bregar por la rápida detención del o los responsables.
 
-== Otra noche para el recuerdo ==
+Pero después de la arenga de Daniel Fazzi y el clarín, Jesús María estaba dispuesta para dar vuelta la página y seguir su derrotero.
 
-A la 1.15, se abrieron las puertas del campo para que el público se acerque al escenario y pueda estar más cerca de Ahyre. Comandados por el “Colo” Vasconcelos, la banda volvió a mostrar que tiene argumentos suficientes para ocupar la centralidad que vienen teniendo en este Festival. En los primeros temas, un poquito más de volumen a las voces les hubiese dado otro color porque la instrumentación sonó ajustada. Los Ahyre son la combinación exacta de modernidad y clasicismo. Los juegos de voces rememoran a las grandes bandas de los 60′s, pero los arreglos de los instrumentos son bien siglo XXI. Un sonido entre Los Fronterizos y Coldplay, si vale semejantemashup. La sincronía bajo/batería fue marcando el pulso de una presentación que mantendría al público entusiasmado y moviendo las cabezas rítmicamente. Y Vasconcelos se ensimisma cuando toca sus solos de viola con la zurda. Ya lo dijimos en la edición de 2022: “Si los Ahyre no existieran habría que inventarlos”. La sensación no se disipó un año más tarde. Todo lo contrario. Parecen haber redoblado la apuesta. Y Federico Maldonado logró acomodarse sin complejos ni exigencias como la primera voz de todas las canciones del repertorio. El cover deEl témpanode Adrián Abonizio fue un punto alto de una actuación casi sin fisuras. Lo mismo que la chacareraLa Flor Azulde Mario Arnedo Gallo. Y con Nahuel Penissi como invitado desandaron una versión conmovedora deLa noche sin tí. Apaguen las luces, volvamos mañana. Otra para ponerle un moñito. Especialmente cuando la enganchan conHimno de mi corazónde Los abuelos de la nada.
+Y así llegaría Nahuel Pennisi para el primer momento alto de la noche. El cantante ya tiene en esta fiesta peso propio y específico y año tras año gana en minutos de actuación. Programarlo para el arranque fue otro acierto de la programación.
 
-== Ingreso desde temprano ==
+Tras los agradecimientos de rigor al festival por enaltecer la música, Pennisi le dio lugar a Universo paralelo , uno de los temas que más rotó en 2022 gracias a la versión de La Konga.
 
-En la previa de la transmisión televisiva, una grata sorpresa en lo misional la aportó Lautaro Rojas que subió al escenario un rato antes de las 21. El hijo de Jorge Rojas mostró en su debut en esta fiesta que lleva en los genes el pulso familiar con buen gusto y respaldado por una voz poderosa y aceitada. La tercera jornada festivalera arrancó temprano con la cabalgata por la unión de los pueblos, una caravana que parte desde Colonia Caroya y, bajo la avenida de los centenarios plátanos, se traslada hasta el anfiteatro José Hernández, con cientos de jinetes y sus delegaciones gauchas. Una postal dominguera para enmarcar. El Campeonato Nacional de Jineteada, hasta ahora, no depara muchas sorpresas. Hasta acá, no hubo que lamentar contusos ni lesionados. Pero los cuerpos empiezan a sentir el rigor de las jornadas, de la ola de calor que no afloja, y del cansancio propio del que tiene que jinetear 10 noches si quiere aspirar a premio.
+Y en el tercer tema, interactuó con la Delio Valdez (con la pista y video correspondiente) para su última colaboración, La noche .
 
-== Una gran fiesta cuartetera de cierre ==
+“Jesús María es un sinónimo de folklore, de música popular, de familias que se encuentran”, enumeró Pennisi antes de cantar la zamba Jamás enganchada con Al jardín de la república donde quedó flotando el recuerdo de Mercedes Sosa.
 
-La Konga repitió su paso por Jesús María en este 2023. Hastas las 3 se contabilizaron 14,243 tickets cortados que hicieron temblar el Anfiteatro al ritmo de la banda de Villa Dolores. Si hitazos comoTe mentiríaoLa cabañallevan al público a un punto máximo de goce, no se quedan atrás otros con menor nivel de viralización pero igual eficacia cuartetera comoAunque estés con él,Cinco minutos,Volverás a mi cama, que remarcan que la banda es mucho más que clicks y bombazo de éxito reciente. Los músicos también tienen su justo protagonismo, como una de las ventistas o el violero que dio inicio aUniverso Paralelocon un solo bien rockero pero impregnado de la dulzura intrínseca del hermoso tema. Y, claro, Nahuel Pennisi se subió al escenario por tercera vez en la noche para cantar con sus amigos de La Konga. También estuvieron presentes en el repertorio las colaboraciones con Rusherking (Olvídate) y Sergio Dalma (El mundo), colaboraciones firma de la banda, frescas, que dan otra vida a las canciones y a las que nadie es inmune ya sea una u otra. Los cordobeses se despidieron con dos de sus temas más recientes y conocidos:El mismo aireyTe mentiría. ¡Qué manera de cerrar el fin de semana en Jesús María!
+A post shared by La Voz del Interior (@lavozcomar)
+
+La fiesta se prolongaría con un popurrí de carnavalitos ( El humahuaqueño , Abrojito , La apuesta ) y con la gente respondiendo a sus arengas, incluso de los que estaban más lejos del escenario.
+
+La banda de acompañamiento sonó ajustada, prolija, y dúctil, todo lo que Nahuel necesitaba mientras ejecutaba su criolla con ese estilo que solo él puede interpretar.
+
+Su despedida comenzó con el tinku Mundo que hizo poner de pie a gran parte de las tribunas.
+
+Y con el enganchado Corazón santiagueño/Entre a mí pago sin golpear , Penissi dejó el estadio preparado para la fiesta que prometía la madrugada.
+
+## Palabras de fan
+
+Claro, Nahuel tiene un público fiel. Sus fans se distribuyen por gradas y platea y vienen de todos los rincones del país.
+
+Rocío y Martina, dos hermanas de 28 y 22 años de Chubut, Esquel, cuentan que vienen por única noche al Festival y que empezaron a conocer al músico por la viralización de Universo paralelo . De ahí, lo empezaron a seguir.
+
+Por otro lado, Teresita se vino desde Tartagal, Salta. Es su primera vez en Jesús María y eligió esta noche para disfrutar del show de sus coterráneos los Ahyre y de Pennisi. “Soy psicóloga y trabajo con personas con discapacidad. Por eso entendí cuánto le costó a Nahuel conseguir el lugar que tiene. Y desde que lo escuché por primera vez hace años, me emocionó mucho su música y su historia”.
+
+## Otra noche para el recuerdo
+
+A la 1.15, se abrieron las puertas del campo para que el público se acerque al escenario y pueda estar más cerca de Ahyre.
+
+Comandados por el “Colo” Vasconcelos, la banda volvió a mostrar que tiene argumentos suficientes para ocupar la centralidad que vienen teniendo en este Festival.
+
+En los primeros temas, un poquito más de volumen a las voces les hubiese dado otro color porque la instrumentación sonó ajustada.
+
+Los Ahyre son la combinación exacta de modernidad y clasicismo. Los juegos de voces rememoran a las grandes bandas de los 60′s, pero los arreglos de los instrumentos son bien siglo XXI.
+
+Un sonido entre Los Fronterizos y Coldplay, si vale semejante mashup .
+
+La sincronía bajo/batería fue marcando el pulso de una presentación que mantendría al público entusiasmado y moviendo las cabezas rítmicamente.
+
+Y Vasconcelos se ensimisma cuando toca sus solos de viola con la zurda.
+
+Ya lo dijimos en la edición de 2022: “Si los Ahyre no existieran habría que inventarlos”. La sensación no se disipó un año más tarde. Todo lo contrario. Parecen haber redoblado la apuesta.
+
+Y Federico Maldonado logró acomodarse sin complejos ni exigencias como la primera voz de todas las canciones del repertorio.
+
+El cover de El témpano de Adrián Abonizio fue un punto alto de una actuación casi sin fisuras. Lo mismo que la chacarera La Flor Azul de Mario Arnedo Gallo.
+
+Y con Nahuel Penissi como invitado desandaron una versión conmovedora de La noche sin tí . Apaguen las luces, volvamos mañana. Otra para ponerle un moñito. Especialmente cuando la enganchan con Himno de mi corazón de Los abuelos de la nada.
+
+## Ingreso desde temprano
+
+En la previa de la transmisión televisiva, una grata sorpresa en lo misional la aportó Lautaro Rojas que subió al escenario un rato antes de las 21.
+
+El hijo de Jorge Rojas mostró en su debut en esta fiesta que lleva en los genes el pulso familiar con buen gusto y respaldado por una voz poderosa y aceitada.
+
+La tercera jornada festivalera arrancó temprano con la cabalgata por la unión de los pueblos, una caravana que parte desde Colonia Caroya y, bajo la avenida de los centenarios plátanos, se traslada hasta el anfiteatro José Hernández, con cientos de jinetes y sus delegaciones gauchas. Una postal dominguera para enmarcar.
+
+El Campeonato Nacional de Jineteada, hasta ahora, no depara muchas sorpresas. Hasta acá, no hubo que lamentar contusos ni lesionados. Pero los cuerpos empiezan a sentir el rigor de las jornadas, de la ola de calor que no afloja, y del cansancio propio del que tiene que jinetear 10 noches si quiere aspirar a premio.
+
+## Una gran fiesta cuartetera de cierre
+
+La Konga repitió su paso por Jesús María en este 2023. Hastas las 3 se contabilizaron 14,243 tickets cortados que hicieron temblar el Anfiteatro al ritmo de la banda de Villa Dolores.
+
+Si hitazos como Te mentiría o La cabaña llevan al público a un punto máximo de goce, no se quedan atrás otros con menor nivel de viralización pero igual eficacia cuartetera como Aunque estés con él , Cinco minutos , Volverás a mi cama , que remarcan que la banda es mucho más que clicks y bombazo de éxito reciente.
+
+Los músicos también tienen su justo protagonismo, como una de las ventistas o el violero que dio inicio a Universo Paralelo con un solo bien rockero pero impregnado de la dulzura intrínseca del hermoso tema. Y, claro, Nahuel Pennisi se subió al escenario por tercera vez en la noche para cantar con sus amigos de La Konga.
+
+También estuvieron presentes en el repertorio las colaboraciones con Rusherking ( Olvídate ) y Sergio Dalma ( El mundo ), colaboraciones firma de la banda, frescas, que dan otra vida a las canciones y a las que nadie es inmune ya sea una u otra.
+
+Los cordobeses se despidieron con dos de sus temas más recientes y conocidos: El mismo aire y Te mentiría .
+
+¡Qué manera de cerrar el fin de semana en Jesús María!
