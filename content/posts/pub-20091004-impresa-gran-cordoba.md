@@ -1,0 +1,38 @@
+---
+title: "Impresa | Gran Córdoba"
+date: 2009-10-04T00:00:00-03:00
+categories: ["Sin sección"]
+tipo: "publicado"
+origen: "web"
+description: "Colonia Caroya. Los jóvenes caroyenses de Ducj Insieme organizan la tradicional carrera de  chanchos con varios meses de anticipación. La fiesta, con"
+---
+
+Colonia Caroya. Los jóvenes caroyenses de Ducj Insieme organizan la tradicional carrera de
+
+chanchos con varios meses de anticipación. La fiesta, con entrada gratuita, es en el Museo
+
+Casa Copetti, sobre calle Santina Canale (calle 60), 590 metros al norte de Avenida San
+
+Martín. Desde su ingreso por Ruta 9 o por Ruta A-174, habrá carteles indicativos.
+
+Hoy desde el mediodía el sexto encuentro tendrá lugar sea como sea. Después de haber
+
+soportado el pasado domingo una sensación térmica de dos grados y vientos de 50
+
+kilómetros por hora, creen que nada podrá ser peor que ese escenario.
+
+Como novedad de último momento, habrá nueve corredoras de chanchos, tras la queja de
+
+género respecto de que la carrera no respetaba la legislación vigente en cuanto al cupo
+
+femenino. En el mismo encuentro, se elegirá la Reina Nacional del Chancho.
+
+A las 19, cuando llegue el baile, el grupo cuartetero local Contacto presentará oficialmente
+
+el tema de la carrera, que narra las desventuras de un puerquito que no se corrió por irse
+
+http://www.lavoz.com.ar/nota.asp?nota_id=556291
+
+© 2000 - 2008 Todos los derechos reservados
+
+http://www.lavoz.com.ar/herramientas/imprimir_nota.asp?nota_id...
