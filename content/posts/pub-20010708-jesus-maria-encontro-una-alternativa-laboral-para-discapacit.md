@@ -4,6 +4,69 @@ date: 2001-07-08T00:00:00-03:00
 categories: ["Regionales"]
 tipo: "publicado"
 origen: "web"
-description: "Jesús María encontró una alternativa laboral para discapacitados"
+description: "fabricación de trapos de piso, salida para grandes y chicos.  por parte de la comunidad, la Dirección de Cultura y la  Dirección de Calidad de Vida de"
 ---
 
+fabricación de trapos de piso, salida para grandes y chicos.
+
+por parte de la comunidad, la Dirección de Cultura y la
+
+Dirección de Calidad de Vida de Jesús María vienen trabajando
+
+en el proyecto de integración Corazón Solidario, dirigido a
+
+como objetivo la promoción laboral de discapacitados a través
+
+del desarrollo de un microemprendimiento para la fabricación
+
+una máquina manual para la elaboración de rejillas y trapos de
+
+piso y, recientemente, recibió en donación una segunda
+
+maquina, además de lograr un buen acuerdo para la compra de
+
+Como contraparte al aporte comunal, un grupo
+
+de personas con capacidades diferentes —que participan de
+
+otros talleres municipales— aprendieron el oficio de
+
+“traperos” con gran entusiasmo y con un ritmo de trabajo
+
+Pero, para garantizar la continuidad y el
+
+éxito del trabajo, las autoridades comunales comprometieron a
+
+vecinos, empresarios y comerciantes de la zona para que
+
+oficien de padrinos y adquieran cierta cantidad de las
+
+manufacturas en forma mensual y, a su vez, cooperen en la
+
+tiempo, las instituciones que abordan la problemática de la
+
+discapacidad, tales como el Centro Integral de Rehabilitación
+
+al Discapacitado (Cid) y el Instituto Niño Jesús de Colonia
+
+Caroya vienen observando que la mayor falencia de los trabajos
+
+se da cuando hay que lograr la inserción en el mercado laboral
+
+de las personas con capacidades diferentes. En la mayoría de
+
+los casos, jóvenes y adultos aprenden con sacrificio un oficio
+
+o un arte que después no pueden aplicar en el circuito laboral
+
+del programa dependerá de la oferta y la demanda de los
+
+productos, de su calidad y del precio (ya salieron a la venta
+
+300 trapos de piso de excelente calidad a un peso y 1,50
+
+En este emprendimiento, están cifradas las
+
+esperanzas de muchos jóvenes, de sus familiares y de un grupo
+
+activo de docentes y vecinos que confían en la continuidad del

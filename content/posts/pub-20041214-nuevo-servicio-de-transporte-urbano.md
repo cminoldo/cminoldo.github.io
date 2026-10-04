@@ -4,6 +4,61 @@ date: 2004-12-14T00:00:00-03:00
 categories: ["Gran Córdoba"]
 tipo: "publicado"
 origen: "web"
-description: "Nuevo servicio de transporte urbano"
+description: "Ultimo Momento | Titulares | Foros | Contáctenos  Córdoba, Argentina, Martes 14 de diciembre  J esús María. A un año exacto desde que asumió  como int"
 ---
 
+Ultimo Momento | Titulares | Foros | Contáctenos
+
+Córdoba, Argentina, Martes 14 de diciembre
+
+J esús María. A un año exacto desde que asumió
+
+como intendente Marcelino Gatica, el municipio de Jesús María
+
+pudo resolver uno de los problemas más acuciantes que tenía la
+
+ciudad: el transporte urbano de pasajeros. Ayer por la mañana
+
+se puso en marcha el nuevo servicio con un viaje inaugural con
+
+autoridades y vecinos por el casco céntrico.
+
+municipio celebró un convenio con la empresa Transporte Jesús
+
+María, propiedad del operador local Henry Chiachiera, en el
+
+que se establecen algunas condiciones, entre ellas, que los
+
+coches tengan 16 frecuencias diarias en cada uno de los tres
+
+corredores, que funcionarán desde las 6.20 hasta las 20, con
+
+realizará el trayecto que une barrio Los Nogales con 17 de
+
+octubre; el corredor 2, desde el barrio Sierras y Parque hasta
+
+Sinsacate; y el corredor 3, entre Jesús María y Colonia
+
+Chiachiera invirtió cerca de 380 mil pesos en
+
+las tres unidades Mercedes Benz que prestarán, por el momento,
+
+el servicio, además de los trámites y arreglos que tuvo que
+
+hacer para comenzar en regla. El propietario de la empresa
+
+realizó un acuerdo por el que habrá un solo chofer por unidad,
+
+que cumplirá 12 horas de trabajo, para que el salario sea
+
+de transporte se produjo ante las quejas generalizadas de los
+
+vecinos, aunque se adelantó la fecha de comienzo de las
+
+actividades que, originalmente, estaban previstas desde el
+
+primero de enero de 2005. Hasta marzo, las expectativas de la
+
+nueva firma son moderadas porque ya finalizaron las clases y
+
+todavía no cuenta con el subsidio al precio del gasoil ni para

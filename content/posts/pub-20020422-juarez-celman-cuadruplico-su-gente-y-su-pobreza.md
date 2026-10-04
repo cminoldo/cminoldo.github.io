@@ -4,6 +4,99 @@ date: 2002-04-22T00:00:00-03:00
 categories: ["Regionales"]
 tipo: "publicado"
 origen: "web"
-description: "Juárez Celman cuadruplicó su gente y su pobreza"
+description: "distancia de la Capital, Juárez Celman cuadruplicó su  población desde principios de los ‘90. Pero las menores  exigencias edilicias, la posibilidad d"
 ---
 
+distancia de la Capital, Juárez Celman cuadruplicó su
+
+población desde principios de los ‘90. Pero las menores
+
+exigencias edilicias, la posibilidad de comprar lotes a
+
+valores accesibles, y la expulsión de habitantes desde la
+
+Capital hacia el interior también llevaron a Juárez Celman
+
+Almirante Brown (conocido como “el Fachinal”) y Costa Canal
+
+15, se le suma la realidad de Villa Los Llanos, donde se ha
+
+producido el mayor aumento poblacional, acompañado por un
+
+altísimo índice de desocupación y dificultades habitacionales.
+
+En los tres sectores mencionados, viven más de cuatro mil
+
+Sólo en la zona conocida como Juárez Celman y
+
+barrio Norte los problemas de desocupación y habitación son
+
+según el intendente José Antonio Prunotto, es que ha llegado a
+
+la localidad mucha gente desocupada o subocupada que produjo
+
+un incremento en la prestación de los servicios públicos, por
+
+ejemplo en el área salud, donde el municipio atendían 50
+
+pacientes diarios hace unos años y hoy llega a un promedio de
+
+140 por día a los que, además, hay que darle los
+
+A la crítica situación poblacional, hay que
+
+agregarle dos datos no menos importantes: por un lado, el
+
+municipio recibe coparticipación por cinco mil habitantes y un
+
+30 por ciento menos desde diciembre de 2001. Por otro, la
+
+recaudación de tasas municipales, de por sí baja, cayó un 40
+
+por ciento desde fines del año pasado. La actualización en la
+
+coparticipación le significaría al municipio al menos unos 25
+
+mil pesos más que le solucionarían las dificultades que
+
+municipales, la caída en el parque automotor, propiedad y
+
+servicio de agua potable le significaron un 50 por ciento
+
+tener las calles en mejores condiciones pero cómo se hace en
+
+un sector que tiene dos mil lotes, 800 familias y casi 30
+
+kilómetros de recorrido. Solamente se podría hacer si se
+
+achica el gasto en salud pero es algo que ni remotamente se
+
+puede pensar”, señala Prunotto para graficar la dificultad que
+
+en una o dos habitaciones llegan a vivir una o más familias
+
+numerosas que no aportan al municipio y que le exigen
+
+alimentos, medicamentos y trámites de registro civil, entre
+
+localidad 2.700 personas. En el censo provincial del ‘95, la
+
+cifra trepó a 6.400 y los datos preliminares del último censo
+
+nacional indican que el año pasado la población superaba los
+
+del último censo sigue habiendo radicaciones. Por caso, en
+
+Villa Los Llanos, hay más de 50 viviendas en construcción en
+
+Capital hace que prácticamente no funcionen los comercios en
+
+la localidad. Un remise desde Juárez Celman cobra cinco pesos
+
+ida y vuelta hasta cualquier hipermercado y puede ser
+
+compartido hasta por cuatro jefas de familia.
+
+esto, los pocos recursos que podrían quedar en Juárez Celman,
+
+se esfuman rápidamente hacia la ciudad de Córdoba, mientras

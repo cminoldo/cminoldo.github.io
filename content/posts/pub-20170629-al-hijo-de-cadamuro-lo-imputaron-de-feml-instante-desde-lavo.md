@@ -1,9 +1,9 @@
 ---
-title: "Al hijo de Cadamuro lo imputaron de fem...l instante desde LAVOZ.com.ar | La Voz"
+title: "Al hijo de Cadamuro lo imputaron de fem...l instante desde LAVOZ.com.ar"
 date: 2017-06-29T00:00:00-03:00
 categories: ["Sin sección"]
 tipo: "publicado"
 origen: "web"
-description: "Al hijo de Cadamuro lo imputaron de fem...l instante desde LAVOZ.com.ar | La Voz"
+description: "Al hijo de Cadamuro lo imputaron de fem...l instante desde LAVOZ.com.ar"
 ---
 

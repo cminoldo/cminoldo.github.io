@@ -4,6 +4,59 @@ date: 2004-11-15T00:00:00-03:00
 categories: ["Gran Córdoba"]
 tipo: "publicado"
 origen: "web"
-description: "Preocupación por la movida nocturna"
+description: "Ultimo Momento | Titulares | Foros | Contáctenos  Córdoba, Argentina, Lunes 15 de noviembre  J esús María. Un grupo de padres se entrevistó con  el in"
 ---
 
+Ultimo Momento | Titulares | Foros | Contáctenos
+
+Córdoba, Argentina, Lunes 15 de noviembre
+
+J esús María. Un grupo de padres se entrevistó con
+
+el intendente Marcelino Gatica y le planteó su preocupación
+
+por la falta de control y de límites en los boliches, sobre
+
+todo por la excesiva ingesta de alcohol por parte de los
+
+Además, le entregaron un petitorio firmado por
+
+unos 300 adultos. Durante la reunión le solicitaron que se
+
+hagan cumplir todos y cada uno de los artículos de las
+
+ordenanzas que regulan los espectáculos públicos y que se
+
+controle el horario de cierre tanto de los boliches bailables
+
+que se instrumenten controles de alcoholemia todos los
+
+viernes, sábados y domingos, y que sumen a los padres a esta
+
+separan a Jesús María de Sinsacate y Colonia Caroya –donde
+
+existen otros tres boliches– los padres autoconvocados
+
+solicitaron que se implementen programas de prevención y
+
+control en forma conjunta que deriven en una normativa única
+
+que se involucre en esta iniciativa a las instituciones
+
+intermedias y a los colegios, y que se forme una comisión de
+
+padres para apoyo y monitoreo de los trabajos que se
+
+petitorio se generó a raíz de conocerse que durante los fines
+
+de semana muchos jóvenes se divierten haciendo “picadas” en
+
+los autos, que consumen y adquieren sin restricción de ningún
+
+tipo, bebidas alcohólicas y también drogas
+
+comprometió a trabajar con seriedad frente a la problemática y
+
+se alegró por la preocupación que manifestaron los padres
+
+frente a la situación de descontrol que están viviendo muchos

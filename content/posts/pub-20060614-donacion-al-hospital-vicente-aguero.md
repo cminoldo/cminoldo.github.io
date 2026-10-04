@@ -4,6 +4,11 @@ date: 2006-06-14T00:00:00-03:00
 categories: ["Regionales"]
 tipo: "publicado"
 origen: "web"
-description: "Donación al Hospital Vicente Agüero"
+description: "Ultimo Momento | Títulos | Contáctenos | Clasificados  Córdoba, Argentina, Miércoles 14 de junio  img src=\"/imgNew/eterno_divisiones_iz.gif\""
 ---
 
+Ultimo Momento | Títulos | Contáctenos | Clasificados
+
+Córdoba, Argentina, Miércoles 14 de junio
+
+img src="/imgNew/eterno_divisiones_iz.gif"

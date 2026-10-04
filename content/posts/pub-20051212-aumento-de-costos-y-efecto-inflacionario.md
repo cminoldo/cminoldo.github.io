@@ -4,6 +4,39 @@ date: 2005-12-12T00:00:00-03:00
 categories: ["Regionales"]
 tipo: "publicado"
 origen: "web"
-description: "Aumento de costos y efecto inflacionario"
+description: "Córdoba, Argentina, Lunes 12 de diciembre  R ío Cuarto. Los aumentos aún no fueron aprobados.  Se planea una sobretasa de 10% sobre el impuesto automo"
 ---
 
+Córdoba, Argentina, Lunes 12 de diciembre
+
+R ío Cuarto. Los aumentos aún no fueron aprobados.
+
+Se planea una sobretasa de 10% sobre el impuesto automotor.
+
+También aumentos en las alícuotas de los tributos que gravan a
+
+revaluaciones y recategorizaciones del impuesto inmobiliario.
+
+Sube 25% la tarifa de agua y 100% la contribución de
+
+rubros, como desmalezamiento de terrenos privados o alquiler
+
+de maquinaria vial. La ordenanza tarifaria aún está en
+
+estudio, pero hay rumores de nuevas subas. Hasta octubre
+
+pasado, el municipio no lograba encaminar su caja y gastaba
+
+se aprestan a sancionar una suba de 20% en las tasas a la
+
+propiedad. Los aranceles y otros tributos, como la licencia de
+
+no contaría con los votos para aprobar los aumentos. La
+
+intención es subir 10% todas las tasas. El proyecto oficial
+
+pauta tarifaria indexada, con un cálculo de inflación de
+
+Bell Ville. Se aplicará un adicional de 20% en las
+
+Aumentos de 30% en las tasas sobre inmuebles y agua potable y

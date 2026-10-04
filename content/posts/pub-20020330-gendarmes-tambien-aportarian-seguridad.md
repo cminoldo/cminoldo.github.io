@@ -4,6 +4,65 @@ date: 2002-03-30T00:00:00-03:00
 categories: ["Regionales"]
 tipo: "publicado"
 origen: "web"
-description: "Gendarmes también aportarían seguridad"
+description: "María. Los intendentes de Jesús María, Colonia Caroya y  Sinsacate participaron de una reunión con las autoridades de  Gendarmería Nacional y la Polic"
 ---
 
+María. Los intendentes de Jesús María, Colonia Caroya y
+
+Sinsacate participaron de una reunión con las autoridades de
+
+Gendarmería Nacional y la Policía local para darle forma a un
+
+convenio de cooperación entre ambas fuerzas con el objetivo de
+
+mejorar, aún más, la seguridad de la zona.
+
+pasado, las jurisdicciones de las fuerzas de seguridad estaban
+
+bien definidas pero la firma de un convenio entre la Provincia
+
+y la Gendarmería le posibilitó a esta última ampliar sus
+
+facultades policiales en el territorio provincial.
+
+obstante, la firma de un convenio particular está sujeta a la
+
+aprobación de la plana mayor de la Policía cuya estructura es
+
+mucho más verticalista que la de Gendarmería. Además, el
+
+incremento de actividad en materia policial por parte de
+
+Gendarmería está sujeta a la aprobación de la Dirección
+
+General y a que los municipios asuman el costo de ese
+
+servicio, es decir, el pago a los hombres que patrullarían la
+
+ciudad y el combustible de los vehículos.
+
+la cooperación entre ambas fuerzas tiene larga data pero los
+
+celos por el tema de la seguridad ciudadana siempre concluyó
+
+en algún tipo de cuestionamiento respecto de la jurisdicción.
+
+Hasta el momento, Gendarmería se ocupaba de los delitos
+
+federales en rutas federales, mientras que la Policía se ocupa
+
+jefe de la región 3 de Gendarmería Nacional, Mario Rodríguez,
+
+supeditó todo tipo de convenio a que la jefatura provincial de
+
+la Policía esté de acuerdo con el trabajo conjunto.
+
+su parte, los jefes comunales se encargarán de tramitar ante
+
+la Provincia la firma del convenio en el menor plazo posible
+
+ya que consideraron que la decisión es más política que
+
+institucional, si se tiene en cuenta que la policía depende
+
+directamente del gobernador José Manuel de la Sota.

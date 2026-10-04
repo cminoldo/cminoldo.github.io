@@ -1,9 +1,9 @@
 ---
-title: "Descartan agroquímicos en el agua de Ca...l instante desde LAVOZ.com.ar | La Voz"
+title: "Descartan agroquímicos en el agua de Ca...l instante desde LAVOZ.com.ar"
 date: 2017-07-25T00:00:00-03:00
 categories: ["Sin sección"]
 tipo: "publicado"
 origen: "web"
-description: "Descartan agroquímicos en el agua de Ca...l instante desde LAVOZ.com.ar | La Voz"
+description: "Descartan agroquímicos en el agua de Ca...l instante desde LAVOZ.com.ar"
 ---
 

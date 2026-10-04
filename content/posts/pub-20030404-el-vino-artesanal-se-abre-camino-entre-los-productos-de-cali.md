@@ -4,6 +4,109 @@ date: 2003-04-04T00:00:00-03:00
 categories: ["Regionales"]
 tipo: "publicado"
 origen: "web"
-description: "El vino artesanal se abre camino entre los productos de calidad"
+description: "de Colonia Caroya incorporaron en los últimos años nuevas  artesanal se abre camino entre los productos de  M endoza. En el corazón del departamento d"
 ---
 
+de Colonia Caroya incorporaron en los últimos años nuevas
+
+artesanal se abre camino entre los productos de
+
+M endoza. En el corazón del departamento de Maipú
+
+tuvo lugar el Primer Encuentro Nacional de Elaboradores de
+
+Vino Casero, promovido por el Instituto Nacional de
+
+Vitivinicultura (INV) y que contó con la presencia de 66
+
+productores de distintas regiones del país. La jornada se
+
+concretó en las instalaciones de la antigua Bodega Giol,
+
+fallida empresa que en algún momento llegó a envasar 250
+
+subgerente del INV, señaló la intención del Instituto de
+
+asistir e incorporar al productor casero a la familia
+
+vitivinícola. La misma idea fue corroborada por el director
+
+nacional del INV, ingeniero Enrique Thomas.
+
+propósito es acompañar al productor artesanal para que mejore
+
+la calidad y, por ese motivo, el organismo dictó una
+
+resolución que incorpora a este segmento al contexto
+
+vitivinícola, lo asesora, le facilita los análisis, y le
+
+productores de garaje o de sótano advirtieron, gracias a esta
+
+resolución, que los tiempos de la marginalidad van quedando
+
+atrás y que se ha generado un espacio de intercambio y de
+
+Silvestri, Jorge Uanino y Jorge Brandalessi fueron los
+
+representantes de la provincia de Córdoba que concurrieron a
+
+’90, más de 50 productores de Colonia Caroya aceptaron el
+
+desafío de la reconversión vitivinícola y sembraron unas 25
+
+hectáreas con las nueve variedades que se importaron desde el
+
+material didáctico que se distribuyó entre los asistentes al
+
+encuentro mendocino, la presencia de la Reina Nacional de la
+
+Vendimia, Anabel Molina, y de las degustaciones, la exposición
+
+del reconocido enólogo Ángel Mendoza nutrió los apuntes de los
+
+productores. “Verlos a ustedes es como ver a pequeños
+
+Pulentitas”, bromeó tras recordar los comienzos de don Antonio
+
+Pulenta con unas pocas barricas en San Juan, un
+
+microemprendimiento que culminó con la faraónica bodega
+
+Peñaflor, de la que Mendoza fue su enólogo más
+
+deben perseguir los productores caseros con la consigna de que
+
+cierto estatus en las clases altas del mundo y ese boom del
+
+mercado hay que comprenderlo porque la cantidad ya no es el
+
+objetivo fundamental, sino la calidad. El vino tiene que ser
+
+rico para que invite a una segunda copa. Si el vino no pide
+
+consigna es desarrollar “un vinito fácil y rápido, pero
+
+agradable porque el mercado tiene nichos para los productores
+
+artesanales”. Por ello, y para elaborar una bebida seductora
+
+es preciso que los productores acompañen el proceso con
+
+conocimiento, bibliografía, y un laboratorio enológico.
+
+Recalcó también que el vino no puede ser un producto
+
+agrio y de aspecto turbio, ni puede tener el “picor” del
+
+Haciendo honor a un apellido emparentado con
+
+el vino, Mendoza deja una definición para tener en cuenta: “Es
+
+un hobby que a veces se escapa de las manos. En este negocio
+
+hay que comprender que la cantidad debe ser limitada pero la
+
+delegación cordobesa del INV hay sólo siete bodegas
+
+inscriptas. La mayoría está ubicad
