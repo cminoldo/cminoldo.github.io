@@ -4,7 +4,7 @@ date: 2007-05-08T00:00:00-03:00
 categories: ["Política"]
 tipo: "publicado"
 origen: "web"
-description: "Impresa | Politica CBA | MAR 8 MAY | 08:09  Aumentaremos la prestación de servicios  El actual intendente de Jesús María se apoya en su gestión para"
+description: "Impresa | Politica CBA | MAR 8 MAY | 08:09  Aumentaremos la prestación de servicios  El actual intendente de Jesús María se apoya en su gestión para"
 ---
 
 Impresa | Politica CBA | MAR 8 MAY | 08:09

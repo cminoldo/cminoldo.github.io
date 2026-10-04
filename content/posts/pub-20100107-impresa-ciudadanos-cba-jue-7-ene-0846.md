@@ -1,0 +1,62 @@
+---
+title: "Impresa | Ciudadanos CBA | JUE 7 ENE | 08:46"
+date: 2010-01-07T00:00:00-03:00
+categories: ["Sin sección"]
+tipo: "publicado"
+origen: "web"
+description: "Impresa | Ciudadanos CBA | JUE 7 ENE | 08:46  Dos jinetes y músicos de Chubut viajaron 53 días montados en sus yeguas / Tenían la ilusión de actuar, p"
+---
+
+Impresa | Ciudadanos
+CBA | JUE 7 ENE | 08:46
+
+Dos jinetes y músicos de Chubut viajaron 53 días montados en sus yeguas /
+Tenían la ilusión de actuar, pero lo harán en la próxima edición / Igual,
+cumplieron un sueño.
+
+Jesús María. Entre la localidad de 28 de julio (Chubut) y Jesús María hay casi 1.600
+kilómetros de distancia. Y ese fue, precisamente, el recorrido que hicieron a lo largo de 53
+días Darío Zamarreño y Facundo Evans, integrantes del conjunto folklórico La Herradura.
+Claro que no tendría nada de extraña la travesía si no se menciona que recorrieron ese
+largo trecho en 53 días y montados sobre Chirusa y Esperanza, dos yeguas de la raza Criolla
+patagónica.
+
+Jesús María representaba para estos jóvenes de 30 y 22 años, respectivamente, la
+posibilidad de presentarse ante el numeroso público que acompaña al Festival de Doma y
+Folklore y que amplifica para todo el país la trasmisión televisiva.
+
+Venían con la esperanza de poder mostrar el folklore de fusión que cultivan desde hace dos
+años y en el que mezclan zambas, con loncomeo, y chacareras, pero un desencuentro con
+el área de contrataciones del festival los dejó sin posibilidades de subirse al escenario
+Martín Fierro. Y emprendieron la vuelta a sus pagos con la promesa de volver en la edición
+de 2011.
+
+Sin embargo, los músicos tuvieron la posibilidad de ingresar con las yeguas al campo de la
+jineteada y de entregar a la comisión directiva una de las herraduras con la que se hizo la
+travesía, que pasó a engrosar la nómina de objetos que alberga el museo con el que cuenta
+la fiesta gaucha.
+
+Hugo Baldo, presidente del Festival, se disculpó personalmente por no poderlos incorporar a
+la grilla de esta edición, que comienza mañana, pero reconoció el tremendo esfuerzo que
+hicieron para estar en Jesús María.
+
+Más allá de la decepción, los músicos rescataron la experiencia vivida: “Ha sido inolvidable
+y una ilusión que sentimos concretada cuando llegamos a Jesús María. Desde el día que
+salimos de nuestro pueblito, cuando la gente se convocó a despedirnos y fue muy emotivo,
+no pararon más las emociones”, sintetizó Zamarreño.
+
+Evans completó la impresión sobre la travesía: “Desde muy chiquitos venimos mirando el
+festival por Canal Siete y elegimos venir hasta el festival por las raíces, por la tradición, y
+para poder revivir lo que han hecho otros grandes como Cafrune, Atahualpa. También para
+enviarle un mensaje a la juventud sobre lo que uno puede hacer cuando cree en lo que
+hace”.
+
+http://www.lavoz.com.ar/nota.asp?nota_id=581320
+
+© 2000 - 2008 Todos los derechos reservados
+
+LAVOZ.com.ar
+http://www.lavoz.com.ar/herramientas/imprimir_nota.asp?nota_id=581320
+
+LAVOZ.com.ar
+http://www.lavoz.com.ar/herramientas/imprimir_nota.asp?nota_id=581320

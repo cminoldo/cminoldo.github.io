@@ -4,7 +4,7 @@ date: 2007-12-27T00:00:00-03:00
 categories: ["Gran Córdoba"]
 tipo: "publicado"
 origen: "web"
-description: "Impresa | Gran Córdoba CBA | JUE 27 DIC |  Jesús María. La Escuela de Suboficiales de Gendarmería Cabo Raúl Remberto  Cuello, con asiento en la ciud"
+description: "Impresa | Gran Córdoba CBA | JUE 27 DIC |  Jesús María. La Escuela de Suboficiales de Gendarmería Cabo Raúl Remberto  Cuello, con asiento en la ciud"
 ---
 
 Impresa | Gran Córdoba CBA | JUE 27 DIC |

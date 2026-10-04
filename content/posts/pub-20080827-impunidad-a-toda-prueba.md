@@ -4,7 +4,7 @@ date: 2008-08-27T00:00:00-03:00
 categories: ["Sucesos"]
 tipo: "publicado"
 origen: "web"
-description: "Dame la plata, si no te mato, fue la amenaza que lanzó uno  de los asaltantes. Le disparó desde tres metros de distancia.  Un hombre de 47 años, vec"
+description: "Dame la plata, si no te mato, fue la amenaza que lanzó uno  de los asaltantes. Le disparó desde tres metros de distancia.  Un hombre de 47 años, vec"
 ---
 
 Dame la plata, si no te mato, fue la amenaza que lanzó uno

@@ -4,7 +4,7 @@ date: 2008-12-20T00:00:00-03:00
 categories: ["Política"]
 tipo: "publicado"
 origen: "web"
-description: "Balnearia. Los hechos denunciados no configuran ningún delito, sostuvo la  fiscal de Morteros, Bettina Croppi, al explicar por qué decidió archivar"
+description: "Balnearia. Los hechos denunciados no configuran ningún delito, sostuvo la  fiscal de Morteros, Bettina Croppi, al explicar por qué decidió archivar"
 ---
 
 Balnearia. Los hechos denunciados no configuran ningún delito, sostuvo la

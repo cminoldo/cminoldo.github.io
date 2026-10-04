@@ -4,7 +4,7 @@ date: 2008-11-30T00:00:00-03:00
 categories: ["Economía"]
 tipo: "publicado"
 origen: "web"
-description: "Impresa | Suplemento Economía CBA | DOM 30 NOV |  Samsonite trae sus exclusivos a Córdoba. Grúas San Blas busca  socios en el interior. Apex proyect"
+description: "Impresa | Suplemento Economía CBA | DOM 30 NOV |  Samsonite trae sus exclusivos a Córdoba. Grúas San Blas busca  socios en el interior. Apex proyect"
 ---
 
 Impresa | Suplemento Economía CBA | DOM 30 NOV |

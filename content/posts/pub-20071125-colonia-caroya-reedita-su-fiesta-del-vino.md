@@ -4,7 +4,7 @@ date: 2007-11-25T00:00:00-03:00
 categories: ["Gran Córdoba"]
 tipo: "publicado"
 origen: "web"
-description: "Impresa | Gran Córdoba CBA | DOM 25 NOV |  Colonia Caroya reedita su Fiesta del Vino  Colonia Caroya. A partir del mediodía de hoy se suspende si llu"
+description: "Impresa | Gran Córdoba CBA | DOM 25 NOV |  Colonia Caroya reedita su Fiesta del Vino  Colonia Caroya. A partir del mediodía de hoy se suspende si llu"
 ---
 
 Impresa | Gran Córdoba CBA | DOM 25 NOV |

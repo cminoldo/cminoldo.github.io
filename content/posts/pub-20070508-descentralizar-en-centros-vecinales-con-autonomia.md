@@ -4,7 +4,7 @@ date: 2007-05-08T00:00:00-03:00
 categories: ["Política"]
 tipo: "publicado"
 origen: "web"
-description: "Impresa | Politica CBA | MAR 8 MAY | 08:08  Descentralizar en centros vecinales, con autonomía  La candidata del Partido Humanista, Esther Bertolott"
+description: "Impresa | Politica CBA | MAR 8 MAY | 08:08  Descentralizar en centros vecinales, con autonomía  La candidata del Partido Humanista, Esther Bertolott"
 ---
 
 Impresa | Politica CBA | MAR 8 MAY | 08:08

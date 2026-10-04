@@ -4,7 +4,7 @@ date: 2008-09-27T00:00:00-03:00
 categories: ["Gran Córdoba"]
 tipo: "publicado"
 origen: "web"
-description: "Impresa | Gran Córdoba CBA | SAB 27 SET |  Colonia Caroya. Mañana desde las 12 se realizará en el predio de la Casa  Copetti museo de la friulanidad"
+description: "Impresa | Gran Córdoba CBA | SAB 27 SET |  Colonia Caroya. Mañana desde las 12 se realizará en el predio de la Casa  Copetti museo de la friulanidad"
 ---
 
 Impresa | Gran Córdoba CBA | SAB 27 SET |

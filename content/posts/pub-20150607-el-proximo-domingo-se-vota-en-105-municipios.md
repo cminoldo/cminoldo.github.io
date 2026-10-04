@@ -4,6 +4,21 @@ date: 2015-06-07T00:00:00-03:00
 categories: ["Sin sección"]
 tipo: "publicado"
 origen: "web"
-description: "El próximo domingo se vota en 105 municipios"
+description: "Urnas. En siete días, el 25 por ciento de los municipios elegirá autoridades locales (LaVoz/Archivo)  El próximo domingo se vota en 105 municipios | L"
 ---
 
+Urnas. En siete días, el 25 por ciento de los municipios elegirá autoridades locales (LaVoz/Archivo)
+
+El próximo domingo se vota en 105 municipios | La Voz del Interior
+http://www.lavoz.com.ar/politica/el-proximo-domingo-se-vota-en-105-m...
+
+El próximo domingo se vota en 105 municipios | La Voz del Interior
+http://www.lavoz.com.ar/politica/el-proximo-domingo-se-vota-en-105-m...
+
+Elecciones 2015 Intendente Localidades Campaña 2015
+
+El próximo domingo se vota en 105 municipios | La Voz del Interior
+http://www.lavoz.com.ar/politica/el-proximo-domingo-se-vota-en-105-m...
+
+El próximo domingo se vota en 105 municipios | La Voz del Interior
+http://www.lavoz.com.ar/politica/el-proximo-domingo-se-vota-en-105-m...

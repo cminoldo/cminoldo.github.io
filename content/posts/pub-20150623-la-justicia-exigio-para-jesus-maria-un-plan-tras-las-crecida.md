@@ -4,6 +4,18 @@ date: 2015-06-23T00:00:00-03:00
 categories: ["Sin sección"]
 tipo: "publicado"
 origen: "web"
-description: "La Justicia exigió para Jesús María un plan tras las crecidas"
+description: "Jesús María. El río, con sus costas erosionadas, sigue mostrando hoy las secuelas de las crecidas (LaVoz)  La Justicia exigió para Jesús María un plan"
 ---
 
+Jesús María. El río, con sus costas erosionadas, sigue mostrando hoy las secuelas de las crecidas (LaVoz)
+
+La Justicia exigió para Jesús María un plan tras las crecidas | La Voz de...
+http://www.lavoz.com.ar/regionales/la-justicia-exigio-para-jesus-maria...
+
+Recurso de amparo Crecida Río Justicia plan Obras vecinos
+
+La Justicia exigió para Jesús María un plan tras las crecidas | La Voz de...
+http://www.lavoz.com.ar/regionales/la-justicia-exigio-para-jesus-maria...
+
+La Justicia exigió para Jesús María un plan tras las crecidas | La Voz de...
+http://www.lavoz.com.ar/regionales/la-justicia-exigio-para-jesus-maria...

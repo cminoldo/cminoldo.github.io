@@ -4,7 +4,7 @@ date: 2008-10-03T00:00:00-03:00
 categories: ["Sociedad"]
 tipo: "publicado"
 origen: "web"
-description: "Jesús María. Los alumnos del Ipem 294 de esta ciudad estarán sin clases hasta  el lunes o martes próximo debido a que el edificio escolar está tomado"
+description: "Jesús María. Los alumnos del Ipem 294 de esta ciudad estarán sin clases hasta  el lunes o martes próximo debido a que el edificio escolar está tomado"
 ---
 
 Jesús María. Los alumnos del Ipem 294 de esta ciudad estarán sin clases hasta

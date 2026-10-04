@@ -4,7 +4,7 @@ date: 2007-09-10T00:00:00-03:00
 categories: ["Sociedad"]
 tipo: "publicado"
 origen: "web"
-description: "Impresa | Sociedad CBA | LUN 10 SET | 14:38  Colonia Caroya. El equipo técnico del Consejo de Familia de Colonia Caroya  expondrá sobre el tema Famil"
+description: "Impresa | Sociedad CBA | LUN 10 SET | 14:38  Colonia Caroya. El equipo técnico del Consejo de Familia de Colonia Caroya  expondrá sobre el tema Famil"
 ---
 
 Impresa | Sociedad CBA | LUN 10 SET | 14:38

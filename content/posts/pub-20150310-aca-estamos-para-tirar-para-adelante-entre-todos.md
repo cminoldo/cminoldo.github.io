@@ -4,6 +4,16 @@ date: 2015-03-10T00:00:00-03:00
 categories: ["Sin sección"]
 tipo: "publicado"
 origen: "web"
-description: "“Acá estamos, para tirar para adelante entre todos”"
+description: "Rafael Di Marco (derecha), papá de Mariana, junto a Atilio Carignano, durante el acto en la plaza Pío León (LaVoz)  “Acá estamos, para tirar para adel"
 ---
 
+Rafael Di Marco (derecha), papá de Mariana, junto a Atilio Carignano, durante el acto en la plaza Pío León (LaVoz)
+
+“Acá estamos, para tirar para adelante entre todos” | La Voz del Interior
+http://www.lavoz.com.ar/ciudadanos/aca-estamos-para-tirar-para-adelant...
+
+“Acá estamos, para tirar para adelante entre todos” | La Voz del Interior
+http://www.lavoz.com.ar/ciudadanos/aca-estamos-para-tirar-para-adelant...
+
+“Acá estamos, para tirar para adelante entre todos” | La Voz del Interior
+http://www.lavoz.com.ar/ciudadanos/aca-estamos-para-tirar-para-adelant...

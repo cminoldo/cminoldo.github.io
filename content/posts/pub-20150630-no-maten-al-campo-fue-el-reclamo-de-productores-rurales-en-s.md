@@ -1,9 +1,19 @@
 ---
-title: "\"No maten al campo\", fue el reclamo de productores rurales en Sinsacate"
+title: "\"No maten al campo\", fue el reclamo de productores rurales en Sinsacat... http://www.lavoz.com.ar/la-voz-del-campo/no-maten-al-campo-fue-el-"
 date: 2015-06-30T00:00:00-03:00
 categories: ["Sin sección"]
 tipo: "publicado"
 origen: "web"
-description: "\"No maten al campo\", fue el reclamo de productores rurales en Sinsacate"
+description: "\"No maten al campo\", fue el reclamo de productores rurales en Sinsacat... http://www.lavoz.com.ar/la-voz-del-campo/no-maten-al-campo-fue-el-...  Prote"
 ---
 
+"No maten al campo", fue el reclamo de productores rurales en Sinsacat...
+http://www.lavoz.com.ar/la-voz-del-campo/no-maten-al-campo-fue-el-...
+
+Protesta productores Sinsacate Política nacional Sinsacate
+
+"No maten al campo", fue el reclamo de productores rurales en Sinsacat...
+http://www.lavoz.com.ar/la-voz-del-campo/no-maten-al-campo-fue-el-...
+
+"No maten al campo", fue el reclamo de productores rurales en Sinsacat...
+http://www.lavoz.com.ar/la-voz-del-campo/no-maten-al-campo-fue-el-...

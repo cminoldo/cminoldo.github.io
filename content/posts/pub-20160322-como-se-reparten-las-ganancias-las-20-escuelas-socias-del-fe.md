@@ -1,9 +1,24 @@
 ---
-title: "Cómo se reparten las ganancias las 20 escuelas socias del festival de Jesús María"
+title: "Cómo se reparten las ganancias las 20 escuelas socias del festival de Je... http://www.lavoz.com.ar/regionales/como-se-reparten-las-ganancias-la"
 date: 2016-03-22T00:00:00-03:00
 categories: ["Sin sección"]
 tipo: "publicado"
 origen: "web"
-description: "Cómo se reparten las ganancias las 20 escuelas socias del festival de Jesús María"
+description: "Una. La escuela Gendarmería Nacional incorporó el último año equipos de frío/calor en cada aula (LaVoz)  Cómo se reparten las ganancias las 20 escuela"
 ---
 
+Una. La escuela Gendarmería Nacional incorporó el último año equipos de frío/calor en cada aula (LaVoz)
+
+Cómo se reparten las ganancias las 20 escuelas socias del festival de Je...
+http://www.lavoz.com.ar/regionales/como-se-reparten-las-ganancias-la...
+
+Festival Ganancias escuela Jesús María Cosquín
+
+Cómo se reparten las ganancias las 20 escuelas socias del festival de Je...
+http://www.lavoz.com.ar/regionales/como-se-reparten-las-ganancias-la...
+
+Cómo se reparten las ganancias las 20 escuelas socias del festival de Je...
+http://www.lavoz.com.ar/regionales/como-se-reparten-las-ganancias-la...
+
+Cómo se reparten las ganancias las 20 escuelas socias del festival de Je...
+http://www.lavoz.com.ar/regionales/como-se-reparten-las-ganancias-la...
